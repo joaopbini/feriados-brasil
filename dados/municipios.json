@@ -1,0 +1,1997 @@
+[
+  {
+    "nome": "Abatiá",
+    "nomeNormalizado": "ABATIA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Adrianópolis",
+    "nomeNormalizado": "ADRIANOPOLIS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Agudos do Sul",
+    "nomeNormalizado": "AGUDOS DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Almirante Tamandaré",
+    "nomeNormalizado": "ALMIRANTE TAMANDARE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Altamira do Paraná",
+    "nomeNormalizado": "ALTAMIRA DO PARANA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Alto Paraíso",
+    "nomeNormalizado": "ALTO PARAISO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Alto Paraná",
+    "nomeNormalizado": "ALTO PARANA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Alto Piquiri",
+    "nomeNormalizado": "ALTO PIQUIRI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Altônia",
+    "nomeNormalizado": "ALTONIA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Alvorada do Sul",
+    "nomeNormalizado": "ALVORADA DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Amaporã",
+    "nomeNormalizado": "AMAPORA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ampére",
+    "nomeNormalizado": "AMPERE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Anahy",
+    "nomeNormalizado": "ANAHY",
+    "uf": "PR"
+  },
+  {
+    "nome": "Andirá",
+    "nomeNormalizado": "ANDIRA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ângulo",
+    "nomeNormalizado": "ANGULO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Antonina",
+    "nomeNormalizado": "ANTONINA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Antônio Olinto",
+    "nomeNormalizado": "ANTONIO OLINTO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Apucarana",
+    "nomeNormalizado": "APUCARANA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Arapongas",
+    "nomeNormalizado": "ARAPONGAS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Arapoti",
+    "nomeNormalizado": "ARAPOTI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Arapuã",
+    "nomeNormalizado": "ARAPUA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Araruna",
+    "nomeNormalizado": "ARARUNA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Araucária",
+    "nomeNormalizado": "ARAUCARIA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ariranha do Ivaí",
+    "nomeNormalizado": "ARIRANHA DO IVAI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Assaí",
+    "nomeNormalizado": "ASSAI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Assis Chateaubriand",
+    "nomeNormalizado": "ASSIS CHATEAUBRIAND",
+    "uf": "PR"
+  },
+  {
+    "nome": "Astorga",
+    "nomeNormalizado": "ASTORGA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Atalaia",
+    "nomeNormalizado": "ATALAIA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Balsa Nova",
+    "nomeNormalizado": "BALSA NOVA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Bandeirantes",
+    "nomeNormalizado": "BANDEIRANTES",
+    "uf": "PR"
+  },
+  {
+    "nome": "Barbosa Ferraz",
+    "nomeNormalizado": "BARBOSA FERRAZ",
+    "uf": "PR"
+  },
+  {
+    "nome": "Barra do Jacaré",
+    "nomeNormalizado": "BARRA DO JACARE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Barracão",
+    "nomeNormalizado": "BARRACAO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Bela Vista da Caroba",
+    "nomeNormalizado": "BELA VISTA DA CAROBA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Bela Vista do Paraíso",
+    "nomeNormalizado": "BELA VISTA DO PARAISO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Bituruna",
+    "nomeNormalizado": "BITURUNA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Boa Esperança",
+    "nomeNormalizado": "BOA ESPERANCA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Boa Esperança do Iguaçu",
+    "nomeNormalizado": "BOA ESPERANCA DO IGUACU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Boa Ventura de São Roque",
+    "nomeNormalizado": "BOA VENTURA DE SAO ROQUE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Boa Vista da Aparecida",
+    "nomeNormalizado": "BOA VISTA DA APARECIDA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Bocaiúva do Sul",
+    "nomeNormalizado": "BOCAIUVA DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Bom Jesus do Sul",
+    "nomeNormalizado": "BOM JESUS DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Bom Sucesso",
+    "nomeNormalizado": "BOM SUCESSO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Bom Sucesso do Sul",
+    "nomeNormalizado": "BOM SUCESSO DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Borrazópolis",
+    "nomeNormalizado": "BORRAZOPOLIS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Braganey",
+    "nomeNormalizado": "BRAGANEY",
+    "uf": "PR"
+  },
+  {
+    "nome": "Brasilândia do Sul",
+    "nomeNormalizado": "BRASILANDIA DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Cafeara",
+    "nomeNormalizado": "CAFEARA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Cafelândia",
+    "nomeNormalizado": "CAFELANDIA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Cafezal do Sul",
+    "nomeNormalizado": "CAFEZAL DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Califórnia",
+    "nomeNormalizado": "CALIFORNIA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Cambará",
+    "nomeNormalizado": "CAMBARA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Cambé",
+    "nomeNormalizado": "CAMBE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Cambira",
+    "nomeNormalizado": "CAMBIRA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Campina da Lagoa",
+    "nomeNormalizado": "CAMPINA DA LAGOA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Campina do Simão",
+    "nomeNormalizado": "CAMPINA DO SIMAO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Campina Grande do Sul",
+    "nomeNormalizado": "CAMPINA GRANDE DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Campo Bonito",
+    "nomeNormalizado": "CAMPO BONITO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Campo do Tenente",
+    "nomeNormalizado": "CAMPO DO TENENTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Campo Largo",
+    "nomeNormalizado": "CAMPO LARGO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Campo Magro",
+    "nomeNormalizado": "CAMPO MAGRO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Campo Mourão",
+    "nomeNormalizado": "CAMPO MOURAO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Cândido de Abreu",
+    "nomeNormalizado": "CANDIDO DE ABREU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Candói",
+    "nomeNormalizado": "CANDOI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Cantagalo",
+    "nomeNormalizado": "CANTAGALO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Capanema",
+    "nomeNormalizado": "CAPANEMA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Capitão Leônidas Marques",
+    "nomeNormalizado": "CAPITAO LEONIDAS MARQUES",
+    "uf": "PR"
+  },
+  {
+    "nome": "Carambeí",
+    "nomeNormalizado": "CARAMBEI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Carlópolis",
+    "nomeNormalizado": "CARLOPOLIS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Cascavel",
+    "nomeNormalizado": "CASCAVEL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Castro",
+    "nomeNormalizado": "CASTRO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Catanduvas",
+    "nomeNormalizado": "CATANDUVAS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Centenário do Sul",
+    "nomeNormalizado": "CENTENARIO DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Cerro Azul",
+    "nomeNormalizado": "CERRO AZUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Céu Azul",
+    "nomeNormalizado": "CEU AZUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Chopinzinho",
+    "nomeNormalizado": "CHOPINZINHO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Cianorte",
+    "nomeNormalizado": "CIANORTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Cidade Gaúcha",
+    "nomeNormalizado": "CIDADE GAUCHA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Clevelândia",
+    "nomeNormalizado": "CLEVELANDIA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Colombo",
+    "nomeNormalizado": "COLOMBO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Colorado",
+    "nomeNormalizado": "COLORADO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Congonhinhas",
+    "nomeNormalizado": "CONGONHINHAS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Conselheiro Mairinck",
+    "nomeNormalizado": "CONSELHEIRO MAIRINCK",
+    "uf": "PR"
+  },
+  {
+    "nome": "Contenda",
+    "nomeNormalizado": "CONTENDA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Corbélia",
+    "nomeNormalizado": "CORBELIA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Cornélio Procópio",
+    "nomeNormalizado": "CORNELIO PROCOPIO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Coronel Domingos Soares",
+    "nomeNormalizado": "CORONEL DOMINGOS SOARES",
+    "uf": "PR"
+  },
+  {
+    "nome": "Coronel Vivida",
+    "nomeNormalizado": "CORONEL VIVIDA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Corumbataí do Sul",
+    "nomeNormalizado": "CORUMBATAI DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Cruz Machado",
+    "nomeNormalizado": "CRUZ MACHADO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Cruzeiro do Iguaçu",
+    "nomeNormalizado": "CRUZEIRO DO IGUACU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Cruzeiro do Oeste",
+    "nomeNormalizado": "CRUZEIRO DO OESTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Cruzeiro do Sul",
+    "nomeNormalizado": "CRUZEIRO DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Cruzmaltina",
+    "nomeNormalizado": "CRUZMALTINA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Curitiba",
+    "nomeNormalizado": "CURITIBA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Curiúva",
+    "nomeNormalizado": "CURIUVA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Diamante do Norte",
+    "nomeNormalizado": "DIAMANTE DO NORTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Diamante do Sul",
+    "nomeNormalizado": "DIAMANTE DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Diamante D'Oeste",
+    "nomeNormalizado": "DIAMANTE DOESTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Dois Vizinhos",
+    "nomeNormalizado": "DOIS VIZINHOS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Douradina",
+    "nomeNormalizado": "DOURADINA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Doutor Camargo",
+    "nomeNormalizado": "DOUTOR CAMARGO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Doutor Ulysses",
+    "nomeNormalizado": "DOUTOR ULYSSES",
+    "uf": "PR"
+  },
+  {
+    "nome": "Enéas Marques",
+    "nomeNormalizado": "ENEAS MARQUES",
+    "uf": "PR"
+  },
+  {
+    "nome": "Engenheiro Beltrão",
+    "nomeNormalizado": "ENGENHEIRO BELTRAO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Entre Rios do Oeste",
+    "nomeNormalizado": "ENTRE RIOS DO OESTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Esperança Nova",
+    "nomeNormalizado": "ESPERANCA NOVA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Espigão Alto do Iguaçu",
+    "nomeNormalizado": "ESPIGAO ALTO DO IGUACU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Farol",
+    "nomeNormalizado": "FAROL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Faxinal",
+    "nomeNormalizado": "FAXINAL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Fazenda Rio Grande",
+    "nomeNormalizado": "FAZENDA RIO GRANDE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Fênix",
+    "nomeNormalizado": "FENIX",
+    "uf": "PR"
+  },
+  {
+    "nome": "Fernandes Pinheiro",
+    "nomeNormalizado": "FERNANDES PINHEIRO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Figueira",
+    "nomeNormalizado": "FIGUEIRA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Flor da Serra do Sul",
+    "nomeNormalizado": "FLOR DA SERRA DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Floraí",
+    "nomeNormalizado": "FLORAI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Floresta",
+    "nomeNormalizado": "FLORESTA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Florestópolis",
+    "nomeNormalizado": "FLORESTOPOLIS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Flórida",
+    "nomeNormalizado": "FLORIDA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Formosa do Oeste",
+    "nomeNormalizado": "FORMOSA DO OESTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Foz do Iguaçu",
+    "nomeNormalizado": "FOZ DO IGUACU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Foz do Jordão",
+    "nomeNormalizado": "FOZ DO JORDAO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Francisco Alves",
+    "nomeNormalizado": "FRANCISCO ALVES",
+    "uf": "PR"
+  },
+  {
+    "nome": "Francisco Beltrão",
+    "nomeNormalizado": "FRANCISCO BELTRAO",
+    "uf": "PR"
+  },
+  {
+    "nome": "General Carneiro",
+    "nomeNormalizado": "GENERAL CARNEIRO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Godoy Moreira",
+    "nomeNormalizado": "GODOY MOREIRA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Goioerê",
+    "nomeNormalizado": "GOIOERE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Goioxim",
+    "nomeNormalizado": "GOIOXIM",
+    "uf": "PR"
+  },
+  {
+    "nome": "Grandes Rios",
+    "nomeNormalizado": "GRANDES RIOS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Guaíra",
+    "nomeNormalizado": "GUAIRA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Guairaçá",
+    "nomeNormalizado": "GUAIRACA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Guamiranga",
+    "nomeNormalizado": "GUAMIRANGA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Guapirama",
+    "nomeNormalizado": "GUAPIRAMA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Guaporema",
+    "nomeNormalizado": "GUAPOREMA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Guaraci",
+    "nomeNormalizado": "GUARACI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Guaraniaçu",
+    "nomeNormalizado": "GUARANIACU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Guarapuava",
+    "nomeNormalizado": "GUARAPUAVA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Guaraqueçaba",
+    "nomeNormalizado": "GUARAQUECABA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Guaratuba",
+    "nomeNormalizado": "GUARATUBA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Honório Serpa",
+    "nomeNormalizado": "HONORIO SERPA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ibaiti",
+    "nomeNormalizado": "IBAITI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ibema",
+    "nomeNormalizado": "IBEMA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ibiporã",
+    "nomeNormalizado": "IBIPORA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Icaraíma",
+    "nomeNormalizado": "ICARAIMA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Iguaraçu",
+    "nomeNormalizado": "IGUARACU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Iguatu",
+    "nomeNormalizado": "IGUATU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Imbaú",
+    "nomeNormalizado": "IMBAU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Imbituva",
+    "nomeNormalizado": "IMBITUVA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Inácio Martins",
+    "nomeNormalizado": "INACIO MARTINS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Inajá",
+    "nomeNormalizado": "INAJA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Indianópolis",
+    "nomeNormalizado": "INDIANOPOLIS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ipiranga",
+    "nomeNormalizado": "IPIRANGA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Iporã",
+    "nomeNormalizado": "IPORA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Iracema do Oeste",
+    "nomeNormalizado": "IRACEMA DO OESTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Irati",
+    "nomeNormalizado": "IRATI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Iretama",
+    "nomeNormalizado": "IRETAMA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Itaguajé",
+    "nomeNormalizado": "ITAGUAJE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Itaipulândia",
+    "nomeNormalizado": "ITAIPULANDIA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Itambaracá",
+    "nomeNormalizado": "ITAMBARACA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Itambé",
+    "nomeNormalizado": "ITAMBE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Itapejara d'Oeste",
+    "nomeNormalizado": "ITAPEJARA DOESTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Itaperuçu",
+    "nomeNormalizado": "ITAPERUCU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Itaúna do Sul",
+    "nomeNormalizado": "ITAUNA DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ivaí",
+    "nomeNormalizado": "IVAI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ivaiporã",
+    "nomeNormalizado": "IVAIPORA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ivaté",
+    "nomeNormalizado": "IVATE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ivatuba",
+    "nomeNormalizado": "IVATUBA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Jaboti",
+    "nomeNormalizado": "JABOTI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Jacarezinho",
+    "nomeNormalizado": "JACAREZINHO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Jaguapitã",
+    "nomeNormalizado": "JAGUAPITA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Jaguariaíva",
+    "nomeNormalizado": "JAGUARIAIVA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Jandaia do Sul",
+    "nomeNormalizado": "JANDAIA DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Janiópolis",
+    "nomeNormalizado": "JANIOPOLIS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Japira",
+    "nomeNormalizado": "JAPIRA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Japurá",
+    "nomeNormalizado": "JAPURA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Jardim Alegre",
+    "nomeNormalizado": "JARDIM ALEGRE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Jardim Olinda",
+    "nomeNormalizado": "JARDIM OLINDA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Jataizinho",
+    "nomeNormalizado": "JATAIZINHO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Jesuítas",
+    "nomeNormalizado": "JESUITAS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Joaquim Távora",
+    "nomeNormalizado": "JOAQUIM TAVORA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Jundiaí do Sul",
+    "nomeNormalizado": "JUNDIAI DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Juranda",
+    "nomeNormalizado": "JURANDA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Jussara",
+    "nomeNormalizado": "JUSSARA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Kaloré",
+    "nomeNormalizado": "KALORE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Lapa",
+    "nomeNormalizado": "LAPA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Laranjal",
+    "nomeNormalizado": "LARANJAL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Laranjeiras do Sul",
+    "nomeNormalizado": "LARANJEIRAS DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Leópolis",
+    "nomeNormalizado": "LEOPOLIS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Lidianópolis",
+    "nomeNormalizado": "LIDIANOPOLIS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Lindoeste",
+    "nomeNormalizado": "LINDOESTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Loanda",
+    "nomeNormalizado": "LOANDA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Lobato",
+    "nomeNormalizado": "LOBATO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Londrina",
+    "nomeNormalizado": "LONDRINA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Luiziana",
+    "nomeNormalizado": "LUIZIANA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Lunardelli",
+    "nomeNormalizado": "LUNARDELLI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Lupionópolis",
+    "nomeNormalizado": "LUPIONOPOLIS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Mallet",
+    "nomeNormalizado": "MALLET",
+    "uf": "PR"
+  },
+  {
+    "nome": "Mamborê",
+    "nomeNormalizado": "MAMBORE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Mandaguaçu",
+    "nomeNormalizado": "MANDAGUACU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Mandaguari",
+    "nomeNormalizado": "MANDAGUARI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Mandirituba",
+    "nomeNormalizado": "MANDIRITUBA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Manfrinópolis",
+    "nomeNormalizado": "MANFRINOPOLIS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Mangueirinha",
+    "nomeNormalizado": "MANGUEIRINHA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Manoel Ribas",
+    "nomeNormalizado": "MANOEL RIBAS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Marechal Cândido Rondon",
+    "nomeNormalizado": "MARECHAL CANDIDO RONDON",
+    "uf": "PR"
+  },
+  {
+    "nome": "Maria Helena",
+    "nomeNormalizado": "MARIA HELENA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Marialva",
+    "nomeNormalizado": "MARIALVA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Marilândia do Sul",
+    "nomeNormalizado": "MARILANDIA DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Marilena",
+    "nomeNormalizado": "MARILENA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Mariluz",
+    "nomeNormalizado": "MARILUZ",
+    "uf": "PR"
+  },
+  {
+    "nome": "Maringá",
+    "nomeNormalizado": "MARINGA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Mariópolis",
+    "nomeNormalizado": "MARIOPOLIS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Maripá",
+    "nomeNormalizado": "MARIPA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Marmeleiro",
+    "nomeNormalizado": "MARMELEIRO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Marquinho",
+    "nomeNormalizado": "MARQUINHO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Marumbi",
+    "nomeNormalizado": "MARUMBI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Matelândia",
+    "nomeNormalizado": "MATELANDIA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Matinhos",
+    "nomeNormalizado": "MATINHOS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Mato Rico",
+    "nomeNormalizado": "MATO RICO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Mauá da Serra",
+    "nomeNormalizado": "MAUA DA SERRA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Medianeira",
+    "nomeNormalizado": "MEDIANEIRA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Mercedes",
+    "nomeNormalizado": "MERCEDES",
+    "uf": "PR"
+  },
+  {
+    "nome": "Mirador",
+    "nomeNormalizado": "MIRADOR",
+    "uf": "PR"
+  },
+  {
+    "nome": "Miraselva",
+    "nomeNormalizado": "MIRASELVA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Missal",
+    "nomeNormalizado": "MISSAL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Moreira Sales",
+    "nomeNormalizado": "MOREIRA SALES",
+    "uf": "PR"
+  },
+  {
+    "nome": "Morretes",
+    "nomeNormalizado": "MORRETES",
+    "uf": "PR"
+  },
+  {
+    "nome": "Munhoz de Melo",
+    "nomeNormalizado": "MUNHOZ DE MELO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Nossa Senhora das Graças",
+    "nomeNormalizado": "NOSSA SENHORA DAS GRACAS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Nova Aliança do Ivaí",
+    "nomeNormalizado": "NOVA ALIANCA DO IVAI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Nova América da Colina",
+    "nomeNormalizado": "NOVA AMERICA DA COLINA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Nova Aurora",
+    "nomeNormalizado": "NOVA AURORA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Nova Cantu",
+    "nomeNormalizado": "NOVA CANTU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Nova Esperança",
+    "nomeNormalizado": "NOVA ESPERANCA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Nova Esperança do Sudoeste",
+    "nomeNormalizado": "NOVA ESPERANCA DO SUDOESTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Nova Fátima",
+    "nomeNormalizado": "NOVA FATIMA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Nova Laranjeiras",
+    "nomeNormalizado": "NOVA LARANJEIRAS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Nova Londrina",
+    "nomeNormalizado": "NOVA LONDRINA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Nova Olímpia",
+    "nomeNormalizado": "NOVA OLIMPIA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Nova Prata do Iguaçu",
+    "nomeNormalizado": "NOVA PRATA DO IGUACU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Nova Santa Bárbara",
+    "nomeNormalizado": "NOVA SANTA BARBARA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Nova Santa Rosa",
+    "nomeNormalizado": "NOVA SANTA ROSA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Nova Tebas",
+    "nomeNormalizado": "NOVA TEBAS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Novo Itacolomi",
+    "nomeNormalizado": "NOVO ITACOLOMI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ortigueira",
+    "nomeNormalizado": "ORTIGUEIRA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ourizona",
+    "nomeNormalizado": "OURIZONA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ouro Verde do Oeste",
+    "nomeNormalizado": "OURO VERDE DO OESTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Paiçandu",
+    "nomeNormalizado": "PAICANDU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Palmas",
+    "nomeNormalizado": "PALMAS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Palmeira",
+    "nomeNormalizado": "PALMEIRA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Palmital",
+    "nomeNormalizado": "PALMITAL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Palotina",
+    "nomeNormalizado": "PALOTINA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Paraíso do Norte",
+    "nomeNormalizado": "PARAISO DO NORTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Paranacity",
+    "nomeNormalizado": "PARANACITY",
+    "uf": "PR"
+  },
+  {
+    "nome": "Paranaguá",
+    "nomeNormalizado": "PARANAGUA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Paranapoema",
+    "nomeNormalizado": "PARANAPOEMA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Paranavaí",
+    "nomeNormalizado": "PARANAVAI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Pato Bragado",
+    "nomeNormalizado": "PATO BRAGADO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Pato Branco",
+    "nomeNormalizado": "PATO BRANCO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Paula Freitas",
+    "nomeNormalizado": "PAULA FREITAS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Paulo Frontin",
+    "nomeNormalizado": "PAULO FRONTIN",
+    "uf": "PR"
+  },
+  {
+    "nome": "Peabiru",
+    "nomeNormalizado": "PEABIRU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Perobal",
+    "nomeNormalizado": "PEROBAL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Pérola",
+    "nomeNormalizado": "PEROLA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Pérola d'Oeste",
+    "nomeNormalizado": "PEROLA DOESTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Piên",
+    "nomeNormalizado": "PIEN",
+    "uf": "PR"
+  },
+  {
+    "nome": "Pinhais",
+    "nomeNormalizado": "PINHAIS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Pinhal de São Bento",
+    "nomeNormalizado": "PINHAL DE SAO BENTO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Pinhalão",
+    "nomeNormalizado": "PINHALAO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Pinhão",
+    "nomeNormalizado": "PINHAO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Piraí do Sul",
+    "nomeNormalizado": "PIRAI DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Piraquara",
+    "nomeNormalizado": "PIRAQUARA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Pitanga",
+    "nomeNormalizado": "PITANGA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Pitangueiras",
+    "nomeNormalizado": "PITANGUEIRAS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Planaltina do Paraná",
+    "nomeNormalizado": "PLANALTINA DO PARANA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Planalto",
+    "nomeNormalizado": "PLANALTO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ponta Grossa",
+    "nomeNormalizado": "PONTA GROSSA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Pontal do Paraná",
+    "nomeNormalizado": "PONTAL DO PARANA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Porecatu",
+    "nomeNormalizado": "PORECATU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Porto Amazonas",
+    "nomeNormalizado": "PORTO AMAZONAS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Porto Barreiro",
+    "nomeNormalizado": "PORTO BARREIRO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Porto Rico",
+    "nomeNormalizado": "PORTO RICO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Porto Vitória",
+    "nomeNormalizado": "PORTO VITORIA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Prado Ferreira",
+    "nomeNormalizado": "PRADO FERREIRA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Pranchita",
+    "nomeNormalizado": "PRANCHITA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Presidente Castelo Branco",
+    "nomeNormalizado": "PRESIDENTE CASTELO BRANCO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Primeiro de Maio",
+    "nomeNormalizado": "PRIMEIRO DE MAIO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Prudentópolis",
+    "nomeNormalizado": "PRUDENTOPOLIS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Quarto Centenário",
+    "nomeNormalizado": "QUARTO CENTENARIO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Quatiguá",
+    "nomeNormalizado": "QUATIGUA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Quatro Barras",
+    "nomeNormalizado": "QUATRO BARRAS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Quatro Pontes",
+    "nomeNormalizado": "QUATRO PONTES",
+    "uf": "PR"
+  },
+  {
+    "nome": "Quedas do Iguaçu",
+    "nomeNormalizado": "QUEDAS DO IGUACU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Querência do Norte",
+    "nomeNormalizado": "QUERENCIA DO NORTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Quinta do Sol",
+    "nomeNormalizado": "QUINTA DO SOL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Quitandinha",
+    "nomeNormalizado": "QUITANDINHA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ramilândia",
+    "nomeNormalizado": "RAMILANDIA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Rancho Alegre",
+    "nomeNormalizado": "RANCHO ALEGRE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Rancho Alegre D'Oeste",
+    "nomeNormalizado": "RANCHO ALEGRE DOESTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Realeza",
+    "nomeNormalizado": "REALEZA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Rebouças",
+    "nomeNormalizado": "REBOUCAS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Renascença",
+    "nomeNormalizado": "RENASCENCA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Reserva",
+    "nomeNormalizado": "RESERVA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Reserva do Iguaçu",
+    "nomeNormalizado": "RESERVA DO IGUACU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ribeirão Claro",
+    "nomeNormalizado": "RIBEIRAO CLARO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ribeirão do Pinhal",
+    "nomeNormalizado": "RIBEIRAO DO PINHAL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Rio Azul",
+    "nomeNormalizado": "RIO AZUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Rio Bom",
+    "nomeNormalizado": "RIO BOM",
+    "uf": "PR"
+  },
+  {
+    "nome": "Rio Bonito do Iguaçu",
+    "nomeNormalizado": "RIO BONITO DO IGUACU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Rio Branco do Ivaí",
+    "nomeNormalizado": "RIO BRANCO DO IVAI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Rio Branco do Sul",
+    "nomeNormalizado": "RIO BRANCO DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Rio Negro",
+    "nomeNormalizado": "RIO NEGRO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Rolândia",
+    "nomeNormalizado": "ROLANDIA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Roncador",
+    "nomeNormalizado": "RONCADOR",
+    "uf": "PR"
+  },
+  {
+    "nome": "Rondon",
+    "nomeNormalizado": "RONDON",
+    "uf": "PR"
+  },
+  {
+    "nome": "Rosário do Ivaí",
+    "nomeNormalizado": "ROSARIO DO IVAI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Sabáudia",
+    "nomeNormalizado": "SABAUDIA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Salgado Filho",
+    "nomeNormalizado": "SALGADO FILHO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Salto do Itararé",
+    "nomeNormalizado": "SALTO DO ITARARE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Salto do Lontra",
+    "nomeNormalizado": "SALTO DO LONTRA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santa Amélia",
+    "nomeNormalizado": "SANTA AMELIA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santa Cecília do Pavão",
+    "nomeNormalizado": "SANTA CECILIA DO PAVAO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santa Cruz de Monte Castelo",
+    "nomeNormalizado": "SANTA CRUZ DE MONTE CASTELO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santa Fé",
+    "nomeNormalizado": "SANTA FE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santa Helena",
+    "nomeNormalizado": "SANTA HELENA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santa Inês",
+    "nomeNormalizado": "SANTA INES",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santa Isabel do Ivaí",
+    "nomeNormalizado": "SANTA ISABEL DO IVAI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santa Izabel do Oeste",
+    "nomeNormalizado": "SANTA IZABEL DO OESTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santa Lúcia",
+    "nomeNormalizado": "SANTA LUCIA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santa Maria do Oeste",
+    "nomeNormalizado": "SANTA MARIA DO OESTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santa Mariana",
+    "nomeNormalizado": "SANTA MARIANA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santa Mônica",
+    "nomeNormalizado": "SANTA MONICA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santa Tereza do Oeste",
+    "nomeNormalizado": "SANTA TEREZA DO OESTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santa Terezinha de Itaipu",
+    "nomeNormalizado": "SANTA TEREZINHA DE ITAIPU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santana do Itararé",
+    "nomeNormalizado": "SANTANA DO ITARARE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santo Antônio da Platina",
+    "nomeNormalizado": "SANTO ANTONIO DA PLATINA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santo Antônio do Caiuá",
+    "nomeNormalizado": "SANTO ANTONIO DO CAIUA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santo Antônio do Paraíso",
+    "nomeNormalizado": "SANTO ANTONIO DO PARAISO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santo Antônio do Sudoeste",
+    "nomeNormalizado": "SANTO ANTONIO DO SUDOESTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Santo Inácio",
+    "nomeNormalizado": "SANTO INACIO",
+    "uf": "PR"
+  },
+  {
+    "nome": "São Carlos do Ivaí",
+    "nomeNormalizado": "SAO CARLOS DO IVAI",
+    "uf": "PR"
+  },
+  {
+    "nome": "São Jerônimo da Serra",
+    "nomeNormalizado": "SAO JERONIMO DA SERRA",
+    "uf": "PR"
+  },
+  {
+    "nome": "São João",
+    "nomeNormalizado": "SAO JOAO",
+    "uf": "PR"
+  },
+  {
+    "nome": "São João do Caiuá",
+    "nomeNormalizado": "SAO JOAO DO CAIUA",
+    "uf": "PR"
+  },
+  {
+    "nome": "São João do Ivaí",
+    "nomeNormalizado": "SAO JOAO DO IVAI",
+    "uf": "PR"
+  },
+  {
+    "nome": "São João do Triunfo",
+    "nomeNormalizado": "SAO JOAO DO TRIUNFO",
+    "uf": "PR"
+  },
+  {
+    "nome": "São Jorge do Ivaí",
+    "nomeNormalizado": "SAO JORGE DO IVAI",
+    "uf": "PR"
+  },
+  {
+    "nome": "São Jorge do Patrocínio",
+    "nomeNormalizado": "SAO JORGE DO PATROCINIO",
+    "uf": "PR"
+  },
+  {
+    "nome": "São Jorge d'Oeste",
+    "nomeNormalizado": "SAO JORGE DOESTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "São José da Boa Vista",
+    "nomeNormalizado": "SAO JOSE DA BOA VISTA",
+    "uf": "PR"
+  },
+  {
+    "nome": "São José das Palmeiras",
+    "nomeNormalizado": "SAO JOSE DAS PALMEIRAS",
+    "uf": "PR"
+  },
+  {
+    "nome": "São José dos Pinhais",
+    "nomeNormalizado": "SAO JOSE DOS PINHAIS",
+    "uf": "PR"
+  },
+  {
+    "nome": "São Manoel do Paraná",
+    "nomeNormalizado": "SAO MANOEL DO PARANA",
+    "uf": "PR"
+  },
+  {
+    "nome": "São Mateus do Sul",
+    "nomeNormalizado": "SAO MATEUS DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "São Miguel do Iguaçu",
+    "nomeNormalizado": "SAO MIGUEL DO IGUACU",
+    "uf": "PR"
+  },
+  {
+    "nome": "São Pedro do Iguaçu",
+    "nomeNormalizado": "SAO PEDRO DO IGUACU",
+    "uf": "PR"
+  },
+  {
+    "nome": "São Pedro do Ivaí",
+    "nomeNormalizado": "SAO PEDRO DO IVAI",
+    "uf": "PR"
+  },
+  {
+    "nome": "São Pedro do Paraná",
+    "nomeNormalizado": "SAO PEDRO DO PARANA",
+    "uf": "PR"
+  },
+  {
+    "nome": "São Sebastião da Amoreira",
+    "nomeNormalizado": "SAO SEBASTIAO DA AMOREIRA",
+    "uf": "PR"
+  },
+  {
+    "nome": "São Tomé",
+    "nomeNormalizado": "SAO TOME",
+    "uf": "PR"
+  },
+  {
+    "nome": "Sapopema",
+    "nomeNormalizado": "SAPOPEMA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Sarandi",
+    "nomeNormalizado": "SARANDI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Saudade do Iguaçu",
+    "nomeNormalizado": "SAUDADE DO IGUACU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Sengés",
+    "nomeNormalizado": "SENGES",
+    "uf": "PR"
+  },
+  {
+    "nome": "Serranópolis do Iguaçu",
+    "nomeNormalizado": "SERRANOPOLIS DO IGUACU",
+    "uf": "PR"
+  },
+  {
+    "nome": "Sertaneja",
+    "nomeNormalizado": "SERTANEJA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Sertanópolis",
+    "nomeNormalizado": "SERTANOPOLIS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Siqueira Campos",
+    "nomeNormalizado": "SIQUEIRA CAMPOS",
+    "uf": "PR"
+  },
+  {
+    "nome": "Sulina",
+    "nomeNormalizado": "SULINA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Tamarana",
+    "nomeNormalizado": "TAMARANA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Tamboara",
+    "nomeNormalizado": "TAMBOARA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Tapejara",
+    "nomeNormalizado": "TAPEJARA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Tapira",
+    "nomeNormalizado": "TAPIRA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Teixeira Soares",
+    "nomeNormalizado": "TEIXEIRA SOARES",
+    "uf": "PR"
+  },
+  {
+    "nome": "Telêmaco Borba",
+    "nomeNormalizado": "TELEMACO BORBA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Terra Boa",
+    "nomeNormalizado": "TERRA BOA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Terra Rica",
+    "nomeNormalizado": "TERRA RICA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Terra Roxa",
+    "nomeNormalizado": "TERRA ROXA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Tibagi",
+    "nomeNormalizado": "TIBAGI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Tijucas do Sul",
+    "nomeNormalizado": "TIJUCAS DO SUL",
+    "uf": "PR"
+  },
+  {
+    "nome": "Toledo",
+    "nomeNormalizado": "TOLEDO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Tomazina",
+    "nomeNormalizado": "TOMAZINA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Três Barras do Paraná",
+    "nomeNormalizado": "TRES BARRAS DO PARANA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Tunas do Paraná",
+    "nomeNormalizado": "TUNAS DO PARANA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Tuneiras do Oeste",
+    "nomeNormalizado": "TUNEIRAS DO OESTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Tupãssi",
+    "nomeNormalizado": "TUPASSI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Turvo",
+    "nomeNormalizado": "TURVO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ubiratã",
+    "nomeNormalizado": "UBIRATA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Umuarama",
+    "nomeNormalizado": "UMUARAMA",
+    "uf": "PR"
+  },
+  {
+    "nome": "União da Vitória",
+    "nomeNormalizado": "UNIAO DA VITORIA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Uniflor",
+    "nomeNormalizado": "UNIFLOR",
+    "uf": "PR"
+  },
+  {
+    "nome": "Uraí",
+    "nomeNormalizado": "URAI",
+    "uf": "PR"
+  },
+  {
+    "nome": "Ventania",
+    "nomeNormalizado": "VENTANIA",
+    "uf": "PR"
+  },
+  {
+    "nome": "Vera Cruz do Oeste",
+    "nomeNormalizado": "VERA CRUZ DO OESTE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Verê",
+    "nomeNormalizado": "VERE",
+    "uf": "PR"
+  },
+  {
+    "nome": "Virmond",
+    "nomeNormalizado": "VIRMOND",
+    "uf": "PR"
+  },
+  {
+    "nome": "Vitorino",
+    "nomeNormalizado": "VITORINO",
+    "uf": "PR"
+  },
+  {
+    "nome": "Wenceslau Braz",
+    "nomeNormalizado": "WENCESLAU BRAZ",
+    "uf": "PR"
+  },
+  {
+    "nome": "Xambrê",
+    "nomeNormalizado": "XAMBRE",
+    "uf": "PR"
+  }
+]
