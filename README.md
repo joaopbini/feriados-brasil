@@ -5,7 +5,7 @@ Repositório para centralizar feriados brasileiros nacionais, estaduais e munici
 ## Como esta organizado?
 Arquivos com feriados nacionais por ano
 
-Arquivos com feriado estaduais por ano
+Arquivos com feriados estaduais por ano
 
 Arquivos com feriados municipais por ano
 
