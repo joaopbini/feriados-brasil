@@ -85,4 +85,4 @@ Arquivos com feriados municipais por ano
 
 ```
 
-**Nota**: caso encontre qualquer dado inconsistente ou tenha alguma sugestão por favor crie uma [issue](https://github.com/kelvins/Municipios-Brasileiros/issues) ou envie um [pull request](https://github.com/joaopbini/feriados-brasil/pulls) diretamente. Obrigado a todos os [colaboradores](https://github.com/joaopbini/feriados-brasil/graphs/contributors). 🙌
+**Nota**: caso encontre qualquer dado inconsistente ou tenha alguma sugestão por favor crie uma [issue](https://github.com/joaopbini/feriados-brasil/issues) ou envie um [pull request](https://github.com/joaopbini/feriados-brasil/pulls) diretamente. Obrigado a todos os [colaboradores](https://github.com/joaopbini/feriados-brasil/graphs/contributors). 🙌
