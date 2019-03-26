@@ -1,25 +1,25 @@
 [
   {
-    "data": "20/01/2019",
-    "nome": "Dia do Católico",
-    "tipo": "ESTADUAL",
-    "descricao": "Dia 20 de janeiro, é feriado no calendário oficial do Governo do Estado do Acre, conforme lei Nº 3137/2016. O Dia do Católico foi criado em 2016, em similaridade ao dia do Evngélico",
-    "uf": "AC",
-    "municipio": ""
-  },
-  {
-    "data": "23/01/2019",
-    "nome": "Dia do Evangélico",
-    "tipo": "ESTADUAL",
-    "descricao": "Dia 23 de janeiro, é feriado no calendário oficial do Governo do Estado do Acre, conforme lei Nº 1538/2004. O Dia do Evangélico foi criado em 2004, por meio de projeto de lei apresentado pelo deputado Helder Paiva, aprovado pela então governador Jorge Viana",
-    "uf": "AC",
-    "municipio": ""
-  },
-  {
     "data": "08/03/2019",
     "nome": "Dia da Mulher",
     "tipo": "ESTADUAL",
     "descricao": "Feriado conforme lei Nº 1411/2001, mas adiado para Sexta-Feira. O Dia Internacional da Mulher, celebrado em 8 de março, tem como origem as manifestações das mulheres russas por melhores condições de vida e trabalho e contra a entrada da Rússia czarista na Primeira1 Guerra Mundial.",
+    "uf": "AC",
+    "municipio": ""
+  },
+  {
+    "data": "06/08/2019",
+    "nome": "Revolução Acreana",
+    "tipo": "ESTADUAL",
+    "descricao": "",
+    "uf": "AC",
+    "municipio": ""
+  },
+  {
+    "data": "20/01/2019",
+    "nome": "Dia do Católico",
+    "tipo": "ESTADUAL",
+    "descricao": "Dia 20 de janeiro, é feriado no calendário oficial do Governo do Estado do Acre, conforme lei Nº 3137/2016. O Dia do Católico foi criado em 2016, em similaridade ao dia do Evngélico",
     "uf": "AC",
     "municipio": ""
   },
@@ -40,11 +40,11 @@
     "municipio": ""
   },
   {
-    "data": "24/06/2019",
-    "nome": "Dia de São João",
+    "data": "23/01/2019",
+    "nome": "Dia do Evangélico",
     "tipo": "ESTADUAL",
-    "descricao": "O mastro de São João, conhecido em Portugal também como o mastro dos Santos Populares, é erguido durante a festa junina para celebrar os três santos ligados a essa festa.",
-    "uf": "AL",
+    "descricao": "Dia 23 de janeiro, é feriado no calendário oficial do Governo do Estado do Acre, conforme lei Nº 1538/2004. O Dia do Evangélico foi criado em 2004, por meio de projeto de lei apresentado pelo deputado Helder Paiva, aprovado pela então governador Jorge Viana",
+    "uf": "AC",
     "municipio": ""
   },
   {
@@ -80,6 +80,22 @@
     "municipio": ""
   },
   {
+    "data": "24/06/2019",
+    "nome": "Dia de São João",
+    "tipo": "ESTADUAL",
+    "descricao": "O mastro de São João, conhecido em Portugal também como o mastro dos Santos Populares, é erguido durante a festa junina para celebrar os três santos ligados a essa festa.",
+    "uf": "AL",
+    "municipio": ""
+  },
+  {
+    "data": "08/12/2019",
+    "nome": "Dia de Nossa Senhora da Conceição",
+    "tipo": "ESTADUAL",
+    "descricao": "",
+    "uf": "AM",
+    "municipio": ""
+  },
+  {
     "data": "05/09/2019",
     "nome": "Aniversário do Amazonas",
     "tipo": "ESTADUAL",
@@ -93,22 +109,6 @@
     "tipo": "ESTADUAL",
     "descricao": "O Dia Nacional da Consciência Negra é celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
     "uf": "AM",
-    "municipio": ""
-  },
-  {
-    "data": "19/03/2019",
-    "nome": "Dia de São José",
-    "tipo": "ESTADUAL",
-    "descricao": "São José é o santo padroeiro do Estado do Amapá.",
-    "uf": "AP",
-    "municipio": ""
-  },
-  {
-    "data": "15/05/2019",
-    "nome": "Dia de Cabralzinho",
-    "tipo": "ESTADUAL",
-    "descricao": "Homenagem a Francisco Xavier da Veiga Cabral, o Cabralzinho, que rechaçou uma invasão francesa em 15 de maio de 1895. Conforme lei 2.213/2017",
-    "uf": "AP",
     "municipio": ""
   },
   {
@@ -148,6 +148,22 @@
     "nome": "N. Sra. Conceição",
     "tipo": "ESTADUAL",
     "descricao": "Dia de Nossa Senhora da Conceição",
+    "uf": "AP",
+    "municipio": ""
+  },
+  {
+    "data": "15/05/2019",
+    "nome": "Dia de Cabralzinho",
+    "tipo": "ESTADUAL",
+    "descricao": "Homenagem a Francisco Xavier da Veiga Cabral, o Cabralzinho, que rechaçou uma invasão francesa em 15 de maio de 1895. Conforme lei 2.213/2017",
+    "uf": "AP",
+    "municipio": ""
+  },
+  {
+    "data": "19/03/2019",
+    "nome": "Dia de São José",
+    "tipo": "ESTADUAL",
+    "descricao": "São José é o santo padroeiro do Estado do Amapá.",
     "uf": "AP",
     "municipio": ""
   },
@@ -208,14 +224,6 @@
     "municipio": ""
   },
   {
-    "data": "15/08/2019",
-    "nome": "Adesão ao Império Brasileiro",
-    "tipo": "ESTADUAL",
-    "descricao": "\"A Província do Pará foi a última a ser incorporada ao Império, quando da Independência do Brasil uma vez que, com fortes laços com Portugal, não aceitou fazer parte da nova nação.",
-    "uf": "PA",
-    "municipio": ""
-  },
-  {
     "data": "08/12/2019",
     "nome": "N. Sra. Conceição",
     "tipo": "ESTADUAL",
@@ -224,11 +232,11 @@
     "municipio": ""
   },
   {
-    "data": "26/07/2019",
-    "nome": "Homenagem a João Pessoa",
+    "data": "15/08/2019",
+    "nome": "Adesão ao Império Brasileiro",
     "tipo": "ESTADUAL",
-    "descricao": "Homenagem ao ex-presidente João Pessoa que foi assassinado em 26 de Julho de 1930.",
-    "uf": "PB",
+    "descricao": "\"A Província do Pará foi a última a ser incorporada ao Império, quando da Independência do Brasil uma vez que, com fortes laços com Portugal, não aceitou fazer parte da nova nação.",
+    "uf": "PA",
     "municipio": ""
   },
   {
@@ -236,6 +244,14 @@
     "nome": "Fundação do Estado da Paraíba",
     "tipo": "ESTADUAL",
     "descricao": "Comemoração da fundação do estado da Paraíba.",
+    "uf": "PB",
+    "municipio": ""
+  },
+  {
+    "data": "26/07/2019",
+    "nome": "Homenagem a João Pessoa",
+    "tipo": "ESTADUAL",
+    "descricao": "Homenagem ao ex-presidente João Pessoa que foi assassinado em 26 de Julho de 1930.",
     "uf": "PB",
     "municipio": ""
   },
@@ -264,10 +280,10 @@
     "municipio": ""
   },
   {
-    "data": "05/03/2019",
-    "nome": "Carnaval",
+    "data": "20/11/2019",
+    "nome": "Dia da Consciência Negra",
     "tipo": "ESTADUAL",
-    "descricao": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+    "descricao": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
     "uf": "RJ",
     "municipio": ""
   },
@@ -280,10 +296,10 @@
     "municipio": ""
   },
   {
-    "data": "20/11/2019",
-    "nome": "Dia da Consciência Negra",
+    "data": "05/03/2019",
+    "nome": "Carnaval",
     "tipo": "ESTADUAL",
-    "descricao": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+    "descricao": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
     "uf": "RJ",
     "municipio": ""
   },
@@ -296,18 +312,18 @@
     "municipio": ""
   },
   {
-    "data": "04/01/2019",
-    "nome": "Aniversário de Rondônia",
-    "tipo": "ESTADUAL",
-    "descricao": "Aniversário da data de criação do Estado de Rondônia.",
-    "uf": "RO",
-    "municipio": ""
-  },
-  {
     "data": "18/06/2019",
     "nome": "Dia do Evangélico",
     "tipo": "ESTADUAL",
     "descricao": "Dia 18 de Junho comemora-se o dia o evangélico no estado de Rondônia.",
+    "uf": "RO",
+    "municipio": ""
+  },
+  {
+    "data": "04/01/2019",
+    "nome": "Aniversário de Rondônia",
+    "tipo": "ESTADUAL",
+    "descricao": "Aniversário da data de criação do Estado de Rondônia.",
     "uf": "RO",
     "municipio": ""
   },
