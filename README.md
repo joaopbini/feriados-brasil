@@ -10,6 +10,8 @@ Arquivos com feriados estaduais por ano
 
 Arquivos com feriados municipais por ano
 
+Arquivos com feriados facultativos por ano
+
 ## Exemplos
 
 ### Dados
