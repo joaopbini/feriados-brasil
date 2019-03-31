@@ -374,5 +374,21 @@
     "descricao": "Em 5 de outubro de 1988, o norte de Goiás foi emancipado, passando a se chamar Tocantins. Em 1º de janeiro de 1989, a Unidade Federativa do Tocantins foi oficialmente instalada.",
     "uf": "TO",
     "municipio": ""
+  },
+  {
+    "data": "06/08/2018",
+    "nome": "Revolução Acreana",
+    "tipo": "ESTADUAL",
+    "descricao": "",
+    "uf": "AC",
+    "municipio": ""
+  },
+  {
+    "data": "08/12/2018",
+    "nome": "Dia de Nossa Senhora da Conceição",
+    "tipo": "ESTADUAL",
+    "descricao": "",
+    "uf": "AM",
+    "municipio": ""
   }
 ]
