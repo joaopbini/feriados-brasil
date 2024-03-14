@@ -6466,7 +6466,7 @@ INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('09/05
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('10/09/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'RS', 'Tuparendi');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('31/10/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'RS', 'Tuparendi');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('26/07/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'RS', 'Uruguaiana');
-INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('08/09/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'RS', 'Vacaria');
+INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('08/12/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'RS', 'Vacaria');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('25/07/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'RS', 'Vale do Sol');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('10/11/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'RS', 'Vale do Sol');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('13/06/2024', 'Dia de Santo Antônio', 'MUNICIPAL', '', 'RS', 'Vale Verde');
