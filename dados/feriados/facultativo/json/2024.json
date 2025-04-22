@@ -64,14 +64,6 @@
     "municipio": ""
   },
   {
-    "data": "20/11/2024",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "FACULTATIVO",
-    "descricao": "Lei Municipal No 1985, de 2009. Prefeitura não funcionará. O Comércio deverá Funcionar normalmente",
-    "uf": "",
-    "municipio": ""
-  },
-  {
     "data": "19/03/2024",
     "nome": "Dia de São José",
     "tipo": "FACULTATIVO",
@@ -196,14 +188,6 @@
     "nome": "Emancipação",
     "tipo": "FACULTATIVO",
     "descricao": "Emancipação político-administrativa do município",
-    "uf": "",
-    "municipio": ""
-  },
-  {
-    "data": "20/11/2024",
-    "nome": "Consciência Negra",
-    "tipo": "FACULTATIVO",
-    "descricao": "Dia da Consciência Negra. Ponto Facultativo de acordo com a Lei Municipal 2484/2008",
     "uf": "",
     "municipio": ""
   }
