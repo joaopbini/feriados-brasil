@@ -6810,9 +6810,9 @@ INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('08/12
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('30/12/2025', 'Feriado Municipal', 'MUNICIPAL', '', 'SC', 'Palma Sola');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('18/07/2025', 'Aniversário do Municipio', 'MUNICIPAL', 'Data comemorativa à emancipação política do Município de Palmeira, conforme lei nº 25/1997', 'SC', 'Palmeira');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('15/08/2025', 'Dia da Padroeira', 'MUNICIPAL', 'Data comemorativa à Padroeira do Município, conforme lei nº 25/1997', 'SC', 'Palmeira');
-INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('02/03/2025', 'Feriado Municipal', 'MUNICIPAL', '', 'SC', 'Palmitos');
-INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('25/07/2025', 'Feriado Municipal', 'MUNICIPAL', '', 'SC', 'Palmitos');
-INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('31/10/2025', 'Feriado Municipal', 'MUNICIPAL', '', 'SC', 'Palmitos');
+INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('02/03/2024', 'Aniversário do Município', 'MUNICIPAL', '', 'SC', 'Palmitos');
+INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('25/07/2024', 'Dia do Colono e Motorista', 'MUNICIPAL', '', 'SC', 'Palmitos');
+INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('31/10/2024', 'Dia da Reforma Religiosa', 'MUNICIPAL', '', 'SC', 'Palmitos');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('20/01/2025', 'Feriado Municipal', 'MUNICIPAL', '', 'SC', 'Papanduva');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('11/04/2025', 'Feriado Municipal', 'MUNICIPAL', '', 'SC', 'Papanduva');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('13/06/2025', 'Dia de Santo Antônio', 'MUNICIPAL', '', 'SC', 'Papanduva');
