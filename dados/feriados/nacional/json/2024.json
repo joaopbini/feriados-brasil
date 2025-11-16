@@ -70,7 +70,15 @@
     "descricao": "Em dezembro de 2023, o presidente Luiz Inácio Lula da Silva declarou a celebração do Dia Nacional de Zumbi e da Consciência Negra feriado nacional.",
     "uf": "",
     "municipio": ""
-  },  
+  },
+  {
+    "data": "20/11/2026",
+    "nome": "Consciência Negra",
+    "tipo": "NACIONAL",
+    "descricao": "Dia Nacional de Zumbi ou Dia da Consciência Negra é Feriado Nacional, conforme Lei 14.759/2023",
+    "uf": null,
+    "municipio": null
+  },
   {
     "data": "25/12/2024",
     "nome": "Natal",
