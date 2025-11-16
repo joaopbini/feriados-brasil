@@ -1,0 +1,266 @@
+[
+  {
+    "data": "24/01/2026",
+    "nome": "Dia do Evangélico",
+    "tipo": "ESTADUAL",
+    "descricao": "Dia do Evangélico",
+    "uf": "AC",
+    "municipio": null
+  },
+  {
+    "data": "08/03/2026",
+    "nome": "Dia da Mulher",
+    "tipo": "ESTADUAL",
+    "descricao": "Dia da Mulher",
+    "uf": "AC",
+    "municipio": null
+  },
+  {
+    "data": "15/06/2026",
+    "nome": "Aniversário do Acre",
+    "tipo": "ESTADUAL",
+    "descricao": "Aniversário do Acre",
+    "uf": "AC",
+    "municipio": null
+  },
+  {
+    "data": "06/08/2026",
+    "nome": "Revolução Acreana",
+    "tipo": "ESTADUAL",
+    "descricao": "Revolução Acreana",
+    "uf": "AC",
+    "municipio": null
+  },
+  {
+    "data": "05/09/2026",
+    "nome": "Dia da Amazônia",
+    "tipo": "ESTADUAL",
+    "descricao": "Dia da Amazônia",
+    "uf": "AC",
+    "municipio": null
+  },
+  {
+    "data": "29/06/2026",
+    "nome": "Dia de São Pedro",
+    "tipo": "ESTADUAL",
+    "descricao": "Dia de São Pedro",
+    "uf": "AL",
+    "municipio": null
+  },
+  {
+    "data": "16/09/2026",
+    "nome": "Emancipação de Alagoas",
+    "tipo": "ESTADUAL",
+    "descricao": "Emancipação de Alagoas",
+    "uf": "AL",
+    "municipio": null
+  },
+  {
+    "data": "05/09/2026",
+    "nome": "Aniversário do Amazonas",
+    "tipo": "ESTADUAL",
+    "descricao": "Aniversário do Amazonas",
+    "uf": "AM",
+    "municipio": null
+  },
+  {
+    "data": "08/12/2026",
+    "nome": "Dia de Nossa Senhora da Conceição",
+    "tipo": "ESTADUAL",
+    "descricao": "Dia de Nossa Senhora da Conceição",
+    "uf": "AM",
+    "municipio": null
+  },
+  {
+    "data": "19/03/2026",
+    "nome": "Dia de São José",
+    "tipo": "ESTADUAL",
+    "descricao": "Dia de São José",
+    "uf": "AP",
+    "municipio": null
+  },
+  {
+    "data": "15/05/2026",
+    "nome": "Dia de Cabralzinho",
+    "tipo": "ESTADUAL",
+    "descricao": "Dia de Cabralzinho",
+    "uf": "AP",
+    "municipio": null
+  },
+  {
+    "data": "13/09/2026",
+    "nome": "Aniversário da criação do ex-território federal do Amapá",
+    "tipo": "ESTADUAL",
+    "descricao": "Aniversário da criação do ex-território federal do Amapá",
+    "uf": "AP",
+    "municipio": null
+  },
+  {
+    "data": "02/07/2026",
+    "nome": "Independência da Bahia",
+    "tipo": "ESTADUAL",
+    "descricao": "Independência da Bahia",
+    "uf": "BA",
+    "municipio": null
+  },
+  {
+    "data": "25/03/2026",
+    "nome": "Data Magna do Ceará",
+    "tipo": "ESTADUAL",
+    "descricao": "Data Magna do Ceará",
+    "uf": "CE",
+    "municipio": null
+  },
+  {
+    "data": "30/11/2026",
+    "nome": "Dia do Evangélico",
+    "tipo": "ESTADUAL",
+    "descricao": "Dia do Evangélico",
+    "uf": "DF",
+    "municipio": null
+  },
+  {
+    "data": "28/04/2026",
+    "nome": "Aniversário do Estado",
+    "tipo": "ESTADUAL",
+    "descricao": "Aniversário do Estado",
+    "uf": "ES",
+    "municipio": null
+  },
+  {
+    "data": "28/07/2026",
+    "nome": "Adesão ao Império Brasileiro",
+    "tipo": "ESTADUAL",
+    "descricao": "Adesão ao Império Brasileiro",
+    "uf": "MA",
+    "municipio": null
+  },
+  {
+    "data": "11/10/2026",
+    "nome": "Aniversário do Mato Grosso do Sul",
+    "tipo": "ESTADUAL",
+    "descricao": "Aniversário do Mato Grosso do Sul",
+    "uf": "MS",
+    "municipio": null
+  },
+  {
+    "data": "15/08/2026",
+    "nome": "Adesão ao Império Brasileiro",
+    "tipo": "ESTADUAL",
+    "descricao": "Adesão ao Império Brasileiro",
+    "uf": "PA",
+    "municipio": null
+  },
+  {
+    "data": "05/08/2026",
+    "nome": "Fundação do Estado da Paraíba",
+    "tipo": "ESTADUAL",
+    "descricao": "Fundação do Estado da Paraíba",
+    "uf": "PB",
+    "municipio": null
+  },
+  {
+    "data": "06/03/2026",
+    "nome": "Revolução Pernambucana",
+    "tipo": "ESTADUAL",
+    "descricao": "Revolução Pernambucana",
+    "uf": "PE",
+    "municipio": null
+  },
+  {
+    "data": "24/06/2026",
+    "nome": "Dia de São João",
+    "tipo": "ESTADUAL",
+    "descricao": "Dia de São João",
+    "uf": "PE",
+    "municipio": null
+  },
+  {
+    "data": "19/10/2026",
+    "nome": "Dia do Piauí",
+    "tipo": "ESTADUAL",
+    "descricao": "Dia do Piauí",
+    "uf": "PI",
+    "municipio": null
+  },
+  {
+    "data": "04/03/2026",
+    "nome": "Carnaval",
+    "tipo": "ESTADUAL",
+    "descricao": "Carnaval",
+    "uf": "RJ",
+    "municipio": null
+  },
+  {
+    "data": "03/10/2026",
+    "nome": "Mártires de Cunhaú e Uruaçu",
+    "tipo": "ESTADUAL",
+    "descricao": "Mártires de Cunhaú e Uruaçu",
+    "uf": "RN",
+    "municipio": null
+  },
+  {
+    "data": "04/01/2026",
+    "nome": "Aniversário de Rondônia",
+    "tipo": "ESTADUAL",
+    "descricao": "Aniversário de Rondônia",
+    "uf": "RO",
+    "municipio": null
+  },
+  {
+    "data": "05/10/2026",
+    "nome": "Aniversário de Roraima",
+    "tipo": "ESTADUAL",
+    "descricao": "Aniversário de Roraima",
+    "uf": "RR",
+    "municipio": null
+  },
+  {
+    "data": "20/11/2026",
+    "nome": "Dia da Consciência Negra",
+    "tipo": "ESTADUAL",
+    "descricao": "Dia da Consciência Negra",
+    "uf": "RR",
+    "municipio": null
+  },
+  {
+    "data": "20/09/2026",
+    "nome": "Proc. República Rio Grandense",
+    "tipo": "ESTADUAL",
+    "descricao": "Proc. República Rio Grandense",
+    "uf": "RS",
+    "municipio": null
+  },
+  {
+    "data": "08/07/2026",
+    "nome": "Aniversário de Sergipe",
+    "tipo": "ESTADUAL",
+    "descricao": "Aniversário de Sergipe",
+    "uf": "SE",
+    "municipio": null
+  },
+  {
+    "data": "09/07/2026",
+    "nome": "Revolução Constitucionalista",
+    "tipo": "ESTADUAL",
+    "descricao": "Revolução Constitucionalista",
+    "uf": "SP",
+    "municipio": null
+  },
+  {
+    "data": "08/09/2026",
+    "nome": "Padroeira de Tocantins",
+    "tipo": "ESTADUAL",
+    "descricao": "Padroeira de Tocantins",
+    "uf": "TO",
+    "municipio": null
+  },
+  {
+    "data": "05/10/2026",
+    "nome": "Aniversário de Tocantins",
+    "tipo": "ESTADUAL",
+    "descricao": "Aniversário de Tocantins",
+    "uf": "TO",
+    "municipio": null
+  }
+]
