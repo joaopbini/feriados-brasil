@@ -1745,7 +1745,7 @@ INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('17/05
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('08/12/2026', 'Dia da Imaculada Conceição', 'MUNICIPAL', 'Consagrado à Padroeira de Santa Maria, Imaculada Conceição', 'RS', 'Santa Maria');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('26/07/2026', 'Feriado Municipal', 'MUNICIPAL', 'Feriado Municipal', 'RS', 'Santana da Boa Vista');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('17/09/2026', 'Feriado Municipal', 'MUNICIPAL', 'Feriado Municipal', 'RS', 'Santana da Boa Vista');
-INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('30/07/2026', 'Feriado Municipal', 'MUNICIPAL', 'Feriado Municipal', 'RS', 'Santana do Livramento');
+INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('30/07/2026', 'Feriado Municipal', 'MUNICIPAL', 'Feriado Municipal', 'RS', 'Sant'Ana do Livramento');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('02/02/2026', 'Feriado Municipal', 'MUNICIPAL', 'Feriado Municipal', 'RS', 'Santa Vitória do Palmar');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('04/01/2026', 'Feriado Municipal', 'MUNICIPAL', 'Feriado Municipal', 'RS', 'Santiago');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('08/12/2026', 'Feriado Municipal', 'MUNICIPAL', 'Feriado Municipal', 'RS', 'Santiago');

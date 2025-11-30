@@ -6356,7 +6356,7 @@ INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('31/10
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('02/02/2014', 'Feriado Municipal', 'MUNICIPAL', '', 'RS', 'Santa Vitória do Palmar');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('26/07/2014', 'Feriado Municipal', 'MUNICIPAL', '', 'RS', 'Santana da Boa Vista');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('17/09/2014', 'Feriado Municipal', 'MUNICIPAL', '', 'RS', 'Santana da Boa Vista');
-INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('30/07/2014', 'Feriado Municipal', 'MUNICIPAL', '', 'RS', 'Santana do Livramento');
+INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('30/07/2014', 'Feriado Municipal', 'MUNICIPAL', '', 'RS', 'Sant'Ana do Livramento');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('04/01/2014', 'Feriado Municipal', 'MUNICIPAL', '', 'RS', 'Santiago');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('08/12/2014', 'Feriado Municipal', 'MUNICIPAL', '', 'RS', 'Santiago');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('22/03/2014', 'Feriado Municipal', 'MUNICIPAL', '', 'RS', 'Santo Ângelo');
