@@ -1,3 +1,16 @@
+-- Tabela de Estados Brasileiros
+-- Fonte: API de Localidades do IBGE
+-- https://servicodados.ibge.gov.br/api/docs/localidades
+CREATE TABLE IF NOT EXISTS estados
+(
+    codigo_uf INTEGER      NOT NULL,
+    uf        VARCHAR(2)   NOT NULL PRIMARY KEY,
+    nome      VARCHAR(100) NOT NULL,
+    latitude  REAL         NOT NULL,
+    longitude REAL         NOT NULL,
+    regiao    VARCHAR(12)  NOT NULL
+);
+
 INSERT INTO estados (codigo_uf, uf, nome, latitude, longitude, regiao) VALUES (11, 'RO', 'Rondônia', -10.83, -63.34, 'Norte');
 INSERT INTO estados (codigo_uf, uf, nome, latitude, longitude, regiao) VALUES (12, 'AC', 'Acre', -8.77, -70.55, 'Norte');
 INSERT INTO estados (codigo_uf, uf, nome, latitude, longitude, regiao) VALUES (13, 'AM', 'Amazonas', -3.47, -65.1, 'Norte');
