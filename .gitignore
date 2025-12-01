@@ -20,3 +20,6 @@ HELP.md
 /nbdist/
 /.nb-gradle/
 /build/
+
+### venv ###
+venv/
