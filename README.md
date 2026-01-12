@@ -18,6 +18,15 @@ git checkout v1.0.0
 
 ---
 
+
+## Principais Fontes
+
+1. Feriados API: https://feriadosapi.com
+   - Esta tem sido a fonte mais completa e confiável. Caso alguém tenha assinatura e consiga extrair informações para complementar nossa base, a contribuição seria muito útil.
+2. https://feriados.com.br/
+
+---
+
 ## Como está organizado?
 
 Os dados estão disponíveis em múltiplos formatos para facilitar a integração:
@@ -332,6 +341,7 @@ data,nome,tipo,descricao,uf,codigo_ibge
 ```
 
 **Nota:** Para feriados nacionais e facultativos, os campos `uf` e `codigo_ibge` ficam vazios. Para feriados estaduais, apenas `codigo_ibge` fica vazio.
+
 
 ---
 
