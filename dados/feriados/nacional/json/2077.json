@@ -3,7 +3,7 @@
         "data": "01/01/2077",
         "nome": "Ano Novo",
         "tipo": "NACIONAL",
-        "descricao": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês rév",
+        "descricao": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
         "uf": null,
         "codigo_ibge": null
     },
@@ -11,7 +11,7 @@
         "data": "09/04/2077",
         "nome": "Sexta-Feira Santa",
         "tipo": "NACIONAL",
-        "descricao": "Sexta-Feira que antecede o Domingo de Páscoa.",
+        "descricao": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
         "uf": null,
         "codigo_ibge": null
     },
@@ -19,7 +19,7 @@
         "data": "21/04/2077",
         "nome": "Dia de Tiradentes",
         "tipo": "NACIONAL",
-        "descricao": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de",
+        "descricao": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
         "uf": null,
         "codigo_ibge": null
     },
@@ -59,7 +59,7 @@
         "data": "15/11/2077",
         "nome": "Proclamação da República",
         "tipo": "NACIONAL",
-        "descricao": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia",
+        "descricao": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
         "uf": null,
         "codigo_ibge": null
     },
@@ -75,7 +75,7 @@
         "data": "25/12/2077",
         "nome": "Natal",
         "tipo": "NACIONAL",
-        "descricao": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para ",
+        "descricao": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
         "uf": null,
         "codigo_ibge": null
     }
