@@ -13,7 +13,7 @@ INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('06/0
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('06/03/2019', 'Quarta-feira de cinzas', 'FACULTATIVO', 'Quarta-feira de cinzas, ponto facultativo, expediente a partir das 12h', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('19/03/2019', 'Dia de São José', 'FACULTATIVO', 'Padroeiro do Estado do Ceará', 'CE', null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('19/03/2019', 'São José', 'FACULTATIVO', 'Dia de São José padroeiro de Mafra', 'SC', 4210100);
-INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('29/03/2019', 'Aniversário da Ciadade', 'FACULTATIVO', 'Fundação de Curitiba - Aniversário da Cidade (Ponto Facultativo), conforme Lei Municipal nº229,26/12/49', 'PR', 4106902);
+INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('29/03/2019', 'Aniversário da Cidade', 'FACULTATIVO', 'Fundação de Curitiba - Aniversário da Cidade (Ponto Facultativo), conforme Lei Municipal nº229,26/12/49', 'PR', 4106902);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('18/04/2019', 'Quinta-feira Santa', 'FACULTATIVO', 'Ponto facultativo a compensar, a partir de 12:00', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('18/04/2019', 'Facultativo', 'FACULTATIVO', 'Ponto facultativo a partir das 13h00', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('18/04/2019', 'Quinta-feira santa', 'FACULTATIVO', 'Quinta-feira santa, ponto facultativo', null, null);

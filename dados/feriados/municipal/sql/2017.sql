@@ -2025,10 +2025,10 @@ INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('24/0
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('02/02/2017', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', 2923605);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('13/06/2017', 'Dia de Santo Antônio', 'MUNICIPAL', '', 'BA', 2923605);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('16/09/2017', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', 2923605);
-INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('20/01/2017', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', 2923704);
-INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('13/06/2017', 'Dia de Santo Antônio', 'MUNICIPAL', '', 'BA', 2923704);
-INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('25/06/2017', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', 2923704);
-INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('08/12/2017', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', 2923704);
+INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('20/01/2017', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', );
+INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('13/06/2017', 'Dia de Santo Antônio', 'MUNICIPAL', '', 'BA', );
+INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('25/06/2017', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', );
+INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('08/12/2017', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', );
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('19/04/2017', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', 2923902);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('13/12/2017', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', 2923902);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('24/06/2017', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', 2924009);

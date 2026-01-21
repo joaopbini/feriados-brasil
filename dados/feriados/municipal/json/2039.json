@@ -4360,14 +4360,6 @@
         "codigo_ibge": 2910800
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei 851 de 23/10/1978",
-        "uf": "BA",
-        "codigo_ibge": 2910800
-    },
-    {
         "data": "24/06/2039",
         "nome": "São João",
         "tipo": "MUNICIPAL",
@@ -7672,14 +7664,6 @@
         "codigo_ibge": 2927408
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei Municipal nº 1997 de 21 de junho de 1967",
-        "uf": "BA",
-        "codigo_ibge": 2927408
-    },
-    {
         "data": "24/06/2039",
         "nome": "Dia de São João",
         "tipo": "MUNICIPAL",
@@ -8132,14 +8116,6 @@
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-feira Santa",
-        "uf": "BA",
-        "codigo_ibge": 2929206
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "BA",
         "codigo_ibge": 2929206
     },
@@ -9994,14 +9970,6 @@
     {
         "data": "08/04/2039",
         "nome": "Sexta-feira Santa",
-        "tipo": "MUNICIPAL",
-        "descricao": "conforme a Lei nº 8796 de 09 de dezembro de 2003",
-        "uf": "CE",
-        "codigo_ibge": 2304400
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
         "descricao": "conforme a Lei nº 8796 de 09 de dezembro de 2003",
         "uf": "CE",
@@ -12736,14 +12704,6 @@
         "codigo_ibge": 3204906
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "ES",
-        "codigo_ibge": 3204906
-    },
-    {
         "data": "21/09/2039",
         "nome": "Emancipação",
         "tipo": "MUNICIPAL",
@@ -12980,14 +12940,6 @@
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
         "descricao": "conforme Lei Municipal nº 1.732, de 1967",
-        "uf": "ES",
-        "codigo_ibge": 3205309
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "ES",
         "codigo_ibge": 3205309
     },
@@ -18488,14 +18440,6 @@
         "codigo_ibge": 3104007
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Feriado municipal instituído pela Lei Municipal nº 6.725/2014",
-        "uf": "MG",
-        "codigo_ibge": 3104007
-    },
-    {
         "data": "08/08/2039",
         "nome": "Dia de São Domingos",
         "tipo": "MUNICIPAL",
@@ -18840,14 +18784,6 @@
         "codigo_ibge": 3106200
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 1327, de 08 de fevereiro de 1967",
-        "uf": "MG",
-        "codigo_ibge": 3106200
-    },
-    {
         "data": "15/08/2039",
         "nome": "Assunção de Nossa Senhora",
         "tipo": "MUNICIPAL",
@@ -18948,14 +18884,6 @@
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
         "descricao": "",
-        "uf": "MG",
-        "codigo_ibge": 3106705
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "MG",
         "codigo_ibge": 3106705
     },
@@ -20008,14 +19936,6 @@
         "codigo_ibge": 3113404
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "MG",
-        "codigo_ibge": 3113404
-    },
-    {
         "data": "24/06/2039",
         "nome": "Aniversário do Município",
         "tipo": "MUNICIPAL",
@@ -20350,14 +20270,6 @@
         "descricao": "Padroeira de Cataguases, Santa Rita de Cassia.",
         "uf": "MG",
         "codigo_ibge": 3115300
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "MG",
-        "codigo_ibge": 3115359
     },
     {
         "data": "09/06/2039",
@@ -20744,14 +20656,6 @@
         "codigo_ibge": 3117876
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Dia de Corpus Christi",
-        "uf": "MG",
-        "codigo_ibge": 3117876
-    },
-    {
         "data": "18/10/2039",
         "nome": "Dia de Mãe Rainha",
         "tipo": "MUNICIPAL",
@@ -20882,14 +20786,6 @@
     {
         "data": "08/04/2039",
         "nome": "Sexta-feira da Paixão",
-        "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 3.484/2001",
-        "uf": "MG",
-        "codigo_ibge": 3118601
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
         "descricao": "conforme Lei nº 3.484/2001",
         "uf": "MG",
@@ -22712,14 +22608,6 @@
         "codigo_ibge": 3131307
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "MG",
-        "codigo_ibge": 3131307
-    },
-    {
         "data": "15/08/2039",
         "nome": "Nossa Senhora",
         "tipo": "MUNICIPAL",
@@ -22796,14 +22684,6 @@
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
         "descricao": "",
-        "uf": "MG",
-        "codigo_ibge": 3131703
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "MG",
         "codigo_ibge": 3131703
     },
@@ -23806,14 +23686,6 @@
         "descricao": "",
         "uf": "MG",
         "codigo_ibge": 3137502
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "MG",
-        "codigo_ibge": 3137601
     },
     {
         "data": "09/06/2039",
@@ -26192,14 +26064,6 @@
         "codigo_ibge": 3152501
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Feriado municipal de acordo com a Lei Ordinária 5070/2011",
-        "uf": "MG",
-        "codigo_ibge": 3152501
-    },
-    {
         "data": "06/08/2039",
         "nome": "Senhor Bom Jesus",
         "tipo": "MUNICIPAL",
@@ -27584,14 +27448,6 @@
         "codigo_ibge": 3162500
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "MG",
-        "codigo_ibge": 3162500
-    },
-    {
         "data": "15/08/2039",
         "nome": "Feriado Municipal",
         "tipo": "MUNICIPAL",
@@ -28488,14 +28344,6 @@
         "codigo_ibge": 3168101
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Dia de Corpus Christi, conforme lei 676 de 19 de fevereiro de 2001",
-        "uf": "MG",
-        "codigo_ibge": 3168101
-    },
-    {
         "data": "15/08/2039",
         "nome": "Nossa Sra Abadia",
         "tipo": "MUNICIPAL",
@@ -28848,14 +28696,6 @@
         "codigo_ibge": 3170206
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "MG",
-        "codigo_ibge": 3170206
-    },
-    {
         "data": "15/08/2039",
         "nome": "Nossa Sra da Abadia",
         "tipo": "MUNICIPAL",
@@ -28900,14 +28740,6 @@
         "nome": "Santo Antônio",
         "tipo": "MUNICIPAL",
         "descricao": "Dia Consagrado a Santo Antônio do Boqueirão",
-        "uf": "MG",
-        "codigo_ibge": 3170404
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "MG",
         "codigo_ibge": 3170404
     },
@@ -29516,14 +29348,6 @@
         "nome": "Dia de Santo Antônio",
         "tipo": "MUNICIPAL",
         "descricao": "Padroeiro do Município de Campo Grande-MS, Santo Antônio de Pádua, conforme Lei nº 3901 de 29 de outubro de 2001",
-        "uf": "MS",
-        "codigo_ibge": 5002704
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 95, de 27 de Outubro de 1949",
         "uf": "MS",
         "codigo_ibge": 5002704
     },
@@ -30824,14 +30648,6 @@
         "codigo_ibge": 5103403
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "MT",
-        "codigo_ibge": 5103403
-    },
-    {
         "data": "08/12/2039",
         "nome": "N. Sra da Conceição",
         "tipo": "MUNICIPAL",
@@ -31024,14 +30840,6 @@
         "codigo_ibge": 5105101
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi, conforme lei municipal 2.094/2010",
-        "uf": "MT",
-        "codigo_ibge": 5105101
-    },
-    {
         "data": "14/12/2039",
         "nome": "Emancipação do Município",
         "tipo": "MUNICIPAL",
@@ -31144,8 +30952,8 @@
         "codigo_ibge": 5105622
     },
     {
-        "data": "18/04/2039",
-        "nome": "Sexta-Feria Santa",
+        "data": "08/04/2039",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-Feria Santa",
         "uf": "MT",
@@ -31486,14 +31294,6 @@
         "descricao": "Dia de São José",
         "uf": "MT",
         "codigo_ibge": 5107305
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Dia de Corpus Christi",
-        "uf": "MT",
-        "codigo_ibge": 5107602
     },
     {
         "data": "09/06/2039",
@@ -36368,14 +36168,6 @@
         "codigo_ibge": 2606002
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "PE",
-        "codigo_ibge": 2606002
-    },
-    {
         "data": "09/07/2039",
         "nome": "Feriado Municipal",
         "tipo": "MUNICIPAL",
@@ -38960,14 +38752,6 @@
         "codigo_ibge": 2211001
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 2.847 de 22 de novembro de 1999",
-        "uf": "PI",
-        "codigo_ibge": 2211001
-    },
-    {
         "data": "16/08/2039",
         "nome": "Aniversário de Teresina",
         "tipo": "MUNICIPAL",
@@ -39800,18 +39584,10 @@
         "codigo_ibge": 4104303
     },
     {
-        "data": "18/04/2039",
-        "nome": "Sexta Feira Santa",
+        "data": "08/04/2039",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta Feira Santa",
-        "uf": "PR",
-        "codigo_ibge": 4104303
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "PR",
         "codigo_ibge": 4104303
     },
@@ -40328,14 +40104,6 @@
         "codigo_ibge": 4106902
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Comemorações de Corpus Christi",
-        "uf": "PR",
-        "codigo_ibge": 4106902
-    },
-    {
         "data": "08/09/2039",
         "nome": "N. Sra da Luz dos Pinhais",
         "tipo": "MUNICIPAL",
@@ -40652,14 +40420,6 @@
         "nome": "Aniversário do Município",
         "tipo": "MUNICIPAL",
         "descricao": "Aniversário da Cidade de Foz do Iguaçu",
-        "uf": "PR",
-        "codigo_ibge": 4108304
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "conforme Decreto nº 24385, de 04 de janeiro de 2016",
         "uf": "PR",
         "codigo_ibge": 4108304
     },
@@ -41520,18 +41280,10 @@
         "codigo_ibge": 4113601
     },
     {
-        "data": "18/04/2039",
-        "nome": "Sexta Feira Santa",
+        "data": "08/04/2039",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Feriado de Sexta Feira da Paixão",
-        "uf": "PR",
-        "codigo_ibge": 4113700
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Feriado de Corpus Christi",
         "uf": "PR",
         "codigo_ibge": 4113700
     },
@@ -41852,14 +41604,6 @@
         "nome": "Antecipação do aniversário de Maringá",
         "tipo": "MUNICIPAL",
         "descricao": "De acordo com a Lei Municipal nº 8045 de 20 de junho de 2008 O Feriado do aniversário de Maringá será comemorado na segunda segunda-feira do mês de maio, quando o dia 10 de Maio não recair no domingo,",
-        "uf": "PR",
-        "codigo_ibge": 4115200
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei Municipal nº 512 de 22 de março de 1967",
         "uf": "PR",
         "codigo_ibge": 4115200
     },
@@ -42560,14 +42304,6 @@
         "codigo_ibge": 4118204
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "De acordo com a Lei nº 2589/2005",
-        "uf": "PR",
-        "codigo_ibge": 4118204
-    },
-    {
         "data": "29/07/2039",
         "nome": "Dia do Evangelho",
         "tipo": "MUNICIPAL",
@@ -43004,14 +42740,6 @@
         "nome": "Sexta-Feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-Feira Santa, conforme da Lei Municipal nº 06/1984",
-        "uf": "PR",
-        "codigo_ibge": 4120804
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi, conforme da Lei Municipal nº 06/1984",
         "uf": "PR",
         "codigo_ibge": 4120804
     },
@@ -44248,14 +43976,6 @@
         "codigo_ibge": 4127106
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Feriado de Corpus Christi",
-        "uf": "PR",
-        "codigo_ibge": 4127106
-    },
-    {
         "data": "27/06/2039",
         "nome": "Padroeira",
         "tipo": "MUNICIPAL",
@@ -44888,14 +44608,6 @@
         "codigo_ibge": 3301009
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "RJ",
-        "codigo_ibge": 3301009
-    },
-    {
         "data": "06/08/2039",
         "nome": "Santíssimo Salvador",
         "tipo": "MUNICIPAL",
@@ -45212,14 +44924,6 @@
         "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
         "descricao": "Aniversário da Cidade de Itatiaia",
-        "uf": "RJ",
-        "codigo_ibge": 3302254
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "RJ",
         "codigo_ibge": 3302254
     },
@@ -48720,18 +48424,10 @@
         "codigo_ibge": 4303905
     },
     {
-        "data": "18/04/2039",
-        "nome": "Sexta-Feria Santa",
+        "data": "08/04/2039",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-Feria Santa",
-        "uf": "RS",
-        "codigo_ibge": 4303905
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "RS",
         "codigo_ibge": 4303905
     },
@@ -49840,14 +49536,6 @@
         "codigo_ibge": 4308508
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "RS",
-        "codigo_ibge": 4308508
-    },
-    {
         "data": "29/06/2039",
         "nome": "Feriado Municipal",
         "tipo": "MUNICIPAL",
@@ -50078,14 +49766,6 @@
         "descricao": "",
         "uf": "RS",
         "codigo_ibge": 4310009
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Decreto nº 5375, de 17 de fevereiro de 2014",
-        "uf": "RS",
-        "codigo_ibge": 4310207
     },
     {
         "data": "09/06/2039",
@@ -50416,8 +50096,8 @@
         "codigo_ibge": 4311601
     },
     {
-        "data": "18/04/2039",
-        "nome": "Sexta-Feria Santa",
+        "data": "08/04/2039",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Feriado Religioso da Sexta-Feria Santa",
         "uf": "RS",
@@ -51384,14 +51064,6 @@
         "codigo_ibge": 4314902
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "conforme a Lei nº 4453, de 18 de setembro de 1978",
-        "uf": "RS",
-        "codigo_ibge": 4314902
-    },
-    {
         "data": "02/02/2039",
         "nome": "Feriado Municipal",
         "tipo": "MUNICIPAL",
@@ -51584,8 +51256,8 @@
         "codigo_ibge": 4315503
     },
     {
-        "data": "18/04/2039",
-        "nome": "Sexta-Feria Santa",
+        "data": "08/04/2039",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-Feira da Paixão",
         "uf": "RS",
@@ -53456,8 +53128,8 @@
         "codigo_ibge": 4201703
     },
     {
-        "data": "18/04/2039",
-        "nome": "Sexta-Feria Santa",
+        "data": "08/04/2039",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-Feria Santa",
         "uf": "SC",
@@ -53544,14 +53216,6 @@
         "codigo_ibge": 4202008
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "SC",
-        "codigo_ibge": 4202008
-    },
-    {
         "data": "20/07/2039",
         "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
@@ -53568,8 +53232,8 @@
         "codigo_ibge": 4202073
     },
     {
-        "data": "18/04/2039",
-        "nome": "Sexta-Feria Santa",
+        "data": "08/04/2039",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-Feria Santa",
         "uf": "SC",
@@ -53604,14 +53268,6 @@
         "nome": "Sexta-Feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-Feira Santa",
-        "uf": "SC",
-        "codigo_ibge": 4202404
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "SC",
         "codigo_ibge": 4202404
     },
@@ -53764,14 +53420,6 @@
         "nome": "Sexta-Feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-Feira Santa",
-        "uf": "SC",
-        "codigo_ibge": 4202909
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "SC",
         "codigo_ibge": 4202909
     },
@@ -54008,14 +53656,6 @@
         "codigo_ibge": 4204202
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Dia de Corpus Christi",
-        "uf": "SC",
-        "codigo_ibge": 4204202
-    },
-    {
         "data": "25/08/2039",
         "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
@@ -54076,14 +53716,6 @@
         "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-feira da Paixão",
-        "uf": "SC",
-        "codigo_ibge": 4204608
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "SC",
         "codigo_ibge": 4204608
     },
@@ -54168,8 +53800,8 @@
         "codigo_ibge": 4205001
     },
     {
-        "data": "18/04/2039",
-        "nome": "Sexta Feira Santa",
+        "data": "08/04/2039",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta Feira Santa, conforme lei 884 de 08 de junho de 1993.",
         "uf": "SC",
@@ -54264,14 +53896,6 @@
         "codigo_ibge": 4205407
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "SC",
-        "codigo_ibge": 4205407
-    },
-    {
         "data": "26/04/2039",
         "nome": "Feriado Municipal",
         "tipo": "MUNICIPAL",
@@ -54328,14 +53952,6 @@
         "codigo_ibge": 4205704
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "SC",
-        "codigo_ibge": 4205704
-    },
-    {
         "data": "26/07/2039",
         "nome": "São Joaquim",
         "tipo": "MUNICIPAL",
@@ -54348,14 +53964,6 @@
         "nome": "Sexta-Feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-Feira Santa",
-        "uf": "SC",
-        "codigo_ibge": 4205803
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "SC",
         "codigo_ibge": 4205803
     },
@@ -54396,14 +54004,6 @@
         "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-feira da Paixão",
-        "uf": "SC",
-        "codigo_ibge": 4205902
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "SC",
         "codigo_ibge": 4205902
     },
@@ -54880,14 +54480,6 @@
         "codigo_ibge": 4208906
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "SC",
-        "codigo_ibge": 4208906
-    },
-    {
         "data": "25/07/2039",
         "nome": "Aniversário",
         "tipo": "MUNICIPAL",
@@ -54940,14 +54532,6 @@
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
         "descricao": "",
-        "uf": "SC",
-        "codigo_ibge": 4209102
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "SC",
         "codigo_ibge": 4209102
     },
@@ -55536,14 +55120,6 @@
         "codigo_ibge": 4211900
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi, segundo lei 008/1973",
-        "uf": "SC",
-        "codigo_ibge": 4211900
-    },
-    {
         "data": "25/07/2039",
         "nome": "Feriado Municipal",
         "tipo": "MUNICIPAL",
@@ -56096,8 +55672,8 @@
         "codigo_ibge": 4215109
     },
     {
-        "data": "18/04/2039",
-        "nome": "Sexta-Feria Santa",
+        "data": "08/04/2039",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-Feria Santa",
         "uf": "SC",
@@ -56424,14 +56000,6 @@
         "codigo_ibge": 4216701
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi, conforme Lei nº 3780/2010",
-        "uf": "SC",
-        "codigo_ibge": 4216701
-    },
-    {
         "data": "27/07/2039",
         "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
@@ -56664,8 +56232,8 @@
         "codigo_ibge": 4218400
     },
     {
-        "data": "18/04/2039",
-        "nome": "Sexta Feira Santa",
+        "data": "08/04/2039",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta Feira Santa, conforme lei 1738 de 30 de agosto de 2012",
         "uf": "SC",
@@ -56700,14 +56268,6 @@
         "nome": "Sexta-Feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-Feira Santa",
-        "uf": "SC",
-        "codigo_ibge": 4218707
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "SC",
         "codigo_ibge": 4218707
     },
@@ -58368,14 +57928,6 @@
         "codigo_ibge": 3501608
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Dia de Corpus Christi",
-        "uf": "SP",
-        "codigo_ibge": 3501608
-    },
-    {
         "data": "16/11/2039",
         "nome": "Dia da Consciência Negra",
         "tipo": "MUNICIPAL",
@@ -58732,14 +58284,6 @@
         "nome": "Sexta-Feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-Feira Santa conforme Lei 978/67, de 03 de Maio de 1967",
-        "uf": "SP",
-        "codigo_ibge": 3504107
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi conforme Lei 978/67, de 03 de Maio de 1967",
         "uf": "SP",
         "codigo_ibge": 3504107
     },
@@ -59240,14 +58784,6 @@
         "codigo_ibge": 3507506
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "SP",
-        "codigo_ibge": 3507506
-    },
-    {
         "data": "26/07/2039",
         "nome": "Dia de SantAnna",
         "tipo": "MUNICIPAL",
@@ -59610,14 +59146,6 @@
     {
         "data": "08/04/2039",
         "nome": "Sexta-feira Santa",
-        "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei Municipal no 173, de 28 de junho de 1949",
-        "uf": "SP",
-        "codigo_ibge": 3509502
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
         "descricao": "conforme Lei Municipal no 173, de 28 de junho de 1949",
         "uf": "SP",
@@ -60324,14 +59852,6 @@
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
         "descricao": "",
-        "uf": "SP",
-        "codigo_ibge": 3513801
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "SP",
         "codigo_ibge": 3513801
     },
@@ -61200,14 +60720,6 @@
         "codigo_ibge": 3518701
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "SP",
-        "codigo_ibge": 3518701
-    },
-    {
         "data": "08/12/2039",
         "nome": "Aniversário de Guarulhos",
         "tipo": "MUNICIPAL",
@@ -61268,14 +60780,6 @@
         "nome": "Divino Esp. Santo",
         "tipo": "MUNICIPAL",
         "descricao": "Divino Espírito Santo, padroeiro da cidade",
-        "uf": "SP",
-        "codigo_ibge": 3519055
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "SP",
         "codigo_ibge": 3519055
     },
@@ -62072,14 +61576,6 @@
         "codigo_ibge": 3523107
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "SP",
-        "codigo_ibge": 3523107
-    },
-    {
         "data": "08/09/2039",
         "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
@@ -62244,14 +61740,6 @@
         "nome": "Sexta-Feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-Feira Santa. Lei nº 262/80",
-        "uf": "SP",
-        "codigo_ibge": 3524006
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi. Lei nº 262/80",
         "uf": "SP",
         "codigo_ibge": 3524006
     },
@@ -62792,14 +62280,6 @@
         "codigo_ibge": 3527306
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "SP",
-        "codigo_ibge": 3527306
-    },
-    {
         "data": "24/06/2039",
         "nome": "Feriado Municipal",
         "tipo": "MUNICIPAL",
@@ -63080,14 +62560,6 @@
         "codigo_ibge": 3529401
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "SP",
-        "codigo_ibge": 3529401
-    },
-    {
         "data": "08/12/2039",
         "nome": "Aniversário da cidade",
         "tipo": "MUNICIPAL",
@@ -63304,14 +62776,6 @@
         "codigo_ibge": 3530607
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "SP",
-        "codigo_ibge": 3530607
-    },
-    {
         "data": "26/07/2039",
         "nome": "Padroeira",
         "tipo": "MUNICIPAL",
@@ -63500,14 +62964,6 @@
         "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-feira da Paixão",
-        "uf": "SP",
-        "codigo_ibge": 3531803
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "SP",
         "codigo_ibge": 3531803
     },
@@ -63976,14 +63432,6 @@
         "codigo_ibge": 3534401
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "conforme Decreto 10.933, de 20 de dezembro de 2013",
-        "uf": "SP",
-        "codigo_ibge": 3534401
-    },
-    {
         "data": "24/04/2039",
         "nome": "Feriado Municipal",
         "tipo": "MUNICIPAL",
@@ -64122,14 +63570,6 @@
     {
         "data": "08/04/2039",
         "nome": "Sexta-feira da Paixão",
-        "tipo": "MUNICIPAL",
-        "descricao": "Conforme a Lei nº 2177 de 22 de dezembro de 2006",
-        "uf": "SP",
-        "codigo_ibge": 3535309
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
         "descricao": "Conforme a Lei nº 2177 de 22 de dezembro de 2006",
         "uf": "SP",
@@ -66008,14 +65448,6 @@
         "codigo_ibge": 3547601
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "SP",
-        "codigo_ibge": 3547601
-    },
-    {
         "data": "04/09/2039",
         "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
@@ -66058,14 +65490,6 @@
     {
         "data": "08/04/2039",
         "nome": "Sexta-feira Santa",
-        "tipo": "MUNICIPAL",
-        "descricao": "conforme Decreto 16.465, DE 18 de dezembro de 2013",
-        "uf": "SP",
-        "codigo_ibge": 3547809
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
         "descricao": "conforme Decreto 16.465, DE 18 de dezembro de 2013",
         "uf": "SP",
@@ -66212,14 +65636,6 @@
         "nome": "Sexta-feira santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-feira santa",
-        "uf": "SP",
-        "codigo_ibge": 3548708
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "conforme Decreto 18.735 de 19 de dezembro de 2013",
         "uf": "SP",
         "codigo_ibge": 3548708
     },
@@ -66400,14 +65816,6 @@
         "codigo_ibge": 3549805
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
-        "uf": "SP",
-        "codigo_ibge": 3549805
-    },
-    {
         "data": "08/12/2039",
         "nome": "Imaculada Conceição",
         "tipo": "MUNICIPAL",
@@ -66436,14 +65844,6 @@
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
         "descricao": "",
-        "uf": "SP",
-        "codigo_ibge": 3549904
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "SP",
         "codigo_ibge": 3549904
     },
@@ -66560,14 +65960,6 @@
         "codigo_ibge": 3550308
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 14.485 de 19 de julho de 2007",
-        "uf": "SP",
-        "codigo_ibge": 3550308
-    },
-    {
         "data": "22/02/2039",
         "nome": "Feriado Municipal",
         "tipo": "MUNICIPAL",
@@ -66656,18 +66048,10 @@
         "codigo_ibge": 3551009
     },
     {
-        "data": "18/04/2039",
-        "nome": "Sexta-Feria Santa",
+        "data": "08/04/2039",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-Feria Santa, conforme Lei Municipal 1.332/67",
-        "uf": "SP",
-        "codigo_ibge": 3551009
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi, conforme Lei Municipal 1.332/67",
         "uf": "SP",
         "codigo_ibge": 3551009
     },
@@ -66920,14 +66304,6 @@
         "codigo_ibge": 3552502
     },
     {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "conforme Decreto Municipal nº 8652 de 06 de janeiro de 2015",
-        "uf": "SP",
-        "codigo_ibge": 3552502
-    },
-    {
         "data": "27/11/2039",
         "nome": "Feriado Municipal",
         "tipo": "MUNICIPAL",
@@ -66948,14 +66324,6 @@
         "nome": "Sexta-feira santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-feira santa",
-        "uf": "SP",
-        "codigo_ibge": 3552809
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "SP",
         "codigo_ibge": 3552809
     },
@@ -67156,14 +66524,6 @@
         "nome": "São Benedito",
         "tipo": "MUNICIPAL",
         "descricao": "Festa de São Benedito, conforme Lei nº 4.128/07",
-        "uf": "SP",
-        "codigo_ibge": 3554102
-    },
-    {
-        "data": "09/06/2039",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
         "uf": "SP",
         "codigo_ibge": 3554102
     },
