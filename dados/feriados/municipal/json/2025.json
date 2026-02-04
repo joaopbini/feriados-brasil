@@ -8,14 +8,6 @@
     "codigo_ibge": 2905701
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa, paixão de cristo",
-    "uf": "BA",
-    "codigo_ibge": 2905701
-  },
-  {
     "data": "24/06/2025",
     "nome": "Dia de São João",
     "tipo": "MUNICIPAL",
@@ -968,14 +960,6 @@
     "codigo_ibge": 2910057
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "BA",
-    "codigo_ibge": 2910057
-  },
-  {
     "data": "07/04/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -1110,14 +1094,6 @@
     "descricao": "",
     "uf": "BA",
     "codigo_ibge": 2910750
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Lei 851 de 23/10/1978",
-    "uf": "BA",
-    "codigo_ibge": 2910800
   },
   {
     "data": "19/06/2025",
@@ -2096,14 +2072,6 @@
     "codigo_ibge": 2916104
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "BA",
-    "codigo_ibge": 2916104
-  },
-  {
     "data": "06/08/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -3036,14 +3004,6 @@
     "nome": "São José",
     "tipo": "MUNICIPAL",
     "descricao": "Dia de São José, padroeiro da Cidade",
-    "uf": "AL",
-    "codigo_ibge": 2704708
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
     "uf": "AL",
     "codigo_ibge": 2704708
   },
@@ -5856,26 +5816,10 @@
     "codigo_ibge": 2919207
   },
   {
-    "data": "18/04/2025",
-    "nome": "Paixão de Cristo",
-    "tipo": "MUNICIPAL",
-    "descricao": "Paixão de Cristo",
-    "uf": "BA",
-    "codigo_ibge": 2919207
-  },
-  {
     "data": "24/06/2025",
     "nome": "São João",
     "tipo": "MUNICIPAL",
     "descricao": "Dia de São João",
-    "uf": "BA",
-    "codigo_ibge": 2919207
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia Municipal da Consciência Negra",
     "uf": "BA",
     "codigo_ibge": 2919207
   },
@@ -7040,14 +6984,6 @@
     "codigo_ibge": 2925006
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira da Paixão",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "BA",
-    "codigo_ibge": 2925006
-  },
-  {
     "data": "22/05/2025",
     "nome": "Dia de Santa Rita, padroeira secundária da cidade.",
     "tipo": "MUNICIPAL",
@@ -7576,14 +7512,6 @@
     "codigo_ibge": 2927309
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Lei Municipal nº 1997 de 21 de junho de 1967",
-    "uf": "BA",
-    "codigo_ibge": 2927408
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -8040,14 +7968,6 @@
     "codigo_ibge": 2929206
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-feira Santa",
-    "uf": "BA",
-    "codigo_ibge": 2929206
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -8400,14 +8320,6 @@
     "codigo_ibge": 2930501
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 735/2007 de 20/12/2007",
-    "uf": "BA",
-    "codigo_ibge": 2930501
-  },
-  {
     "data": "18/07/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -8490,14 +8402,6 @@
   {
     "data": "05/07/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "BA",
-    "codigo_ibge": 2930808
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "BA",
@@ -9824,14 +9728,6 @@
     "codigo_ibge": 2304251
   },
   {
-    "data": "15/11/2025",
-    "nome": "Dia da Macha do Vale",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "CE",
-    "codigo_ibge": 2304251
-  },
-  {
     "data": "23/06/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -9892,14 +9788,6 @@
     "nome": "Aniversário de Fortaleza",
     "tipo": "MUNICIPAL",
     "descricao": "conforme Lei nº 7535, de 16 de junho 1994",
-    "uf": "CE",
-    "codigo_ibge": 2304400
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme a Lei nº 8796 de 09 de dezembro de 2003",
     "uf": "CE",
     "codigo_ibge": 2304400
   },
@@ -11440,14 +11328,6 @@
     "codigo_ibge": 2314102
   },
   {
-    "data": "21/04/2025",
-    "nome": "Aniversário de Brasília",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "DF",
-    "codigo_ibge": 5300108
-  },
-  {
     "data": "20/01/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -11736,14 +11616,6 @@
     "codigo_ibge": 3201308
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Lei nº 317/1967",
-    "uf": "ES",
-    "codigo_ibge": 3201308
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -11756,14 +11628,6 @@
     "nome": "São João Batista",
     "tipo": "MUNICIPAL",
     "descricao": "Dia de São João Batista, Aniversário de Cariacica - conforme Lei Municipal nº 317/1967",
-    "uf": "ES",
-    "codigo_ibge": 3201308
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia da Consciência Negra",
     "uf": "ES",
     "codigo_ibge": 3201308
   },
@@ -11936,14 +11800,6 @@
     "codigo_ibge": 3202405
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "http://www.guarapari.es.gov.br/v3/index.php/servicos-ao-cidadao/feriados-e-datas-comemorativas.html",
-    "uf": "ES",
-    "codigo_ibge": 3202405
-  },
-  {
     "data": "08/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -12076,14 +11932,6 @@
     "nome": "São Sebastião",
     "tipo": "MUNICIPAL",
     "descricao": "Dia de São Sebastião",
-    "uf": "ES",
-    "codigo_ibge": 3202900
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Emancipação política",
-    "tipo": "MUNICIPAL",
-    "descricao": "Emancipação politica do Município",
     "uf": "ES",
     "codigo_ibge": 3202900
   },
@@ -12608,14 +12456,6 @@
     "codigo_ibge": 3204807
   },
   {
-    "data": "18/04/2025",
-    "nome": "Paixão de Cristo",
-    "tipo": "MUNICIPAL",
-    "descricao": "Paixão de Cristo",
-    "uf": "ES",
-    "codigo_ibge": 3204906
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -12776,14 +12616,6 @@
     "codigo_ibge": 3205176
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Feriado, conforme Lei 5.622 de 2015",
-    "uf": "ES",
-    "codigo_ibge": 3205200
-  },
-  {
     "data": "28/04/2025",
     "nome": "Festa da Penha",
     "tipo": "MUNICIPAL",
@@ -12806,14 +12638,6 @@
     "descricao": "Feriado, conforme Lei 5.622 de 2015",
     "uf": "ES",
     "codigo_ibge": 3205200
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Lei Municipal nº 1.732, de 1967",
-    "uf": "ES",
-    "codigo_ibge": 3205309
   },
   {
     "data": "28/04/2025",
@@ -12994,14 +12818,6 @@
   {
     "data": "06/08/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "GO",
-    "codigo_ibge": 5201702
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "GO",
@@ -13792,14 +13608,6 @@
     "codigo_ibge": 5207907
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "GO",
-    "codigo_ibge": 5207907
-  },
-  {
     "data": "01/08/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -13940,14 +13748,6 @@
     "nome": "Aniversário de Goiânia",
     "tipo": "MUNICIPAL",
     "descricao": "conforme a Lei nº 6968 de 19 de junho de 1991",
-    "uf": "GO",
-    "codigo_ibge": 5208707
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme a Lei nº 8786/2009",
     "uf": "GO",
     "codigo_ibge": 5208707
   },
@@ -14194,14 +13994,6 @@
   {
     "data": "14/11/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "GO",
-    "codigo_ibge": 5210802
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "GO",
@@ -15160,14 +14952,6 @@
     "codigo_ibge": 5219407
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "GO",
-    "codigo_ibge": 5219407
-  },
-  {
     "data": "15/08/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -15494,14 +15278,6 @@
     "descricao": "",
     "uf": "GO",
     "codigo_ibge": 5221809
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira da Paixão",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "GO",
-    "codigo_ibge": 5221858
   },
   {
     "data": "15/06/2025",
@@ -17336,14 +17112,6 @@
     "codigo_ibge": 2111201
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Lei nº 3432, de 06 de fevereiro de 1996",
-    "uf": "MA",
-    "codigo_ibge": 2111300
-  },
-  {
     "data": "29/06/2025",
     "nome": "São Pedro",
     "tipo": "MUNICIPAL",
@@ -18032,14 +17800,6 @@
     "codigo_ibge": 3101508
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa, conforme decreto 1723/1996",
-    "uf": "MG",
-    "codigo_ibge": 3101508
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -18052,14 +17812,6 @@
     "nome": "Aniversário da Cidade",
     "tipo": "MUNICIPAL",
     "descricao": "Aniversário da cidade e consagrado a São Cosme e São Damião, segundo decreto 1723/1996",
-    "uf": "MG",
-    "codigo_ibge": 3101508
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 2.489, de 12 de março de 2007",
     "uf": "MG",
     "codigo_ibge": 3101508
   },
@@ -18332,14 +18084,6 @@
     "nome": "Carnaval",
     "tipo": "MUNICIPAL",
     "descricao": "Terça feira de carnaval, feriado municipal instituído pela Lei Municipal nº 6.725/2014",
-    "uf": "MG",
-    "codigo_ibge": 3104007
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Feriado municipal instituído pela Lei Municipal nº 6.725/2014",
     "uf": "MG",
     "codigo_ibge": 3104007
   },
@@ -18680,14 +18424,6 @@
     "codigo_ibge": 3106002
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Lei nº 1327, de 08 de fevereiro de 1967",
-    "uf": "MG",
-    "codigo_ibge": 3106200
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -18784,14 +18520,6 @@
     "codigo_ibge": 3106507
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "MG",
-    "codigo_ibge": 3106705
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -18802,14 +18530,6 @@
   {
     "data": "16/07/2025",
     "nome": "Dia de Nossa Senhora do Carmo, padroeira da cidade - Lei 4.731 22/12/2008.",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "MG",
-    "codigo_ibge": 3106705
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra - Lei 4.731 22/12/2008.",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "MG",
@@ -18854,14 +18574,6 @@
     "descricao": "",
     "uf": "MG",
     "codigo_ibge": 3107307
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "feriado municipal religioso instituído pela Lei Municipal 713, de 30 de dezembro de 1.976",
-    "uf": "MG",
-    "codigo_ibge": 3107406
   },
   {
     "data": "01/06/2025",
@@ -19920,14 +19632,6 @@
     "codigo_ibge": 3113701
   },
   {
-    "data": "18/04/2025",
-    "nome": "Paixão de Cristo",
-    "tipo": "MUNICIPAL",
-    "descricao": "Paixão de Cristo",
-    "uf": "MG",
-    "codigo_ibge": 3113701
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -20054,14 +19758,6 @@
     "descricao": "",
     "uf": "MG",
     "codigo_ibge": 3114402
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta Feira Santa",
-    "uf": "MG",
-    "codigo_ibge": 3114501
   },
   {
     "data": "19/06/2025",
@@ -20584,14 +20280,6 @@
     "codigo_ibge": 3117876
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "MG",
-    "codigo_ibge": 3117876
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -20720,36 +20408,12 @@
     "codigo_ibge": 3118403
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira da Paixão",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Lei nº 3.484/2001",
-    "uf": "MG",
-    "codigo_ibge": 3118601
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
     "descricao": "conforme Lei nº 3.484/2001",
     "uf": "MG",
     "codigo_ibge": 3118601
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Conforme Lei nº 4.701/2014",
-    "uf": "MG",
-    "codigo_ibge": 3118601
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "MG",
-    "codigo_ibge": 3118700
   },
   {
     "data": "08/12/2025",
@@ -22040,14 +21704,6 @@
     "codigo_ibge": 3128402
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "MG",
-    "codigo_ibge": 3128402
-  },
-  {
     "data": "02/05/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -22070,14 +21726,6 @@
     "descricao": "",
     "uf": "MG",
     "codigo_ibge": 3128600
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "MG",
-    "codigo_ibge": 3128709
   },
   {
     "data": "01/06/2025",
@@ -22228,14 +21876,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "MG",
-    "codigo_ibge": 3129509
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal n 1864, de 09.12.2008",
     "uf": "MG",
     "codigo_ibge": 3129509
   },
@@ -22512,14 +22152,6 @@
     "codigo_ibge": 3131208
   },
   {
-    "data": "18/04/2025",
-    "nome": "Paixão de Cristo",
-    "tipo": "MUNICIPAL",
-    "descricao": "Paixão de Cristo",
-    "uf": "MG",
-    "codigo_ibge": 3131307
-  },
-  {
     "data": "29/04/2025",
     "nome": "Emancipação",
     "tipo": "MUNICIPAL",
@@ -22598,14 +22230,6 @@
     "descricao": "",
     "uf": "MG",
     "codigo_ibge": 3131604
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira da Paixão",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "MG",
-    "codigo_ibge": 3131703
   },
   {
     "data": "19/06/2025",
@@ -22866,14 +22490,6 @@
   {
     "data": "11/07/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "MG",
-    "codigo_ibge": 3133501
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "MG",
@@ -23164,14 +22780,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "MG",
-    "codigo_ibge": 3134905
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal no 1687",
     "uf": "MG",
     "codigo_ibge": 3134905
   },
@@ -24576,14 +24184,6 @@
     "codigo_ibge": 3143302
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "MG",
-    "codigo_ibge": 3143302
-  },
-  {
     "data": "17/09/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -25320,14 +24920,6 @@
     "codigo_ibge": 3147907
   },
   {
-    "data": "18/04/2025",
-    "nome": "Paixão de Cristo",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "MG",
-    "codigo_ibge": 3148004
-  },
-  {
     "data": "24/05/2025",
     "nome": "Aniversário",
     "tipo": "MUNICIPAL",
@@ -25768,14 +25360,6 @@
     "codigo_ibge": 3151305
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "MG",
-    "codigo_ibge": 3151305
-  },
-  {
     "data": "12/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -25936,14 +25520,6 @@
     "codigo_ibge": 3152402
   },
   {
-    "data": "18/04/2025",
-    "nome": "Paixão de Cristo",
-    "tipo": "MUNICIPAL",
-    "descricao": "Feriado municipal de acordo com a Lei Ordinária 5070/2011",
-    "uf": "MG",
-    "codigo_ibge": 3152501
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -25964,14 +25540,6 @@
     "nome": "Aniversário da cidade",
     "tipo": "MUNICIPAL",
     "descricao": "Emancipação política e administrativa da cidade. Feriado municipal de acordo com a Lei Ordinária 5070/2011",
-    "uf": "MG",
-    "codigo_ibge": 3152501
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia da Consciência Negra. Feriado municipal de acordo com a Lei Ordinária 5634/2015",
     "uf": "MG",
     "codigo_ibge": 3152501
   },
@@ -26392,14 +25960,6 @@
     "codigo_ibge": 3155504
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "MG",
-    "codigo_ibge": 3155504
-  },
-  {
     "data": "05/04/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -26686,14 +26246,6 @@
     "descricao": "",
     "uf": "MG",
     "codigo_ibge": 3157104
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira da Paixão",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-feira da Paixão",
-    "uf": "MG",
-    "codigo_ibge": 3157203
   },
   {
     "data": "13/06/2025",
@@ -27256,14 +26808,6 @@
     "codigo_ibge": 3162104
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa - Dia da Paixão de Cristo",
-    "uf": "MG",
-    "codigo_ibge": 3162104
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -27334,14 +26878,6 @@
     "descricao": "",
     "uf": "MG",
     "codigo_ibge": 3162401
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "MG",
-    "codigo_ibge": 3162500
   },
   {
     "data": "19/06/2025",
@@ -27808,14 +27344,6 @@
     "codigo_ibge": 3164704
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "MG",
-    "codigo_ibge": 3164704
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -27828,14 +27356,6 @@
     "nome": "Aniversário da Cidade",
     "tipo": "MUNICIPAL",
     "descricao": "Dia da Fundação do Município",
-    "uf": "MG",
-    "codigo_ibge": 3164704
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia da Consciência Negra",
     "uf": "MG",
     "codigo_ibge": 3164704
   },
@@ -27906,14 +27426,6 @@
   {
     "data": "26/07/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "MG",
-    "codigo_ibge": 3165404
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "MG",
@@ -28424,14 +27936,6 @@
     "codigo_ibge": 3169208
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "MG",
-    "codigo_ibge": 3169208
-  },
-  {
     "data": "08/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -28584,22 +28088,6 @@
     "codigo_ibge": 3170107
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 10.678, de 2008 e Lei 11.523/2012",
-    "uf": "MG",
-    "codigo_ibge": 3170107
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "MG",
-    "codigo_ibge": 3170206
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -28624,26 +28112,10 @@
     "codigo_ibge": 3170206
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Feriado em Comemoração ao dia da Consciência Negra",
-    "uf": "MG",
-    "codigo_ibge": 3170206
-  },
-  {
     "data": "15/01/2025",
     "nome": "Aniversário da cidade",
     "tipo": "MUNICIPAL",
     "descricao": "Aniversário da cidade",
-    "uf": "MG",
-    "codigo_ibge": 3170404
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa/Paixão de Cristo",
     "uf": "MG",
     "codigo_ibge": 3170404
   },
@@ -28826,14 +28298,6 @@
   {
     "data": "15/08/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "MG",
-    "codigo_ibge": 3171600
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "MG",
@@ -29224,14 +28688,6 @@
     "codigo_ibge": 5002605
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Lei nº 95, de 27 de Outubro de 1949",
-    "uf": "MS",
-    "codigo_ibge": 5002704
-  },
-  {
     "data": "13/06/2025",
     "nome": "Dia de Santo Antônio",
     "tipo": "MUNICIPAL",
@@ -29312,14 +28768,6 @@
     "codigo_ibge": 5003207
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira da Paixão",
-    "tipo": "MUNICIPAL",
-    "descricao": "Consagrado ao martírio de Nosso Senhor Jesus Cristo, Salvador da Humanidade",
-    "uf": "MS",
-    "codigo_ibge": 5003207
-  },
-  {
     "data": "13/06/2025",
     "nome": "Retomada de Corumbá",
     "tipo": "MUNICIPAL",
@@ -29332,14 +28780,6 @@
     "nome": "Fundação de Corumbá",
     "tipo": "MUNICIPAL",
     "descricao": "Comemorativo a fundação de Corumbá, ocorrida em 1.778 e por ordem do Capitão General Luiz de Albuquerque de Mello Pereira e Cáceres, Governador da Capitania de Mato Grosso",
-    "uf": "MS",
-    "codigo_ibge": 5003207
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Alusão ao Dia da Consciência Negra",
     "uf": "MS",
     "codigo_ibge": 5003207
   },
@@ -29520,14 +28960,6 @@
     "codigo_ibge": 5004502
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "MS",
-    "codigo_ibge": 5004502
-  },
-  {
     "data": "10/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -29644,14 +29076,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "MS",
-    "codigo_ibge": 5005202
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Feriado Municipal em Alusão ao Dia da Consciência Negra",
     "uf": "MS",
     "codigo_ibge": 5005202
   },
@@ -30552,14 +29976,6 @@
     "codigo_ibge": 5103403
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Lei nº 1077 de 02 de abril de 1968",
-    "uf": "MT",
-    "codigo_ibge": 5103403
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -30744,14 +30160,6 @@
     "codigo_ibge": 5105101
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa, conforme lei municipal 2.094/2010",
-    "uf": "MT",
-    "codigo_ibge": 5105101
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -30860,14 +30268,6 @@
     "nome": "Pe. Thiago Cheza",
     "tipo": "MUNICIPAL",
     "descricao": "Morte de Padre Thiago Cheza",
-    "uf": "MT",
-    "codigo_ibge": 5105622
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feria Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feria Santa",
     "uf": "MT",
     "codigo_ibge": 5105622
   },
@@ -31448,14 +30848,6 @@
     "codigo_ibge": 5108402
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feria Santa",
-    "uf": "MT",
-    "codigo_ibge": 5108402
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -31880,14 +31272,6 @@
     "codigo_ibge": 1502756
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "PA",
-    "codigo_ibge": 1502756
-  },
-  {
     "data": "10/05/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -32096,14 +31480,6 @@
     "codigo_ibge": 1504208
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "PA",
-    "codigo_ibge": 1504208
-  },
-  {
     "data": "29/09/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -32182,14 +31558,6 @@
     "descricao": "",
     "uf": "PA",
     "codigo_ibge": 1504950
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "PA",
-    "codigo_ibge": 1504976
   },
   {
     "data": "30/12/2025",
@@ -32506,14 +31874,6 @@
   {
     "data": "10/04/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "PA",
-    "codigo_ibge": 1507300
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "PA",
@@ -33384,14 +32744,6 @@
     "codigo_ibge": 2505709
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "PB",
-    "codigo_ibge": 2505709
-  },
-  {
     "data": "08/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -33736,26 +33088,10 @@
     "codigo_ibge": 2507309
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa, conforme Lei nº 8805, de 23 de maio 1999",
-    "uf": "PB",
-    "codigo_ibge": 2507507
-  },
-  {
     "data": "24/06/2025",
     "nome": "Dia de São João",
     "tipo": "MUNICIPAL",
     "descricao": "conforme Lei nº 8805, de 23 de maio 1999",
-    "uf": "PB",
-    "codigo_ibge": 2507507
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia da Consciência Negra",
     "uf": "PB",
     "codigo_ibge": 2507507
   },
@@ -35968,14 +35304,6 @@
     "codigo_ibge": 2605905
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "PE",
-    "codigo_ibge": 2606002
-  },
-  {
     "data": "13/06/2025",
     "nome": "Dia de Santo Antônio",
     "tipo": "MUNICIPAL",
@@ -36854,14 +36182,6 @@
     "descricao": "",
     "uf": "PE",
     "codigo_ibge": 2611507
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme a Lei nº 9.777 de junho de 1967",
-    "uf": "PE",
-    "codigo_ibge": 2611606
   },
   {
     "data": "16/07/2025",
@@ -38496,14 +37816,6 @@
     "codigo_ibge": 2210805
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Lei nº 2.847 de 22 de novembro de 1999",
-    "uf": "PI",
-    "codigo_ibge": 2211001
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -38514,14 +37826,6 @@
   {
     "data": "16/08/2025",
     "nome": "Aniversário de Teresina",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Lei nº 2.847 de 22 de novembro de 1999",
-    "uf": "PI",
-    "codigo_ibge": 2211001
-  },
-  {
-    "data": "02/11/2025",
-    "nome": "Dia de Finados",
     "tipo": "MUNICIPAL",
     "descricao": "conforme Lei nº 2.847 de 22 de novembro de 1999",
     "uf": "PI",
@@ -38826,14 +38130,6 @@
   {
     "data": "10/10/2025",
     "nome": "Aniversário do Município",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "PR",
-    "codigo_ibge": 4101507
-  },
-  {
-    "data": "12/10/2025",
-    "nome": "Padroeira do Município",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "PR",
@@ -39320,14 +38616,6 @@
     "codigo_ibge": 4104303
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "PR",
-    "codigo_ibge": 4104303
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -39720,14 +39008,6 @@
     "codigo_ibge": 4106555
   },
   {
-    "data": "21/04/2025",
-    "nome": "Segundo dia de Páscoa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Segundo dia de Páscoa, conforme lei 636, de 24 de novembro de 1997",
-    "uf": "PR",
-    "codigo_ibge": 4106803
-  },
-  {
     "data": "27/06/2025",
     "nome": "Sagrado Coração de Jesus",
     "tipo": "MUNICIPAL",
@@ -39784,14 +39064,6 @@
     "codigo_ibge": 4106704
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-feira Santa - Paixão de Cristo",
-    "uf": "PR",
-    "codigo_ibge": 4106902
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -39804,14 +39076,6 @@
     "nome": "Nossa Sra da Luz dos Pinhais",
     "tipo": "MUNICIPAL",
     "descricao": "conforme a Lei nº 3015, de 24 de agosto de 1967",
-    "uf": "PR",
-    "codigo_ibge": 4106902
-  },
-  {
-    "data": "02/11/2025",
-    "nome": "Finados",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia de Finados",
     "uf": "PR",
     "codigo_ibge": 4106902
   },
@@ -40078,14 +39342,6 @@
     "descricao": "",
     "uf": "PR",
     "codigo_ibge": 4108205
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Decreto nº 24385, de 04 de janeiro de 2016",
-    "uf": "PR",
-    "codigo_ibge": 4108304
   },
   {
     "data": "10/06/2025",
@@ -40968,14 +40224,6 @@
     "codigo_ibge": 4113601
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Feriado de Sexta Feira da Paixão",
-    "uf": "PR",
-    "codigo_ibge": 4113700
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -41066,14 +40314,6 @@
   {
     "data": "20/01/2025",
     "nome": "Dia de São Sebastião",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "PR",
-    "codigo_ibge": 4114104
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "PR",
@@ -41262,14 +40502,6 @@
     "descricao": "",
     "uf": "PR",
     "codigo_ibge": 4115101
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Lei Municipal nº 512 de 22 de março de 1967",
-    "uf": "PR",
-    "codigo_ibge": 4115200
   },
   {
     "data": "12/05/2025",
@@ -41476,14 +40708,6 @@
     "nome": "Emancipação do Município",
     "tipo": "MUNICIPAL",
     "descricao": "Aniversário de Emancipação do Município de Missal",
-    "uf": "PR",
-    "codigo_ibge": 4116059
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
     "uf": "PR",
     "codigo_ibge": 4116059
   },
@@ -41936,14 +41160,6 @@
     "codigo_ibge": 4118105
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira da Paixão",
-    "tipo": "MUNICIPAL",
-    "descricao": "De acordo com a Lei nº 2589/2005",
-    "uf": "PR",
-    "codigo_ibge": 4118204
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -42380,14 +41596,6 @@
     "nome": "São Sebastião",
     "tipo": "MUNICIPAL",
     "descricao": "Dia do padroeiro do Município, São Sebastião",
-    "uf": "PR",
-    "codigo_ibge": 4120804
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa, conforme da Lei Municipal nº 06/1984",
     "uf": "PR",
     "codigo_ibge": 4120804
   },
@@ -44136,14 +43344,6 @@
     "codigo_ibge": 3301009
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira da Paixão",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-feira da Paixão",
-    "uf": "RJ",
-    "codigo_ibge": 3301009
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -44452,14 +43652,6 @@
     "nome": "São José",
     "tipo": "MUNICIPAL",
     "descricao": "Dia de São José - Padroeiro de Itatiaia ",
-    "uf": "RJ",
-    "codigo_ibge": 3302254
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
     "uf": "RJ",
     "codigo_ibge": 3302254
   },
@@ -46016,14 +45208,6 @@
     "codigo_ibge": 2408102
   },
   {
-    "data": "25/12/2025",
-    "nome": "Aniversário da cidade do Natal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "RN",
-    "codigo_ibge": 2408102
-  },
-  {
     "data": "18/02/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -46768,14 +45952,6 @@
     "codigo_ibge": 1100205
   },
   {
-    "data": "18/04/2025",
-    "nome": "Paixão de Cristo",
-    "tipo": "MUNICIPAL",
-    "descricao": " Lei nº 190 de 14 de outubro de 1980",
-    "uf": "RO",
-    "codigo_ibge": 1100205
-  },
-  {
     "data": "24/05/2025",
     "nome": "Nossa Senhora Auxiliadora",
     "tipo": "MUNICIPAL",
@@ -47184,14 +46360,6 @@
     "codigo_ibge": 4300661
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "RS",
-    "codigo_ibge": 4300661
-  },
-  {
     "data": "12/05/2025",
     "nome": "S. Nereu e S. Aquiles",
     "tipo": "MUNICIPAL",
@@ -47280,14 +46448,6 @@
     "codigo_ibge": 4301107
   },
   {
-    "data": "02/11/2025",
-    "nome": "Finados",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia de Finados",
-    "uf": "RS",
-    "codigo_ibge": 4301107
-  },
-  {
     "data": "04/12/2025",
     "nome": "Dia de Santa Bárbara",
     "tipo": "MUNICIPAL",
@@ -47298,14 +46458,6 @@
   {
     "data": "24/03/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "RS",
-    "codigo_ibge": 4301305
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "RS",
@@ -47430,14 +46582,6 @@
     "descricao": "",
     "uf": "RS",
     "codigo_ibge": 4301909
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "RS",
-    "codigo_ibge": 4301925
   },
   {
     "data": "31/05/2025",
@@ -47776,14 +46920,6 @@
     "codigo_ibge": 4303905
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feria Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feria Santa",
-    "uf": "RS",
-    "codigo_ibge": 4303905
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -47890,14 +47026,6 @@
   {
     "data": "31/10/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "RS",
-    "codigo_ibge": 4304507
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "RS",
@@ -48020,14 +47148,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "RS",
-    "codigo_ibge": 4305116
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta Feira Santa",
     "uf": "RS",
     "codigo_ibge": 4305116
   },
@@ -48448,14 +47568,6 @@
     "codigo_ibge": 4306601
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira da Paixão",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-feira da Paixão",
-    "uf": "RS",
-    "codigo_ibge": 4306601
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -48736,14 +47848,6 @@
     "codigo_ibge": 4308003
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "RS",
-    "codigo_ibge": 4308003
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -48758,14 +47862,6 @@
     "descricao": "Dia de São Roque, padroeiro da cidade",
     "uf": "RS",
     "codigo_ibge": 4308003
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa, conforme lei nº 1460, de 21 de março de 2014",
-    "uf": "RS",
-    "codigo_ibge": 4308078
   },
   {
     "data": "19/06/2025",
@@ -48856,14 +47952,6 @@
     "codigo_ibge": 4308508
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta Feira Santa",
-    "uf": "RS",
-    "codigo_ibge": 4308508
-  },
-  {
     "data": "13/06/2025",
     "nome": "Dia de Santo Antônio",
     "tipo": "MUNICIPAL",
@@ -48900,14 +47988,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "Conforme lei nº 1797 de 11 de Novembro de 2013",
-    "uf": "RS",
-    "codigo_ibge": 4308805
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feria Santa, conforme lei nº 1797 de 11 de Novembro de 2013",
     "uf": "RS",
     "codigo_ibge": 4308805
   },
@@ -49256,14 +48336,6 @@
     "codigo_ibge": 4310538
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "RS",
-    "codigo_ibge": 4310538
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -49452,14 +48524,6 @@
     "nome": "Dia de São Sebastião",
     "tipo": "MUNICIPAL",
     "descricao": "Dia 20 de Janeiro, dia de São Sebastião, Padroeiro do Município",
-    "uf": "RS",
-    "codigo_ibge": 4311601
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feria Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Feriado Religioso da Sexta-Feria Santa",
     "uf": "RS",
     "codigo_ibge": 4311601
   },
@@ -49728,14 +48792,6 @@
     "codigo_ibge": 4312609
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa, conforme lei nº 2012, de 28 de Setembro de 1999",
-    "uf": "RS",
-    "codigo_ibge": 4312658
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -49872,14 +48928,6 @@
     "codigo_ibge": 4313060
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa, segundo Lei nº 308, 16 de Dezembro de 1997.",
-    "uf": "RS",
-    "codigo_ibge": 4313086
-  },
-  {
     "data": "26/05/2025",
     "nome": "Nossa Sra de Caravággio",
     "tipo": "MUNICIPAL",
@@ -49892,14 +48940,6 @@
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
     "descricao": "Corpus Christi, segundo Lei nº 308, 16 de Dezembro de 1997.",
-    "uf": "RS",
-    "codigo_ibge": 4313086
-  },
-  {
-    "data": "02/11/2025",
-    "nome": "Dia de Finados",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia de Finados, segundo Lei nº 308, 16 de Dezembro de 1997.",
     "uf": "RS",
     "codigo_ibge": 4313086
   },
@@ -50336,24 +49376,8 @@
     "codigo_ibge": 4314902
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme a Lei nº 4453, de 18 de setembro de 1978",
-    "uf": "RS",
-    "codigo_ibge": 4314902
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme a Lei nº 4453, de 18 de setembro de 1978",
-    "uf": "RS",
-    "codigo_ibge": 4314902
-  },
-  {
-    "data": "02/11/2025",
-    "nome": "Dia de Finados",
     "tipo": "MUNICIPAL",
     "descricao": "conforme a Lei nº 4453, de 18 de setembro de 1978",
     "uf": "RS",
@@ -50422,14 +49446,6 @@
     "descricao": "",
     "uf": "RS",
     "codigo_ibge": 4315131
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa, conforme lei municipal nº 515, de 28 de abril 2006",
-    "uf": "RS",
-    "codigo_ibge": 4315149
   },
   {
     "data": "29/05/2025",
@@ -50548,14 +49564,6 @@
     "nome": "Anunciação do Senhor",
     "tipo": "MUNICIPAL",
     "descricao": "Anunciação do Senhor",
-    "uf": "RS",
-    "codigo_ibge": 4315503
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feria Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira da Paixão",
     "uf": "RS",
     "codigo_ibge": 4315503
   },
@@ -52016,14 +51024,6 @@
     "codigo_ibge": 4323457
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa, conforme lei Nº 10, de 13 de fevereiro de 1989",
-    "uf": "RS",
-    "codigo_ibge": 4323507
-  },
-  {
     "data": "27/06/2025",
     "nome": "Sagrado Coração de Jesus",
     "tipo": "MUNICIPAL",
@@ -52424,14 +51424,6 @@
     "codigo_ibge": 4201703
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feria Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feria Santa",
-    "uf": "SC",
-    "codigo_ibge": 4201703
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -52488,14 +51480,6 @@
     "codigo_ibge": 4202008
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SC",
-    "codigo_ibge": 4202008
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -52516,14 +51500,6 @@
     "nome": "São Sebastião",
     "tipo": "MUNICIPAL",
     "descricao": "Dia de São Sebastião",
-    "uf": "SC",
-    "codigo_ibge": 4202073
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feria Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feria Santa",
     "uf": "SC",
     "codigo_ibge": 4202073
   },
@@ -52568,14 +51544,6 @@
     "codigo_ibge": 4202305
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "SC",
-    "codigo_ibge": 4202404
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -52588,14 +51556,6 @@
     "nome": "Aniversário da Cidade",
     "tipo": "MUNICIPAL",
     "descricao": "Fundação de Blumenau",
-    "uf": "SC",
-    "codigo_ibge": 4202404
-  },
-  {
-    "data": "02/11/2025",
-    "nome": "Finados",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia de Finados",
     "uf": "SC",
     "codigo_ibge": 4202404
   },
@@ -52680,14 +51640,6 @@
     "codigo_ibge": 4202701
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-feira Santa",
-    "uf": "SC",
-    "codigo_ibge": 4202701
-  },
-  {
     "data": "09/06/2025",
     "nome": "Emancipação do Município",
     "tipo": "MUNICIPAL",
@@ -52724,14 +51676,6 @@
     "nome": "Segunda de Carnaval",
     "tipo": "MUNICIPAL",
     "descricao": "Segunda-Feira de Carnaval",
-    "uf": "SC",
-    "codigo_ibge": 4202909
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
     "uf": "SC",
     "codigo_ibge": 4202909
   },
@@ -52788,14 +51732,6 @@
     "nome": "Aniversário da Cidade",
     "tipo": "MUNICIPAL",
     "descricao": "Aniversário da Cidade de Camboriu",
-    "uf": "SC",
-    "codigo_ibge": 4203204
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
     "uf": "SC",
     "codigo_ibge": 4203204
   },
@@ -52944,14 +51880,6 @@
     "codigo_ibge": 4204178
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "SC",
-    "codigo_ibge": 4204202
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -52964,14 +51892,6 @@
     "nome": "Aniversário da Cidade",
     "tipo": "MUNICIPAL",
     "descricao": "Emancipação Político-Administrativa Municipal",
-    "uf": "SC",
-    "codigo_ibge": 4204202
-  },
-  {
-    "data": "02/11/2025",
-    "nome": "Finados",
-    "tipo": "MUNICIPAL",
-    "descricao": "Finados é feirado municipal em Chapecó",
     "uf": "SC",
     "codigo_ibge": 4204202
   },
@@ -53024,26 +51944,10 @@
     "codigo_ibge": 4204608
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira da Paixão",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-feira da Paixão",
-    "uf": "SC",
-    "codigo_ibge": 4204608
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
     "descricao": "Corpus Christi",
-    "uf": "SC",
-    "codigo_ibge": 4204608
-  },
-  {
-    "data": "02/11/2025",
-    "nome": "Finados",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia de Finados",
     "uf": "SC",
     "codigo_ibge": 4204608
   },
@@ -53120,14 +52024,6 @@
     "codigo_ibge": 4205001
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta Feira Santa, conforme lei 884 de 08 de junho de 1993.",
-    "uf": "SC",
-    "codigo_ibge": 4205100
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -53142,22 +52038,6 @@
     "descricao": "Dia do Colono, conforme lei 884 de 08 de junho de 1993.",
     "uf": "SC",
     "codigo_ibge": 4205100
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "SC",
-    "codigo_ibge": 4205159
-  },
-  {
-    "data": "21/04/2025",
-    "nome": "Segunda após Páscoa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Segunda-Feira após Páscoa",
-    "uf": "SC",
-    "codigo_ibge": 4205159
   },
   {
     "data": "01/06/2025",
@@ -53208,26 +52088,10 @@
     "codigo_ibge": 4205407
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "SC",
-    "codigo_ibge": 4205407
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
     "descricao": "Corpus Christi",
-    "uf": "SC",
-    "codigo_ibge": 4205407
-  },
-  {
-    "data": "02/11/2025",
-    "nome": "Finados",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia de Finados",
     "uf": "SC",
     "codigo_ibge": 4205407
   },
@@ -53296,14 +52160,6 @@
     "codigo_ibge": 4205704
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "SC",
-    "codigo_ibge": 4205803
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -53332,14 +52188,6 @@
     "nome": "Emancipação Política",
     "tipo": "MUNICIPAL",
     "descricao": "Emancipação Política de Gaspar",
-    "uf": "SC",
-    "codigo_ibge": 4205902
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira da Paixão",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-feira da Paixão",
     "uf": "SC",
     "codigo_ibge": 4205902
   },
@@ -53448,14 +52296,6 @@
     "codigo_ibge": 4206900
   },
   {
-    "data": "18/04/2025",
-    "nome": "Paixão de Cristo",
-    "tipo": "MUNICIPAL",
-    "descricao": "Paixão de Cristo",
-    "uf": "SC",
-    "codigo_ibge": 4207007
-  },
-  {
     "data": "07/08/2025",
     "nome": "São Donato",
     "tipo": "MUNICIPAL",
@@ -53532,14 +52372,6 @@
     "nome": "Emancipação do Município",
     "tipo": "MUNICIPAL",
     "descricao": "Comemorações da Emancipação do Município (Lei 3382/05)",
-    "uf": "SC",
-    "codigo_ibge": 4207502
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-feira santa",
     "uf": "SC",
     "codigo_ibge": 4207502
   },
@@ -53784,14 +52616,6 @@
     "codigo_ibge": 4208807
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-feira Santa",
-    "uf": "SC",
-    "codigo_ibge": 4208906
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -53834,14 +52658,6 @@
   {
     "data": "09/03/2025",
     "nome": "Aniversário da fundação da cidade",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SC",
-    "codigo_ibge": 4209102
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SC",
@@ -53928,14 +52744,6 @@
     "codigo_ibge": 4209607
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Feriado de Sexta-Feira Santa",
-    "uf": "SC",
-    "codigo_ibge": 4209607
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -53992,34 +52800,10 @@
     "codigo_ibge": 4209805
   },
   {
-    "data": "01/01/2025",
-    "nome": "Dia do Município",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia do Municipio de Lindóia do Sul, segundo decreto 55/1990",
-    "uf": "SC",
-    "codigo_ibge": 4209854
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feria Santa, segundo decreto 55/1990",
-    "uf": "SC",
-    "codigo_ibge": 4209854
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
     "descricao": "Corpus Christi, segundo decreto 55/1990",
-    "uf": "SC",
-    "codigo_ibge": 4209854
-  },
-  {
-    "data": "02/11/2025",
-    "nome": "Dia de Finados",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia de Finados, segundo decreto 55/1990",
     "uf": "SC",
     "codigo_ibge": 4209854
   },
@@ -54432,14 +53216,6 @@
     "codigo_ibge": 4211801
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa, , segundo lei 008/1973",
-    "uf": "SC",
-    "codigo_ibge": 4211900
-  },
-  {
     "data": "24/04/2025",
     "nome": "Aniversário da Cidade",
     "tipo": "MUNICIPAL",
@@ -54708,14 +53484,6 @@
     "nome": "Aniversário",
     "tipo": "MUNICIPAL",
     "descricao": "Aniversário do município",
-    "uf": "SC",
-    "codigo_ibge": 4213104
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Paixão de Cristo",
-    "tipo": "MUNICIPAL",
-    "descricao": "Paixão de Cristo",
     "uf": "SC",
     "codigo_ibge": 4213104
   },
@@ -55000,14 +53768,6 @@
     "codigo_ibge": 4215109
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feria Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feria Santa",
-    "uf": "SC",
-    "codigo_ibge": 4215109
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -55176,14 +53936,6 @@
     "codigo_ibge": 4215901
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "SC",
-    "codigo_ibge": 4216008
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -55238,14 +53990,6 @@
     "descricao": "",
     "uf": "SC",
     "codigo_ibge": 4216206
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SC",
-    "codigo_ibge": 4216305
   },
   {
     "data": "19/06/2025",
@@ -55312,14 +54056,6 @@
     "codigo_ibge": 4216701
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa, conforme Lei nº 3780/2010",
-    "uf": "SC",
-    "codigo_ibge": 4216701
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -55332,14 +54068,6 @@
     "nome": "Aniversário da Cidade",
     "tipo": "MUNICIPAL",
     "descricao": "Aniversário do Município, conforme Lei nº 3780/2010",
-    "uf": "SC",
-    "codigo_ibge": 4216701
-  },
-  {
-    "data": "02/11/2025",
-    "nome": "Dia de Finados",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia de Finados, conforme Lei nº 3780/2010",
     "uf": "SC",
     "codigo_ibge": 4216701
   },
@@ -55456,14 +54184,6 @@
     "codigo_ibge": 4217808
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "SC",
-    "codigo_ibge": 4217808
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -55576,14 +54296,6 @@
     "codigo_ibge": 4218400
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta Feira Santa, conforme lei 1738 de 30 de agosto de 2012",
-    "uf": "SC",
-    "codigo_ibge": 4218608
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -55608,14 +54320,6 @@
     "codigo_ibge": 4218608
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "SC",
-    "codigo_ibge": 4218707
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -55628,14 +54332,6 @@
     "nome": "Nossa Sra da Piedade",
     "tipo": "MUNICIPAL",
     "descricao": "Nossa Senhora da Piedade, padroeira do Município",
-    "uf": "SC",
-    "codigo_ibge": 4218707
-  },
-  {
-    "data": "02/11/2025",
-    "nome": "Finados",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia de Finados",
     "uf": "SC",
     "codigo_ibge": 4218707
   },
@@ -55752,14 +54448,6 @@
     "codigo_ibge": 4219176
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa, conforme lei nº 22/93",
-    "uf": "SC",
-    "codigo_ibge": 4219176
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -55788,14 +54476,6 @@
     "nome": "Dia do Município",
     "tipo": "MUNICIPAL",
     "descricao": "Aniversário da Cidade",
-    "uf": "SC",
-    "codigo_ibge": 4219309
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
     "uf": "SC",
     "codigo_ibge": 4219309
   },
@@ -56288,14 +54968,6 @@
     "codigo_ibge": 2803302
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SE",
-    "codigo_ibge": 2803302
-  },
-  {
     "data": "08/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -56562,14 +55234,6 @@
   {
     "data": "29/06/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SE",
-    "codigo_ibge": 2804904
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SE",
@@ -57008,14 +55672,6 @@
     "codigo_ibge": 3500303
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal Nº 2130, de 10.12.2008",
-    "uf": "SP",
-    "codigo_ibge": 3500303
-  },
-  {
     "data": "11/02/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -57028,14 +55684,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3500402
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 1818, de 2009",
     "uf": "SP",
     "codigo_ibge": 3500402
   },
@@ -57080,14 +55728,6 @@
     "codigo_ibge": 3500600
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 1354 de 21/11/2006",
-    "uf": "SP",
-    "codigo_ibge": 3500600
-  },
-  {
     "data": "08/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -57112,14 +55752,6 @@
     "codigo_ibge": 3500808
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": " Lei Municipal nº 2.533/2010",
-    "uf": "SP",
-    "codigo_ibge": 3500808
-  },
-  {
     "data": "24/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -57130,14 +55762,6 @@
   {
     "data": "20/01/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3500907
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -57172,14 +55796,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3501004
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal no 1.586, de 13/11/2007",
     "uf": "SP",
     "codigo_ibge": 3501004
   },
@@ -57264,14 +55880,6 @@
     "codigo_ibge": 3501509
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "SP",
-    "codigo_ibge": 3501608
-  },
-  {
     "data": "13/06/2025",
     "nome": "Dia de Santo Antônio",
     "tipo": "MUNICIPAL",
@@ -57304,24 +55912,8 @@
     "codigo_ibge": 3501707
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 00022/2007",
-    "uf": "SP",
-    "codigo_ibge": 3501707
-  },
-  {
     "data": "24/06/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3501806
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -57344,14 +55936,6 @@
     "codigo_ibge": 3501905
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 03043/2004",
-    "uf": "SP",
-    "codigo_ibge": 3501905
-  },
-  {
     "data": "21/06/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -57362,14 +55946,6 @@
   {
     "data": "26/07/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3502002
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -57424,14 +56000,6 @@
     "codigo_ibge": 3502309
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3502309
-  },
-  {
     "data": "06/08/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -57446,14 +56014,6 @@
     "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3502408
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 03410/2006",
-    "uf": "SP",
-    "codigo_ibge": 3502507
   },
   {
     "data": "17/12/2025",
@@ -57504,14 +56064,6 @@
     "codigo_ibge": 3502754
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 06924/07",
-    "uf": "SP",
-    "codigo_ibge": 3502804
-  },
-  {
     "data": "02/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -57536,14 +56088,6 @@
     "codigo_ibge": 3502903
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No. 1.675 DE 14 de setembro de 2009",
-    "uf": "SP",
-    "codigo_ibge": 3502903
-  },
-  {
     "data": "04/04/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -57554,14 +56098,6 @@
   {
     "data": "13/06/2025",
     "nome": "Dia de Santo Antônio",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3503000
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -57600,26 +56136,10 @@
     "codigo_ibge": 3503208
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 06633/07",
-    "uf": "SP",
-    "codigo_ibge": 3503208
-  },
-  {
     "data": "15/08/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3503307
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No. 4.258/2009",
     "uf": "SP",
     "codigo_ibge": 3503307
   },
@@ -57704,28 +56224,12 @@
     "codigo_ibge": 3503901
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3503901
-  },
-  {
     "data": "01/07/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3504008
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa conforme Lei 978/67, de 03 de Maio de 1967",
-    "uf": "SP",
-    "codigo_ibge": 3504107
   },
   {
     "data": "19/06/2025",
@@ -57742,22 +56246,6 @@
     "descricao": "Aniversário de Atibaia, conforme Lei 978/67, de 03 de Maio de 1967",
     "uf": "SP",
     "codigo_ibge": 3504107
-  },
-  {
-    "data": "02/11/2025",
-    "nome": "Finados",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia de Finados, conforme Lei 978/67, de 03 de Maio de 1967",
-    "uf": "SP",
-    "codigo_ibge": 3504107
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3504206
   },
   {
     "data": "20/01/2025",
@@ -57872,14 +56360,6 @@
     "codigo_ibge": 3504909
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 0004 de 03/03/2009",
-    "uf": "SP",
-    "codigo_ibge": 3504909
-  },
-  {
     "data": "31/01/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -57890,14 +56370,6 @@
   {
     "data": "29/08/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3505104
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -57952,24 +56424,8 @@
     "codigo_ibge": 3505500
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 4151, de 04.02.2009",
-    "uf": "SP",
-    "codigo_ibge": 3505500
-  },
-  {
     "data": "24/06/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3505609
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -57988,14 +56444,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3505708
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 1639, de 01/03/2007",
     "uf": "SP",
     "codigo_ibge": 3505708
   },
@@ -58072,14 +56520,6 @@
     "codigo_ibge": 3506201
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3506201
-  },
-  {
     "data": "15/08/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -58110,22 +56550,6 @@
     "descricao": "Dia de São João Batista, padroeiro do município",
     "uf": "SP",
     "codigo_ibge": 3506359
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia da Consciência Negra",
-    "uf": "SP",
-    "codigo_ibge": 3506359
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3506409
   },
   {
     "data": "08/09/2025",
@@ -58168,14 +56592,6 @@
     "codigo_ibge": 3506706
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3506706
-  },
-  {
     "data": "24/06/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -58194,14 +56610,6 @@
   {
     "data": "09/09/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3506904
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra - Lei no 1.914 de 04 de dezembro de 2007",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -58272,26 +56680,10 @@
     "codigo_ibge": 3507407
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 2471, de 10.10.2008",
-    "uf": "SP",
-    "codigo_ibge": 3507407
-  },
-  {
     "data": "14/04/2025",
     "nome": "Aniversário da Cidade",
     "tipo": "MUNICIPAL",
     "descricao": "Aniversário da Cidade",
-    "uf": "SP",
-    "codigo_ibge": 3507506
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
     "uf": "SP",
     "codigo_ibge": 3507506
   },
@@ -58312,14 +56704,6 @@
     "codigo_ibge": 3507506
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3507605
-  },
-  {
     "data": "08/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -58330,14 +56714,6 @@
   {
     "data": "20/01/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3507704
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -58400,24 +56776,8 @@
     "codigo_ibge": 3508009
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3508009
-  },
-  {
     "data": "24/08/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3508108
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra - Lei No. 3.249, de 18 de novembro de 2008",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -58480,14 +56840,6 @@
     "codigo_ibge": 3508405
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 1765 de 09 11 2006",
-    "uf": "SP",
-    "codigo_ibge": 3508405
-  },
-  {
     "data": "14/04/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -58518,22 +56870,6 @@
     "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3508603
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3508603
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "SP",
-    "codigo_ibge": 3508702
   },
   {
     "data": "27/04/2025",
@@ -58680,14 +57016,6 @@
     "codigo_ibge": 3509304
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 1.993 de 20 de setembro de 2010",
-    "uf": "SP",
-    "codigo_ibge": 3509304
-  },
-  {
     "data": "20/01/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -58712,26 +57040,10 @@
     "codigo_ibge": 3509403
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Lei Municipal no 173, de 28 de junho de 1949",
-    "uf": "SP",
-    "codigo_ibge": 3509502
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
     "descricao": "conforme Lei Municipal no 173, de 28 de junho de 1949",
-    "uf": "SP",
-    "codigo_ibge": 3509502
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia da Consciência Negra, conforme Lei Municipal No 11.128 DE 14/01/2002",
     "uf": "SP",
     "codigo_ibge": 3509502
   },
@@ -58764,14 +57076,6 @@
     "nome": "Dia de Santa Teresinha do Menino Jesus, Padroeira da cidade",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3509700
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal N° 3028, de 27.12.2006",
     "uf": "SP",
     "codigo_ibge": 3509700
   },
@@ -58824,14 +57128,6 @@
     "codigo_ibge": 3509908
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3509908
-  },
-  {
     "data": "22/03/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -58844,14 +57140,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3509957
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 338 de 14 de novembro de 2007",
     "uf": "SP",
     "codigo_ibge": 3509957
   },
@@ -58896,14 +57184,6 @@
     "codigo_ibge": 3510203
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3510203
-  },
-  {
     "data": "08/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -58936,14 +57216,6 @@
     "codigo_ibge": 3510401
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 3994/2012",
-    "uf": "SP",
-    "codigo_ibge": 3510401
-  },
-  {
     "data": "20/04/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -58956,14 +57228,6 @@
     "nome": "Dia de Santo Antônio",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3510500
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 1402, de 14.06.2007",
     "uf": "SP",
     "codigo_ibge": 3510500
   },
@@ -58984,24 +57248,8 @@
     "codigo_ibge": 3510609
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Art. 220 da Lei Orgânica Municipal , alterada pela emenda 41/08",
-    "uf": "SP",
-    "codigo_ibge": 3510609
-  },
-  {
     "data": "20/01/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3510708
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -59136,14 +57384,6 @@
     "codigo_ibge": 3511409
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3511409
-  },
-  {
     "data": "19/03/2025",
     "nome": "São José",
     "tipo": "MUNICIPAL",
@@ -59176,28 +57416,12 @@
     "codigo_ibge": 3511607
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 1278, de 05.12.2008",
-    "uf": "SP",
-    "codigo_ibge": 3511706
-  },
-  {
     "data": "08/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3511706
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 2920, de 2009",
-    "uf": "SP",
-    "codigo_ibge": 3557204
   },
   {
     "data": "04/12/2025",
@@ -59216,14 +57440,6 @@
     "codigo_ibge": 3511904
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3511904
-  },
-  {
     "data": "19/03/2025",
     "nome": "São José",
     "tipo": "MUNICIPAL",
@@ -59232,26 +57448,10 @@
     "codigo_ibge": 3512001
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "SP",
-    "codigo_ibge": 3512001
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
     "descricao": "Corpus Christi",
-    "uf": "SP",
-    "codigo_ibge": 3512001
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia da Consciência Negra",
     "uf": "SP",
     "codigo_ibge": 3512001
   },
@@ -59274,14 +57474,6 @@
   {
     "data": "16/07/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3512100
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -59324,14 +57516,6 @@
     "nome": "Dia de Santo Antônio",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3512407
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal N° 2021, de 27.03.2001",
     "uf": "SP",
     "codigo_ibge": 3512407
   },
@@ -59392,14 +57576,6 @@
     "codigo_ibge": 3512704
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3512704
-  },
-  {
     "data": "30/11/2025",
     "nome": "Aniversário do Município",
     "tipo": "MUNICIPAL",
@@ -59450,14 +57626,6 @@
   {
     "data": "15/08/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3513207
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -59544,26 +57712,10 @@
     "codigo_ibge": 3513702
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3513801
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3513801
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 2573/06",
     "uf": "SP",
     "codigo_ibge": 3513801
   },
@@ -59672,14 +57824,6 @@
     "codigo_ibge": 3514601
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3514601
-  },
-  {
     "data": "08/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -59704,26 +57848,10 @@
     "codigo_ibge": 3514809
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "SP",
-    "codigo_ibge": 3514809
-  },
-  {
     "data": "08/09/2025",
     "nome": "Dia da Padroeira",
     "tipo": "MUNICIPAL",
     "descricao": "Dia da Padroeira",
-    "uf": "SP",
-    "codigo_ibge": 3514809
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia da Consciência Negra",
     "uf": "SP",
     "codigo_ibge": 3514809
   },
@@ -59768,34 +57896,10 @@
     "codigo_ibge": 3515004
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "SP",
-    "codigo_ibge": 3515004
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal no 2.285, de 09.11.2007",
-    "uf": "SP",
-    "codigo_ibge": 3515004
-  },
-  {
     "data": "28/03/2025",
     "nome": "Aniversário da Cidade",
     "tipo": "MUNICIPAL",
     "descricao": "Aniversário de Embu-Guaçu",
-    "uf": "SP",
-    "codigo_ibge": 3515103
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Feriado Municipal, segundo lei Lei nº 1917/2004",
     "uf": "SP",
     "codigo_ibge": 3515103
   },
@@ -59828,14 +57932,6 @@
     "nome": "Dia de São Pedro",
     "tipo": "MUNICIPAL",
     "descricao": "Dia de São Pedro, padroeiro do Município",
-    "uf": "SP",
-    "codigo_ibge": 3515152
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia da Consciência Negra",
     "uf": "SP",
     "codigo_ibge": 3515152
   },
@@ -59914,14 +58010,6 @@
   {
     "data": "25/09/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3515202
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -60016,14 +58104,6 @@
     "codigo_ibge": 3515707
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal nº 3165 de 16/05/2013",
-    "uf": "SP",
-    "codigo_ibge": 3515707
-  },
-  {
     "data": "19/03/2025",
     "nome": "São José",
     "tipo": "MUNICIPAL",
@@ -60056,14 +58136,6 @@
     "codigo_ibge": 3515905
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 007/2007",
-    "uf": "SP",
-    "codigo_ibge": 3516002
-  },
-  {
     "data": "06/01/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -60088,14 +58160,6 @@
     "codigo_ibge": 3516101
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 6730/2006",
-    "uf": "SP",
-    "codigo_ibge": 3516200
-  },
-  {
     "data": "28/11/2025",
     "nome": "Aniversário da Cidade",
     "tipo": "MUNICIPAL",
@@ -60118,22 +58182,6 @@
     "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3516309
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 2.129 17.06.2005",
-    "uf": "SP",
-    "codigo_ibge": 3516309
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 535/2005",
-    "uf": "SP",
-    "codigo_ibge": 3516408
   },
   {
     "data": "30/11/2025",
@@ -60256,14 +58304,6 @@
     "codigo_ibge": 3517000
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 2.082 de 9 de março de 2009",
-    "uf": "SP",
-    "codigo_ibge": 3517000
-  },
-  {
     "data": "24/06/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -60312,14 +58352,6 @@
     "codigo_ibge": 3517307
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3517307
-  },
-  {
     "data": "20/01/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -60330,14 +58362,6 @@
   {
     "data": "18/05/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3517406
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -60376,14 +58400,6 @@
     "codigo_ibge": 3517604
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3517604
-  },
-  {
     "data": "24/12/2025",
     "nome": "Elevação a Município",
     "tipo": "MUNICIPAL",
@@ -60408,14 +58424,6 @@
     "codigo_ibge": 3517703
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3517802
-  },
-  {
     "data": "20/01/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -60426,14 +58434,6 @@
   {
     "data": "06/08/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3517901
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -60464,22 +58464,6 @@
     "codigo_ibge": 3518008
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3518008
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3518107
-  },
-  {
     "data": "30/11/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -60490,14 +58474,6 @@
   {
     "data": "29/06/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3518206
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -60518,14 +58494,6 @@
     "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3518305
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "SP",
-    "codigo_ibge": 3518404
   },
   {
     "data": "13/06/2025",
@@ -60568,26 +58536,10 @@
     "codigo_ibge": 3518602
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3518602
-  },
-  {
     "data": "15/01/2025",
     "nome": "Santo Amaro",
     "tipo": "MUNICIPAL",
     "descricao": "Dia de Santo Amaro, padroeiro da cidade",
-    "uf": "SP",
-    "codigo_ibge": 3518701
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-feira santa",
     "uf": "SP",
     "codigo_ibge": 3518701
   },
@@ -60598,30 +58550,6 @@
     "descricao": "Corpus Christi",
     "uf": "SP",
     "codigo_ibge": 3518701
-  },
-  {
-    "data": "02/11/2025",
-    "nome": "Finados",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia de Finados",
-    "uf": "SP",
-    "codigo_ibge": 3518701
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 3784, de 11.11.2009",
-    "uf": "SP",
-    "codigo_ibge": 3518701
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 5950/03",
-    "uf": "SP",
-    "codigo_ibge": 3518800
   },
   {
     "data": "08/12/2025",
@@ -60672,14 +58600,6 @@
     "codigo_ibge": 3519006
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "SP",
-    "codigo_ibge": 3519055
-  },
-  {
     "data": "25/05/2025",
     "nome": "Divino Esp. Santo",
     "tipo": "MUNICIPAL",
@@ -60708,14 +58628,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3519071
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 958 de 31.10.2001",
     "uf": "SP",
     "codigo_ibge": 3519071
   },
@@ -60754,14 +58666,6 @@
   {
     "data": "09/01/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3519253
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -60816,14 +58720,6 @@
     "codigo_ibge": 3519501
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3519501
-  },
-  {
     "data": "30/11/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -60872,14 +58768,6 @@
     "codigo_ibge": 3519808
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3519808
-  },
-  {
     "data": "30/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -60906,14 +58794,6 @@
   {
     "data": "11/02/2025",
     "nome": "N. Sra. de Lourdes",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3520004
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira santa",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -60992,14 +58872,6 @@
     "codigo_ibge": 3520301
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira da Paixão",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-feira da Paixão",
-    "uf": "SP",
-    "codigo_ibge": 3520426
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -61032,26 +58904,10 @@
     "codigo_ibge": 3520442
   },
   {
-    "data": "20/11/2025",
-    "nome": "Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia da Consciência Negra, conforme lei Nº 1987, de 13 de Novembro de 2012",
-    "uf": "SP",
-    "codigo_ibge": 3520442
-  },
-  {
     "data": "02/02/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3520400
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
     "uf": "SP",
     "codigo_ibge": 3520400
   },
@@ -61068,14 +58924,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3520400
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 451, de 2007",
     "uf": "SP",
     "codigo_ibge": 3520400
   },
@@ -61106,14 +58954,6 @@
   {
     "data": "24/06/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3520707
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -61162,14 +59002,6 @@
   {
     "data": "21/03/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3521101
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -61232,14 +59064,6 @@
     "codigo_ibge": 3521408
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3521408
-  },
-  {
     "data": "16/07/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -61274,14 +59098,6 @@
   {
     "data": "06/05/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3521606
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -61368,14 +59184,6 @@
     "codigo_ibge": 3522109
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3522109
-  },
-  {
     "data": "08/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -61388,14 +59196,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3522208
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 1713, de 2008",
     "uf": "SP",
     "codigo_ibge": 3522208
   },
@@ -61428,14 +59228,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3522505
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 1699, de 8.12.2004",
     "uf": "SP",
     "codigo_ibge": 3522505
   },
@@ -61512,14 +59304,6 @@
     "codigo_ibge": 3522901
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3522901
-  },
-  {
     "data": "21/03/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -61534,14 +59318,6 @@
     "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3523008
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feria Santa, feriado municipal",
-    "uf": "SP",
-    "codigo_ibge": 3523107
   },
   {
     "data": "19/06/2025",
@@ -61560,14 +59336,6 @@
     "codigo_ibge": 3523107
   },
   {
-    "data": "20/11/2025",
-    "nome": "Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia da Consciência Negra",
-    "uf": "SP",
-    "codigo_ibge": 3523107
-  },
-  {
     "data": "29/06/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -61578,14 +59346,6 @@
   {
     "data": "28/08/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3523206
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -61624,22 +59384,6 @@
     "codigo_ibge": 3523404
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 3951, de 1997",
-    "uf": "SP",
-    "codigo_ibge": 3523404
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "SP",
-    "codigo_ibge": 3523503
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -61656,14 +59400,6 @@
     "codigo_ibge": 3523503
   },
   {
-    "data": "02/11/2025",
-    "nome": "Finados",
-    "tipo": "MUNICIPAL",
-    "descricao": "Finados",
-    "uf": "SP",
-    "codigo_ibge": 3523503
-  },
-  {
     "data": "25/03/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -61674,14 +59410,6 @@
   {
     "data": "13/06/2025",
     "nome": "Dia de Santo Antônio",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3523602
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -61728,14 +59456,6 @@
     "codigo_ibge": 3523909
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 624, de 2005",
-    "uf": "SP",
-    "codigo_ibge": 3523909
-  },
-  {
     "data": "20/01/2025",
     "nome": "São Sebastião",
     "tipo": "MUNICIPAL",
@@ -61744,26 +59464,10 @@
     "codigo_ibge": 3524006
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa. Lei nº 262/80",
-    "uf": "SP",
-    "codigo_ibge": 3524006
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
     "descricao": "Corpus Christi. Lei nº 262/80",
-    "uf": "SP",
-    "codigo_ibge": 3524006
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia da Consciência Negra",
     "uf": "SP",
     "codigo_ibge": 3524006
   },
@@ -61872,14 +59576,6 @@
     "codigo_ibge": 3524709
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 1567 de 03 12 2004",
-    "uf": "SP",
-    "codigo_ibge": 3524709
-  },
-  {
     "data": "15/04/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -61910,22 +59606,6 @@
     "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3524907
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 1.399, de 20 de março de 2009",
-    "uf": "SP",
-    "codigo_ibge": 3524907
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 1713, de maio de 2008",
-    "uf": "SP",
-    "codigo_ibge": 3525003
   },
   {
     "data": "08/12/2025",
@@ -61976,26 +59656,10 @@
     "codigo_ibge": 3525201
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 1760, de 12.03.2008",
-    "uf": "SP",
-    "codigo_ibge": 3525201
-  },
-  {
     "data": "15/08/2025",
     "nome": "Aniversário da Cidade",
     "tipo": "MUNICIPAL",
     "descricao": "Aniversário do município",
-    "uf": "SP",
-    "codigo_ibge": 3525300
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 4316, de 2009",
     "uf": "SP",
     "codigo_ibge": 3525300
   },
@@ -62010,14 +59674,6 @@
   {
     "data": "07/04/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3525409
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -62050,14 +59706,6 @@
   {
     "data": "24/06/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3525607
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -62112,14 +59760,6 @@
     "codigo_ibge": 3525904
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3525904
-  },
-  {
     "data": "13/06/2025",
     "nome": "Dia de Santo Antônio",
     "tipo": "MUNICIPAL",
@@ -62156,14 +59796,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3526209
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 1498 DE 08 de novembro de 2007",
     "uf": "SP",
     "codigo_ibge": 3526209
   },
@@ -62232,14 +59864,6 @@
     "codigo_ibge": 3526704
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 2780, de 2003",
-    "uf": "SP",
-    "codigo_ibge": 3526704
-  },
-  {
     "data": "28/04/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -62260,14 +59884,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3526902
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 2780, de 2003",
     "uf": "SP",
     "codigo_ibge": 3526902
   },
@@ -62328,26 +59944,10 @@
     "codigo_ibge": 3527306
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira da Paixão",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-feira da Paixão",
-    "uf": "SP",
-    "codigo_ibge": 3527306
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
     "descricao": "Corpus Christi",
-    "uf": "SP",
-    "codigo_ibge": 3527306
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia da Consciência Negra",
     "uf": "SP",
     "codigo_ibge": 3527306
   },
@@ -62374,14 +59974,6 @@
     "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3527504
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3527603
   },
   {
     "data": "13/12/2025",
@@ -62476,14 +60068,6 @@
     "nome": "São José",
     "tipo": "MUNICIPAL",
     "descricao": "Dia de São José",
-    "uf": "SP",
-    "codigo_ibge": 3528403
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3528403
   },
@@ -62648,14 +60232,6 @@
     "codigo_ibge": 3529401
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 3878, de 20.11.2005",
-    "uf": "SP",
-    "codigo_ibge": 3529401
-  },
-  {
     "data": "08/12/2025",
     "nome": "Aniversário da cidade",
     "tipo": "MUNICIPAL",
@@ -62728,14 +60304,6 @@
     "codigo_ibge": 3529708
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3529708
-  },
-  {
     "data": "06/08/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -62798,14 +60366,6 @@
     "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3530102
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Paixão de Cristo",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3530201
   },
   {
     "data": "19/06/2025",
@@ -62878,22 +60438,6 @@
     "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3530508
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 566, de 2004",
-    "uf": "SP",
-    "codigo_ibge": 3530508
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3530607
   },
   {
     "data": "19/06/2025",
@@ -62976,28 +60520,12 @@
     "codigo_ibge": 3531209
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3531209
-  },
-  {
     "data": "24/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3531209
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa, segundo lei nº 585, de 18/04/1967",
-    "uf": "SP",
-    "codigo_ibge": 3531308
   },
   {
     "data": "15/05/2025",
@@ -63012,14 +60540,6 @@
     "nome": "Dia do Padroeiro",
     "tipo": "MUNICIPAL",
     "descricao": "Dia do Padroeiro da Cidade, segundo lei nº 585, de 18/04/1967",
-    "uf": "SP",
-    "codigo_ibge": 3531308
-  },
-  {
-    "data": "02/11/2025",
-    "nome": "Finados",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia de Finados, segundo lei nº 585, de 18/04/1967",
     "uf": "SP",
     "codigo_ibge": 3531308
   },
@@ -63080,14 +60600,6 @@
     "codigo_ibge": 3531605
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira da Paixão",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-feira da Paixão",
-    "uf": "SP",
-    "codigo_ibge": 3531803
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -63100,22 +60612,6 @@
     "nome": "N. Sra. do Patrocínio",
     "tipo": "MUNICIPAL",
     "descricao": "Padroeira do município",
-    "uf": "SP",
-    "codigo_ibge": 3531803
-  },
-  {
-    "data": "02/11/2025",
-    "nome": "Finados",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia de Finados",
-    "uf": "SP",
-    "codigo_ibge": 3531803
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia da Consciência Negra",
     "uf": "SP",
     "codigo_ibge": 3531803
   },
@@ -63202,14 +60698,6 @@
   {
     "data": "29/06/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3532207
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -63304,14 +60792,6 @@
     "codigo_ibge": 3532702
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3532702
-  },
-  {
     "data": "08/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -63360,14 +60840,6 @@
     "codigo_ibge": 3533007
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3533007
-  },
-  {
     "data": "29/06/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -63378,14 +60850,6 @@
   {
     "data": "20/10/2025",
     "nome": "Aniversário da cidade",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3533106
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -63434,14 +60898,6 @@
   {
     "data": "15/09/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3533403
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -63552,14 +61008,6 @@
     "codigo_ibge": 3534005
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3534005
-  },
-  {
     "data": "30/11/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -63578,14 +61026,6 @@
   {
     "data": "21/03/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3534203
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -63612,14 +61052,6 @@
     "nome": "Emancipação de Osasco",
     "tipo": "MUNICIPAL",
     "descricao": "Aniversário da Emancipação do Município",
-    "uf": "SP",
-    "codigo_ibge": 3534401
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Decreto 10.933, de 20 de dezembro de 2013",
     "uf": "SP",
     "codigo_ibge": 3534401
   },
@@ -63752,14 +61184,6 @@
     "codigo_ibge": 3535002
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3535101
-  },
-  {
     "data": "08/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -63784,24 +61208,8 @@
     "codigo_ibge": 3535309
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira da Paixão",
-    "tipo": "MUNICIPAL",
-    "descricao": "Conforme a Lei nº 2177 de 22 de dezembro de 2006",
-    "uf": "SP",
-    "codigo_ibge": 3535309
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
-    "tipo": "MUNICIPAL",
-    "descricao": "Conforme a Lei nº 2177 de 22 de dezembro de 2006",
-    "uf": "SP",
-    "codigo_ibge": 3535309
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "Conforme a Lei nº 2177 de 22 de dezembro de 2006",
     "uf": "SP",
@@ -63812,14 +61220,6 @@
     "nome": "São José",
     "tipo": "MUNICIPAL",
     "descricao": "Dia de São José",
-    "uf": "SP",
-    "codigo_ibge": 3535408
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Feriado em Homenagem a Zumbi dos Palmares",
     "uf": "SP",
     "codigo_ibge": 3535408
   },
@@ -63852,14 +61252,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3535705
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 823/08 de 21 de agosto de 2.008",
     "uf": "SP",
     "codigo_ibge": 3535705
   },
@@ -63898,14 +61290,6 @@
   {
     "data": "16/09/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3535903
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -63984,14 +61368,6 @@
     "codigo_ibge": 3536604
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3536604
-  },
-  {
     "data": "30/11/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -64040,14 +61416,6 @@
     "codigo_ibge": 3536802
   },
   {
-    "data": "20/11/2025",
-    "nome": "Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia da Consciência Negra, conforme lei 489, de 29 de maio de 2015",
-    "uf": "SP",
-    "codigo_ibge": 3536802
-  },
-  {
     "data": "19/03/2025",
     "nome": "São José",
     "tipo": "MUNICIPAL",
@@ -64080,26 +61448,10 @@
     "codigo_ibge": 3537008
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3537008
-  },
-  {
     "data": "26/07/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3537107
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Emenda a Lei Orgânica do Município no 30/08",
     "uf": "SP",
     "codigo_ibge": 3537107
   },
@@ -64140,14 +61492,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3537206
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 1.017, de 20 de Dezembro de 2006",
     "uf": "SP",
     "codigo_ibge": 3537206
   },
@@ -64216,14 +61560,6 @@
     "codigo_ibge": 3537602
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3537602
-  },
-  {
     "data": "19/03/2025",
     "nome": "São José",
     "tipo": "MUNICIPAL",
@@ -64262,22 +61598,6 @@
     "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3537909
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Paixão de Cristo",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia da Paixão de Cristo",
-    "uf": "SP",
-    "codigo_ibge": 3538006
-  },
-  {
-    "data": "21/04/2025",
-    "nome": "São Benedito",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia de São Benedito",
-    "uf": "SP",
-    "codigo_ibge": 3538006
   },
   {
     "data": "19/06/2025",
@@ -64400,14 +61720,6 @@
     "codigo_ibge": 3538709
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 5242/2003",
-    "uf": "SP",
-    "codigo_ibge": 3538709
-  },
-  {
     "data": "08/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -64476,14 +61788,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3539103
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 855, de 28 de março de 2007",
     "uf": "SP",
     "codigo_ibge": 3539103
   },
@@ -64562,14 +61866,6 @@
   {
     "data": "16/07/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3539707
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -64672,14 +61968,6 @@
     "codigo_ibge": 3540309
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3540309
-  },
-  {
     "data": "24/06/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -64712,14 +62000,6 @@
     "codigo_ibge": 3540507
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3540507
-  },
-  {
     "data": "15/08/2025",
     "nome": "Dia de Nossa Senhora Mãe dos Homens - Padroeira da Cidade",
     "tipo": "MUNICIPAL",
@@ -64732,14 +62012,6 @@
     "nome": "Aniversário da Cidade",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3540606
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal 4.530, 05/11/2007",
     "uf": "SP",
     "codigo_ibge": 3540606
   },
@@ -64794,14 +62066,6 @@
   {
     "data": "13/06/2025",
     "nome": "Dia de Santo Antônio",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3540903
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -64944,14 +62208,6 @@
     "codigo_ibge": 3541802
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3541802
-  },
-  {
     "data": "24/06/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -65002,14 +62258,6 @@
   {
     "data": "25/08/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3542305
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -65072,14 +62320,6 @@
     "codigo_ibge": 3542701
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3542701
-  },
-  {
     "data": "08/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -65136,14 +62376,6 @@
     "codigo_ibge": 3543006
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3543006
-  },
-  {
     "data": "07/04/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -65154,14 +62386,6 @@
   {
     "data": "14/09/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3543105
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -65200,26 +62424,10 @@
     "codigo_ibge": 3543303
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 4.653/2002",
-    "uf": "SP",
-    "codigo_ibge": 3543303
-  },
-  {
     "data": "20/01/2025",
     "nome": "São Sebastião",
     "tipo": "MUNICIPAL",
     "descricao": "Dia de São Sebastião, padroeiro da cidade, conforme Lei 11919/09 de 10/03/2009",
-    "uf": "SP",
-    "codigo_ibge": 3543402
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Lei 11919/09 de 10/03/2009",
     "uf": "SP",
     "codigo_ibge": 3543402
   },
@@ -65234,14 +62442,6 @@
   {
     "data": "13/06/2025",
     "nome": "Dia de Santo Antônio",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3543600
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -65264,26 +62464,10 @@
     "codigo_ibge": 3543709
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 1657/2007",
-    "uf": "SP",
-    "codigo_ibge": 3543709
-  },
-  {
     "data": "24/06/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3543907
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 03718/2006",
     "uf": "SP",
     "codigo_ibge": 3543907
   },
@@ -65298,14 +62482,6 @@
   {
     "data": "06/08/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3544004
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -65344,24 +62520,8 @@
     "codigo_ibge": 3544202
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3544202
-  },
-  {
     "data": "06/08/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3543501
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -65408,24 +62568,8 @@
     "codigo_ibge": 3544301
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3544301
-  },
-  {
     "data": "24/08/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3544400
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -65496,14 +62640,6 @@
     "codigo_ibge": 3545001
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3545001
-  },
-  {
     "data": "24/06/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -65540,14 +62676,6 @@
     "nome": "Nossa Sra Mont Serrat",
     "tipo": "MUNICIPAL",
     "descricao": "Dia da Padroeira da Cidade",
-    "uf": "SP",
-    "codigo_ibge": 3545209
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 2933, de 2009",
     "uf": "SP",
     "codigo_ibge": 3545209
   },
@@ -65620,14 +62748,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3545704
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 535 de 05 de dezembro de 2007",
     "uf": "SP",
     "codigo_ibge": 3545704
   },
@@ -65760,22 +62880,6 @@
     "codigo_ibge": 3546801
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 2396/2007",
-    "uf": "SP",
-    "codigo_ibge": 3546801
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3546900
-  },
-  {
     "data": "19/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -65800,14 +62904,6 @@
     "codigo_ibge": 3547106
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3547106
-  },
-  {
     "data": "22/05/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -65824,14 +62920,6 @@
     "codigo_ibge": 3547403
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "SP",
-    "codigo_ibge": 3547601
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
@@ -65844,14 +62932,6 @@
     "nome": "Aniversário da Cidade",
     "tipo": "MUNICIPAL",
     "descricao": "Aniversário de Santa Rosa de Viterbo",
-    "uf": "SP",
-    "codigo_ibge": 3547601
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal no 3113/07 de 27 de junho de 2007",
     "uf": "SP",
     "codigo_ibge": 3547601
   },
@@ -65920,26 +63000,10 @@
     "codigo_ibge": 3547809
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Decreto 16.465, DE 18 de dezembro de 2013",
-    "uf": "SP",
-    "codigo_ibge": 3547809
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
     "descricao": "conforme Decreto 16.465, DE 18 de dezembro de 2013",
-    "uf": "SP",
-    "codigo_ibge": 3547809
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 8578, de 12.02.2003",
     "uf": "SP",
     "codigo_ibge": 3547809
   },
@@ -65992,14 +63056,6 @@
     "codigo_ibge": 3548104
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3548104
-  },
-  {
     "data": "26/01/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -66040,14 +63096,6 @@
     "codigo_ibge": 3548401
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3548401
-  },
-  {
     "data": "27/11/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -66072,14 +63120,6 @@
     "codigo_ibge": 3548500
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Art.245 da Lei Orgânica do Município",
-    "uf": "SP",
-    "codigo_ibge": 3548500
-  },
-  {
     "data": "11/07/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -66094,14 +63134,6 @@
     "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3548609
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-feira santa",
-    "uf": "SP",
-    "codigo_ibge": 3548708
   },
   {
     "data": "19/06/2025",
@@ -66120,26 +63152,10 @@
     "codigo_ibge": 3548708
   },
   {
-    "data": "20/11/2025",
-    "nome": "Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Feriado do Dia da Consciência Negra",
-    "uf": "SP",
-    "codigo_ibge": 3548708
-  },
-  {
     "data": "28/07/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3548807
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 4446, de 2009",
     "uf": "SP",
     "codigo_ibge": 3548807
   },
@@ -66172,14 +63188,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3549102
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 1982, de 2006",
     "uf": "SP",
     "codigo_ibge": 3549102
   },
@@ -66240,14 +63248,6 @@
     "codigo_ibge": 3549508
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3549508
-  },
-  {
     "data": "09/03/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -66288,26 +63288,10 @@
     "codigo_ibge": 3549805
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feira Santa",
-    "uf": "SP",
-    "codigo_ibge": 3549805
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
     "descricao": "Corpus Christi",
-    "uf": "SP",
-    "codigo_ibge": 3549805
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3549805
   },
@@ -66324,14 +63308,6 @@
     "nome": "Dia de São José, Padroeiro da Cidade - Lei 2.096, de 30/11/2012",
     "tipo": "MUNICIPAL",
     "descricao": "De acordo com a Lei nº 8821, de 27/11/2012",
-    "uf": "SP",
-    "codigo_ibge": 3549904
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3549904
   },
@@ -66366,30 +63342,6 @@
     "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3549953
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3549953
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira da Paixão",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-feira da Paixão",
-    "uf": "SP",
-    "codigo_ibge": 3550001
-  },
-  {
-    "data": "21/04/2025",
-    "nome": "São Benedito",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia de São Benedito",
-    "uf": "SP",
-    "codigo_ibge": 3550001
   },
   {
     "data": "08/05/2025",
@@ -66432,14 +63384,6 @@
     "codigo_ibge": 3550100
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal n° 790/2010",
-    "uf": "SP",
-    "codigo_ibge": 3550100
-  },
-  {
     "data": "01/04/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -66464,32 +63408,8 @@
     "codigo_ibge": 3550308
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Lei nº 14.485 de 19 de julho de 2007",
-    "uf": "SP",
-    "codigo_ibge": 3550308
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Lei nº 14.485 de 19 de julho de 2007",
-    "uf": "SP",
-    "codigo_ibge": 3550308
-  },
-  {
-    "data": "02/11/2025",
-    "nome": "Finados",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Lei nº 14.485 de 19 de julho de 2007",
-    "uf": "SP",
-    "codigo_ibge": 3550308
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "conforme Lei nº 14.485 de 19 de julho de 2007",
     "uf": "SP",
@@ -66506,14 +63426,6 @@
   {
     "data": "29/06/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3550407
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -66568,14 +63480,6 @@
     "codigo_ibge": 3550704
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Homenagem a Zumbi dos Palmares, dia da consciência negra.",
-    "uf": "SP",
-    "codigo_ibge": 3550704
-  },
-  {
     "data": "20/01/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -66592,14 +63496,6 @@
     "codigo_ibge": 3550803
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3550902
-  },
-  {
     "data": "22/01/2025",
     "nome": "Aniversário da Cidade",
     "tipo": "MUNICIPAL",
@@ -66608,34 +63504,10 @@
     "codigo_ibge": 3551009
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feria Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-Feria Santa, conforme Lei Municipal 1.332/67",
-    "uf": "SP",
-    "codigo_ibge": 3551009
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
     "descricao": "Corpus Christi, conforme Lei Municipal 1.332/67",
-    "uf": "SP",
-    "codigo_ibge": 3551009
-  },
-  {
-    "data": "02/11/2025",
-    "nome": "Finados",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia de Finados, conforme Lei Municipal 1.332/67",
-    "uf": "SP",
-    "codigo_ibge": 3551009
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia da Consciência Negra, definido pela lei Municipal 1.814-A/06, , alterada pela Lei 1.926/07",
     "uf": "SP",
     "codigo_ibge": 3551009
   },
@@ -66696,24 +63568,8 @@
     "codigo_ibge": 3551306
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3551306
-  },
-  {
     "data": "14/11/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3551405
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -66738,14 +63594,6 @@
   {
     "data": "01/11/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3551603
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -66780,14 +63628,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3551801
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No. 1.508/2009",
     "uf": "SP",
     "codigo_ibge": 3551801
   },
@@ -66856,24 +63696,8 @@
     "codigo_ibge": 3552205
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 8120, de 2007",
-    "uf": "SP",
-    "codigo_ibge": 3552205
-  },
-  {
     "data": "10/09/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3552304
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -66884,14 +63708,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3552403
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 3922, de 2004",
     "uf": "SP",
     "codigo_ibge": 3552403
   },
@@ -66912,26 +63728,10 @@
     "codigo_ibge": 3552502
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Decreto Municipal nº 8652 de 06 de janeiro de 2015",
-    "uf": "SP",
-    "codigo_ibge": 3552502
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
     "descricao": "conforme Decreto Municipal nº 8652 de 06 de janeiro de 2015",
-    "uf": "SP",
-    "codigo_ibge": 3552502
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Lei Municipal No 4319, de 2009",
     "uf": "SP",
     "codigo_ibge": 3552502
   },
@@ -66948,14 +63748,6 @@
     "nome": "Aniversário da cidade",
     "tipo": "MUNICIPAL",
     "descricao": "Emancipação do Município",
-    "uf": "SP",
-    "codigo_ibge": 3552809
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-feira santa",
     "uf": "SP",
     "codigo_ibge": 3552809
   },
@@ -67032,14 +63824,6 @@
     "codigo_ibge": 3553203
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3553203
-  },
-  {
     "data": "16/06/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -67066,14 +63850,6 @@
   {
     "data": "19/02/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3553500
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -67128,14 +63904,6 @@
     "codigo_ibge": 3553906
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3553906
-  },
-  {
     "data": "08/12/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -67166,14 +63934,6 @@
     "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3554003
-  },
-  {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira da Paixão",
-    "tipo": "MUNICIPAL",
-    "descricao": "Sexta-feira da paixão, conforme Lei nº 4.128/07",
-    "uf": "SP",
-    "codigo_ibge": 3554102
   },
   {
     "data": "22/04/2025",
@@ -67264,26 +64024,10 @@
     "codigo_ibge": 3554409
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-Feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "Feriado conforme lei nº 1242, de 26 de junho de 2014",
-    "uf": "SP",
-    "codigo_ibge": 3554409
-  },
-  {
     "data": "19/06/2025",
     "nome": "Corpus Christi",
     "tipo": "MUNICIPAL",
     "descricao": "Feriado conforme lei nº 1242, de 26 de junho de 2014",
-    "uf": "SP",
-    "codigo_ibge": 3554409
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3554409
   },
@@ -67302,14 +64046,6 @@
     "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3554508
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3554607
   },
   {
     "data": "19/03/2025",
@@ -67568,14 +64304,6 @@
     "codigo_ibge": 3556206
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3556206
-  },
-  {
     "data": "24/05/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -67650,14 +64378,6 @@
   {
     "data": "15/09/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3556503
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "SP",
@@ -67742,14 +64462,6 @@
     "descricao": "",
     "uf": "SP",
     "codigo_ibge": 3556909
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "SP",
-    "codigo_ibge": 3557006
   },
   {
     "data": "08/12/2025",
@@ -67896,14 +64608,6 @@
     "codigo_ibge": 1702406
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "TO",
-    "codigo_ibge": 1702406
-  },
-  {
     "data": "22/05/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -67996,14 +64700,6 @@
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
     "descricao": "",
-    "uf": "TO",
-    "codigo_ibge": 1707009
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Dia da Consciência Negra",
     "uf": "TO",
     "codigo_ibge": 1707009
   },
@@ -68168,14 +64864,6 @@
     "codigo_ibge": 1713205
   },
   {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "TO",
-    "codigo_ibge": 1713205
-  },
-  {
     "data": "13/06/2025",
     "nome": "Dia de Santo Antônio",
     "tipo": "MUNICIPAL",
@@ -68224,26 +64912,10 @@
     "codigo_ibge": 1721000
   },
   {
-    "data": "18/04/2025",
-    "nome": "Sexta-feira Santa",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Lei nº 577/96, de 02 de abril de 1996",
-    "uf": "TO",
-    "codigo_ibge": 1721000
-  },
-  {
     "data": "20/05/2025",
     "nome": "Aniversário de Palmas",
     "tipo": "MUNICIPAL",
     "descricao": "conforme Lei nº 108 de 15 de maio de 1991",
-    "uf": "TO",
-    "codigo_ibge": 1721000
-  },
-  {
-    "data": "02/11/2025",
-    "nome": "Dia de Finados",
-    "tipo": "MUNICIPAL",
-    "descricao": "conforme Lei nº 577/96, de 02 de abril de 1996",
     "uf": "TO",
     "codigo_ibge": 1721000
   },
@@ -68296,14 +64968,6 @@
     "codigo_ibge": 1716604
   },
   {
-    "data": "20/11/2025",
-    "nome": "Consciência Negra",
-    "tipo": "MUNICIPAL",
-    "descricao": "Feriado Municipal no dia 20 de novembro, dia da Consciência Negra, confirme decreto 50/2017",
-    "uf": "TO",
-    "codigo_ibge": 1717909
-  },
-  {
     "data": "13/07/2025",
     "nome": "Feriado Municipal",
     "tipo": "MUNICIPAL",
@@ -68314,14 +64978,6 @@
   {
     "data": "24/09/2025",
     "nome": "Feriado Municipal",
-    "tipo": "MUNICIPAL",
-    "descricao": "",
-    "uf": "TO",
-    "codigo_ibge": 1718204
-  },
-  {
-    "data": "20/11/2025",
-    "nome": "Dia da Consciência Negra",
     "tipo": "MUNICIPAL",
     "descricao": "",
     "uf": "TO",
