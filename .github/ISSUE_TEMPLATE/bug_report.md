@@ -7,14 +7,17 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Qual a data e o nome do feriado incorreto?**
+Ex: 20/01 - Dia de São Sebastião
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Qual a localidade?**
+Ex: Rio de Janeiro/RJ (Município) ou Estado de SP
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Descreva o erro**
+Ex: Este feriado é municipal, mas está marcado como estadual. Ou a data está errada.
 
-**Additional context**
-Add any other context about the problem here.
+**Fonte Oficial (Obrigatório)**
+Por favor, forneça um link para a lei, decreto ou site oficial da prefeitura/estado que comprove a correção.
+
+**Em qual arquivo você encontrou o erro?**
+Ex: `dados/feriados/municipal/2024.json`
