@@ -1300,10 +1300,10 @@ INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('24/0
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('02/02/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', 2923605);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('13/06/2024', 'Dia de Santo Antônio', 'MUNICIPAL', '', 'BA', 2923605);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('16/09/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', 2923605);
-INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('20/01/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', );
-INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('13/06/2024', 'Dia de Santo Antônio', 'MUNICIPAL', '', 'BA', );
-INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('25/06/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', );
-INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('08/12/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', );
+INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('20/01/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', 2923704);
+INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('13/06/2024', 'Dia de Santo Antônio', 'MUNICIPAL', '', 'BA', 2923704);
+INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('25/06/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', 2923704);
+INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('08/12/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', 2923704);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('19/04/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', 2923902);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('13/12/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', 2923902);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('24/06/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'BA', 2924009);
@@ -7748,7 +7748,7 @@ INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('15/0
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('21/02/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'SP', 3525805);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('21/05/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'SP', 3525854);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('06/08/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'SP', 3525854);
-INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('15/08/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'SP', 3525904);
+INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('15/08/2024', 'Dia de Nossa Senhora do Desterro', 'MUNICIPAL', '', 'SP', 3525904);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('20/11/2024', 'Dia da Consciência Negra', 'MUNICIPAL', '', 'SP', 3525904);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('13/06/2024', 'Dia de Santo Antônio', 'MUNICIPAL', '', 'SP', 3526001);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('10/04/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'SP', 3526100);
@@ -8537,3 +8537,4 @@ INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('15/0
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('29/09/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'TO', 1722107);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('14/11/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'TO', 1722107);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('30/11/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'TO', 1722107);
+INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('30/05/2024', 'Corpus Christi', 'MUNICIPAL', 'Lei Municipal nº 2.102/1975', 'SP', 3525904);

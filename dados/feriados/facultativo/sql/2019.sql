@@ -40,3 +40,4 @@ INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('24/1
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('26/12/2019', 'Facultativo', 'FACULTATIVO', 'Facultativo', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('31/12/2019', 'Após o meio-dia, Véspera de Ano Novo', 'FACULTATIVO', 'De acordo com o Decreto nº 18882-E de 01 de junho de 2015', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('31/12/2019', 'Facultativo', 'FACULTATIVO', 'Facultativo', null, null);
+INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('14/12/2019', 'Aniversário de Jundiaí', 'FACULTATIVO', 'Data comemorativa e ponto facultativo', 'SP', 3525904);

@@ -214,5 +214,13 @@
         "descricao": "Ponto Facultativo Municipal",
         "uf": "",
         "codigo_ibge": null
+    },
+    {
+        "data": "14/12/2018",
+        "nome": "Aniversário de Jundiaí",
+        "tipo": "FACULTATIVO",
+        "descricao": "Data comemorativa e ponto facultativo",
+        "uf": "SP",
+        "codigo_ibge": 3525904
     }
 ]

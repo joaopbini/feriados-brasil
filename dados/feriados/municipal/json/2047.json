@@ -62025,7 +62025,7 @@
     },
     {
         "data": "15/08/2047",
-        "nome": "Feriado Municipal",
+        "nome": "Dia de Nossa Senhora do Desterro",
         "tipo": "MUNICIPAL",
         "descricao": "",
         "uf": "SP",
@@ -67694,5 +67694,13 @@
         "descricao": "",
         "uf": "TO",
         "codigo_ibge": 1722107
+    },
+    {
+        "data": "13/06/2047",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "Lei Municipal nº 2.102/1975",
+        "uf": "SP",
+        "codigo_ibge": 3525904
     }
 ]
