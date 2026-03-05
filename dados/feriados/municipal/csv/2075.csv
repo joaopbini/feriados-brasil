@@ -102,10 +102,10 @@
 20/01/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,AL,2704203
 31/05/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,AL,2704203
 08/12/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,AL,2704203
-05/04/2075,Sexta-feira da Paixão,MUNICIPAL,Sexta-feira da Paixão,AL,2704302
-06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,AL,2704302
-27/08/2075,Padroeira,MUNICIPAL,"Dia de Nossa Senhora dos Prazeres, padroeira de Maceió",AL,2704302
-08/12/2075,N. Sra. da Conceição,MUNICIPAL,Dia de Nossa Senhora da Conceição,AL,2704302
+05/04/2075,Sexta-feira da Paixão,MUNICIPAL,Feriado municipal religioso conforme a Lei Municipal nº 1.391 de 26/08/1964.,AL,2704302
+06/06/2075,Corpus Christi,MUNICIPAL,Feriado municipal religioso conforme a Lei Municipal nº 1.391 de 26/08/1964.,AL,2704302
+27/08/2075,Nossa Senhora dos Prazeres,MUNICIPAL,"Dia da Padroeira de Maceió, feriado municipal conforme a Lei Municipal nº 1.391 de 26/08/1964.",AL,2704302
+08/12/2075,Nossa Senhora da Conceição,MUNICIPAL,"Feriado municipal religioso em honra a Nossa Senhora da Conceição, conforme a Lei Municipal nº 1.391 de 26/08/1964.",AL,2704302
 01/06/2075,Feriado Municipal,MUNICIPAL,,AL,2704401
 13/06/2075,Dia de Santo Antônio,MUNICIPAL,,AL,2704401
 24/04/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,AL,2704500
@@ -225,7 +225,7 @@
 16/07/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,AM,1302504
 19/02/2075,Carnaval,MUNICIPAL,Carnaval,AM,1302603
 05/03/2075,Quarta-feira de cinzas,MUNICIPAL,Feriado na quarta-feira de cinzas até às 12 (doze) horas.,AM,1302603
-24/10/2075,Aniversário de Manaus,MUNICIPAL,Elevação de Manaus à categoria de Cidade,AM,1302603
+24/10/2075,Aniversário de Manaus,MUNICIPAL,"Dia em que se comemora a elevação de Manaus à categoria de cidade, conforme Lei Municipal nº 495 de 06/01/2020",AM,1302603
 15/05/2075,Feriado Municipal,MUNICIPAL,,AM,1302702
 15/08/2075,Feriado Municipal,MUNICIPAL,,AM,1302702
 15/09/2075,Feriado Municipal,MUNICIPAL,,AM,1302702
@@ -639,9 +639,9 @@
 26/03/2075,Feriado Municipal,MUNICIPAL,,BA,2914703
 18/05/2075,Feriado Municipal,MUNICIPAL,,BA,2914703
 24/06/2075,Feriado Municipal,MUNICIPAL,,BA,2914703
-19/03/2075,Dia de São José,MUNICIPAL,Dia de São José,BA,2914802
-24/06/2075,Dia de São João,MUNICIPAL,Dia de São João,BA,2914802
-28/07/2075,Aniversário de Itabuna,MUNICIPAL,Aniversário de Itabuna,BA,2914802
+19/03/2075,Dia de São José,MUNICIPAL,"Dia de São José, Padroeiro da Cidade, conforme Lei Municipal nº 2.052 de 03/07/2007",BA,2914802
+24/06/2075,Dia de São João,MUNICIPAL,"Feriado de São João, conforme Lei Municipal nº 2.052 de 03/07/2007",BA,2914802
+28/07/2075,Aniversário de Itabuna,MUNICIPAL,"Dia da Cidade, aniversário de emancipação política e administrativa, conforme Lei Municipal nº 2.052 de 03/07/2007",BA,2914802
 26/01/2075,Feriado Municipal,MUNICIPAL,,BA,2914901
 29/09/2075,Feriado Municipal,MUNICIPAL,,BA,2914901
 25/09/2075,Feriado Municipal,MUNICIPAL,,BA,2915007
@@ -1141,9 +1141,9 @@
 31/07/2075,Feriado Municipal,MUNICIPAL,,BA,2933208
 14/09/2075,Feriado Municipal,MUNICIPAL,,BA,2933208
 19/02/2075,Carnaval,MUNICIPAL,Carnaval,BA,2933307
-24/06/2075,São João,MUNICIPAL,Dia de São João,BA,2933307
-15/08/2075,Padroeira,MUNICIPAL,"Dia de Nossa Senhora das Vitórias, padroeira da cidade",BA,2933307
-09/11/2075,Aniversário,MUNICIPAL,Aniversário da cidade,BA,2933307
+24/06/2075,São João,MUNICIPAL,"Dia de São João, conforme Lei Municipal nº 1.391 de 16/08/2006",BA,2933307
+15/08/2075,Padroeira,MUNICIPAL,"Dia de Nossa Senhora das Vitórias, padroeira da cidade, conforme Lei Municipal nº 1.391 de 16/08/2006",BA,2933307
+09/11/2075,Aniversário da Cidade,MUNICIPAL,"Aniversário da cidade e Emancipação Política, conforme Lei Municipal nº 1.391 de 16/08/2006",BA,2933307
 24/06/2075,Feriado Municipal,MUNICIPAL,,BA,2933406
 20/07/2075,Feriado Municipal,MUNICIPAL,,BA,2933406
 20/01/2075,Feriado Municipal,MUNICIPAL,,BA,2933455
@@ -1222,9 +1222,9 @@
 18/08/2075,Feriado Municipal,MUNICIPAL,,CE,2303204
 22/07/2075,Feriado Municipal,MUNICIPAL,,CE,2303402
 08/09/2075,Feriado Municipal,MUNICIPAL,,CE,2303402
-19/03/2075,São José,MUNICIPAL,Dia de São José,CE,2303709
-15/08/2075,N. Sra. dos Prazeres,MUNICIPAL,Padrodeira de Caucaia,CE,2303709
-15/10/2075,Dia do município,MUNICIPAL,Aniversário de Caucaia,CE,2303709
+19/03/2075,São José,MUNICIPAL,"Feriado estadual que celebra o santo padroeiro do Ceará, conforme Lei Estadual nº 11.010 de 23/12/1985",CE,2303709
+15/08/2075,Nossa Senhora dos Prazeres,MUNICIPAL,"Padroeira do Município, conforme Lei Municipal nº 326 de 22/06/1981",CE,2303709
+15/10/2075,Dia do Município,MUNICIPAL,"Aniversário da cidade de Caucaia, conforme Lei Municipal nº 326 de 22/06/1981",CE,2303709
 19/03/2075,São José,MUNICIPAL,Dia de São José,CE,2303808
 24/06/2075,Feriado Municipal,MUNICIPAL,,CE,2303808
 15/09/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,CE,2304004
@@ -1243,10 +1243,10 @@
 08/12/2075,Feriado Municipal,MUNICIPAL,,CE,2304301
 20/12/2075,Feriado Municipal,MUNICIPAL,,CE,2304301
 19/03/2075,São José,MUNICIPAL,"Dia de São José, padroeiro do estado do Ceará, conforme a Lei nº 8796 de 09 de dezembro de 2003",CE,2304400
-13/04/2075,Aniversário de Fortaleza,MUNICIPAL,"conforme Lei nº 7535, de 16 de junho 1994",CE,2304400
+13/04/2075,Aniversário de Fortaleza,MUNICIPAL,conforme Lei Municipal nº 7.535 de 16/06/1994,CE,2304400
 05/04/2075,Sexta-feira Santa,MUNICIPAL,conforme a Lei nº 8796 de 09 de dezembro de 2003,CE,2304400
 06/06/2075,Corpus Christi,MUNICIPAL,conforme a Lei nº 8796 de 09 de dezembro de 2003,CE,2304400
-15/08/2075,N. Senhora da Assunção,MUNICIPAL,"Nossa Senhora da Assunção, Padroeira de Fortaleza, conforme a Lei nº 8796 de 09 de dezembro de 2003",CE,2304400
+15/08/2075,Nossa Senhora da Assunção,MUNICIPAL,"Dia de Nossa Senhora da Assunção, padroeira de Fortaleza, conforme Lei Municipal nº 8.796 de 09/12/2003",CE,2304400
 19/03/2075,São José,MUNICIPAL,Dia de São José,CE,2304459
 27/03/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,CE,2304459
 29/06/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,CE,2304459
@@ -1476,9 +1476,9 @@
 15/08/2075,Feriado Municipal,MUNICIPAL,,ES,3201159
 15/12/2075,Feriado Municipal,MUNICIPAL,,ES,3201159
 29/06/2075,Feriado Municipal,MUNICIPAL,,ES,3201209
-13/04/2075,Nossa Senhora da Penha,MUNICIPAL,conforme Lei Municipal nº 317/1967,ES,3201308
-05/04/2075,Sexta-feira Santa,MUNICIPAL,conforme Lei nº 317/1967,ES,3201308
-06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei nº 317/1967,ES,3201308
+13/04/2075,Nossa Senhora da Penha,MUNICIPAL,conforme Lei Municipal nº 317 de 10/07/1967,ES,3201308
+05/04/2075,Sexta-feira Santa,MUNICIPAL,conforme Lei Municipal nº 317 de 10/07/1967,ES,3201308
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 317 de 10/07/1967,ES,3201308
 24/06/2075,São João Batista,MUNICIPAL,"Dia de São João Batista, Aniversário de Cariacica - conforme Lei Municipal nº 317/1967",ES,3201308
 15/08/2075,Feriado Municipal,MUNICIPAL,,ES,3201407
 08/12/2075,Feriado Municipal,MUNICIPAL,,ES,3201407
@@ -1590,9 +1590,9 @@
 27/12/2075,São Benedito,MUNICIPAL,Dia de São Benedito,ES,3204906
 25/06/2075,Feriado Municipal,MUNICIPAL,,ES,3204955
 16/08/2075,Feriado Municipal,MUNICIPAL,,ES,3204955
-29/06/2075,Dia de São Pedro,MUNICIPAL,Lei nº 228 de 1967,ES,3205002
-08/12/2075,Nossa Senhora da Conceição,MUNICIPAL,Lei nº 228 de 1967,ES,3205002
-26/12/2075,Dia do Serrano,MUNICIPAL,Lei nº 228 de 1967,ES,3205002
+29/06/2075,Dia de São Pedro,MUNICIPAL,conforme Lei Municipal nº 228 de 14/08/1967,ES,3205002
+08/12/2075,Nossa Senhora da Conceição,MUNICIPAL,conforme Lei Municipal nº 228 de 14/08/1967,ES,3205002
+26/12/2075,Dia do Serrano,MUNICIPAL,conforme Lei Municipal nº 228 de 14/08/1967,ES,3205002
 31/03/2075,Feriado Municipal,MUNICIPAL,,ES,3205010
 20/03/2075,Feriado Municipal,MUNICIPAL,,ES,3205036
 24/06/2075,Feriado Municipal,MUNICIPAL,,ES,3205036
@@ -1611,12 +1611,12 @@
 27/11/2075,Feriado Municipal,MUNICIPAL,,ES,3205176
 05/04/2075,Sexta-feira Santa,MUNICIPAL,"Feriado, conforme Lei 5.622 de 2015",ES,3205200
 28/04/2075,Festa da Penha,MUNICIPAL,"Feriado, conforme Lei 5.622 de 2015",ES,3205200
-23/05/2075,Dia da Colonização,MUNICIPAL,Dia da Colonização do Solo Espírito-Santense,ES,3205200
-06/06/2075,Corpus Christi,MUNICIPAL,"Feriado, conforme Lei 5.622 de 2015",ES,3205200
+23/05/2075,Colonização do Solo Espírito-santense,MUNICIPAL,conforme Lei Municipal nº 5.622 de 20/05/2015,ES,3205200
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 5.622 de 20/05/2015,ES,3205200
 13/04/2075,Nossa Senhora da Penha,MUNICIPAL,"Sempre comemorado oito dias após o domingo de Páscoa, de acordo com o Decreto nº 16.896",ES,3205309
-05/04/2075,Sexta-feira da Paixão,MUNICIPAL,Sexta-feira da Paixão,ES,3205309
-06/06/2075,Corpus Christi,MUNICIPAL,"conforme Lei Municipal nº 1.732, de 1967",ES,3205309
-08/09/2075,N. Sra da Vitória,MUNICIPAL,"conforme Lei Municipal nº 1.732, de 1967",ES,3205309
+05/04/2075,Sexta-feira da Paixão,MUNICIPAL,conforme Lei Municipal nº 1.732 de 31/03/1967,ES,3205309
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 1.732 de 31/03/1967,ES,3205309
+08/09/2075,Nossa Senhora da Vitória,MUNICIPAL,conforme Lei Municipal nº 1.732 de 31/03/1967,ES,3205309
 15/08/2075,Feriado Municipal,MUNICIPAL,,GO,5200100
 04/04/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,GO,5200134
 14/05/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,GO,5200134
@@ -1633,7 +1633,7 @@
 26/07/2075,Padroeira,MUNICIPAL,"Dia de SantAnna, padroeira de Anápolis",GO,5201108
 31/07/2075,Aniversário,MUNICIPAL,Aniversário de Anápolis,GO,5201108
 07/06/2075,Feriado Municipal,MUNICIPAL,,GO,5201306
-14/11/2075,Emancipação política,MUNICIPAL,Emancipação política de Aparecida de Goiânia,GO,5201405
+14/11/2075,Emancipação política,MUNICIPAL,conforme Lei Municipal nº 792 de 10/10/1988 e Lei Municipal nº 3.257 de 25/05/2015,GO,5201405
 28/08/2075,Feriado Municipal,MUNICIPAL,,GO,5201504
 14/11/2075,Feriado Municipal,MUNICIPAL,,GO,5201504
 06/08/2075,Feriado Municipal,MUNICIPAL,,GO,5201702
@@ -1751,7 +1751,7 @@
 14/07/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,GO,5208608
 15/08/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,GO,5208608
 27/09/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,GO,5208608
-24/05/2075,Nossa Senhora Auxiliadora,MUNICIPAL,conforme Lei nº 701 de 30 agosto de 1956,GO,5208707
+24/05/2075,Nossa Senhora Auxiliadora,MUNICIPAL,conforme Lei Municipal nº 701 de 30/08/1956,GO,5208707
 24/10/2075,Aniversário de Goiânia,MUNICIPAL,conforme a Lei nº 6968 de 19 de junho de 1991,GO,5208707
 04/01/2075,Feriado Municipal,MUNICIPAL,,GO,5208806
 25/03/2075,Feriado Municipal,MUNICIPAL,,GO,5208806
@@ -1890,8 +1890,8 @@
 18/12/2075,Feriado Municipal,MUNICIPAL,,GO,5218706
 20/01/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,GO,5218789
 11/05/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,GO,5218789
-20/01/2075,Feriado Municipal,MUNICIPAL,,GO,5218805
-05/08/2075,Feriado Municipal,MUNICIPAL,,GO,5218805
+20/01/2075,Dia de São Sebastião (Padroeiro),MUNICIPAL,conforme Lei Municipal nº 2.822 de 16/10/1992,GO,5218805
+05/08/2075,Aniversário de Rio Verde,MUNICIPAL,conforme Lei Municipal nº 2.822 de 16/10/1992 e Lei Municipal nº 1.401 de 10/05/1976,GO,5218805
 15/08/2075,Feriado Municipal,MUNICIPAL,,GO,5218904
 05/01/2075,Feriado Municipal,MUNICIPAL,,GO,5219001
 15/08/2075,Feriado Municipal,MUNICIPAL,,GO,5219001
@@ -2358,8 +2358,8 @@
 31/05/2075,Feriado Municipal,MUNICIPAL,,MG,3106507
 08/12/2075,Feriado Municipal,MUNICIPAL,,MG,3106507
 05/04/2075,Sexta-feira Santa,MUNICIPAL,Sexta-feira Santa,MG,3106705
-06/06/2075,Corpus Christi,MUNICIPAL,,MG,3106705
-16/07/2075,"Dia de Nossa Senhora do Carmo, padroeira da cidade - Lei 4.731 22/12/2008.",MUNICIPAL,,MG,3106705
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 4.731 de 22/12/2008,MG,3106705
+16/07/2075,Dia de Nossa Senhora do Carmo,MUNICIPAL,"Padroeira da cidade, conforme Lei Municipal nº 4.731 de 22/12/2008",MG,3106705
 19/03/2075,São José,MUNICIPAL,"Dia de São José, padroeiro da cidade",MG,3106903
 13/06/2075,Santo Antônio,MUNICIPAL,Dia de Santo Antônio,MG,3106903
 15/08/2075,Feriado Municipal,MUNICIPAL,,MG,3106903
@@ -2596,8 +2596,8 @@
 31/10/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,MG,3118403
 31/12/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,MG,3118403
 11/04/2075,N. Senhora das Dores,MUNICIPAL,Jubileu de Nossa Senhora das Dores,MG,3118601
-05/04/2075,Sexta-feira da Paixão,MUNICIPAL,conforme Lei nº 3.484/2001,MG,3118601
-06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei nº 3.484/2001,MG,3118601
+05/04/2075,Sexta-feira da Paixão,MUNICIPAL,conforme Lei Municipal nº 3.484 de 11/10/2001,MG,3118601
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 3.484 de 11/10/2001,MG,3118601
 08/12/2075,Feriado Municipal,MUNICIPAL,,MG,3118700
 05/04/2075,Feriado Municipal,MUNICIPAL,,MG,3118809
 01/06/2075,Feriado Municipal,MUNICIPAL,,MG,3118809
@@ -2821,10 +2821,10 @@
 01/09/2075,Feriado Municipal,MUNICIPAL,,MG,3131158
 13/06/2075,Dia de Santo Antônio,MUNICIPAL,Dia de Santo Antônio,MG,3131208
 08/12/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,MG,3131208
-05/04/2075,Paixão de Cristo,MUNICIPAL,Paixão de Cristo,MG,3131307
-29/04/2075,Emancipação,MUNICIPAL,Emancipação política de Ipatinga,MG,3131307
-06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,MG,3131307
-15/08/2075,Nossa Senhora,MUNICIPAL,Assunção de Nossa Senhora,MG,3131307
+05/04/2075,Paixão de Cristo,MUNICIPAL,conforme Lei Municipal nº 431 de 11/04/1973,MG,3131307
+29/04/2075,Aniversário da Cidade,MUNICIPAL,conforme Lei Municipal nº 431 de 11/04/1973,MG,3131307
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 431 de 11/04/1973,MG,3131307
+15/08/2075,Nossa Senhora da Esperança,MUNICIPAL,conforme Lei Municipal nº 431 de 11/04/1973,MG,3131307
 31/05/2075,Feriado Municipal,MUNICIPAL,,MG,3131406
 23/06/2075,Feriado Municipal,MUNICIPAL,,MG,3131406
 01/09/2075,Feriado Municipal,MUNICIPAL,,MG,3131406
@@ -2943,8 +2943,8 @@
 16/07/2075,Feriado Municipal,MUNICIPAL,,MG,3136603
 20/01/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,MG,3136652
 27/04/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,MG,3136652
-13/06/2075,Dia de Santo Antônio,MUNICIPAL,Dia de Santo Antônio,MG,3136702
-06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,MG,3136702
+13/06/2075,Dia de Santo Antônio,MUNICIPAL,"conforme Lei Municipal nº 2.650, de 19/12/1963",MG,3136702
+06/06/2075,Corpus Christi,MUNICIPAL,"conforme Lei Municipal nº 2.650, de 19/12/1963",MG,3136702
 20/01/2075,Feriado Municipal,MUNICIPAL,,MG,3136900
 27/12/2075,Feriado Municipal,MUNICIPAL,,MG,3136900
 20/01/2075,Feriado Municipal,MUNICIPAL,,MG,3137007
@@ -3082,7 +3082,7 @@
 16/07/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,MG,3143104
 15/08/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,MG,3143104
 06/01/2075,Feriado Municipal,MUNICIPAL,,MG,3143203
-03/07/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,MG,3143302
+03/07/2075,Aniversário da Cidade,MUNICIPAL,conforme Lei Municipal nº 1.258 de 22/06/1979,MG,3143302
 29/03/2075,Feriado Municipal,MUNICIPAL,,MG,3143401
 27/11/2075,Feriado Municipal,MUNICIPAL,,MG,3143401
 17/09/2075,Feriado Municipal,MUNICIPAL,,MG,3143500
@@ -3295,9 +3295,9 @@
 31/10/2075,Feriado Municipal,MUNICIPAL,,MG,3154457
 02/03/2075,Feriado Municipal,MUNICIPAL,,MG,3154507
 03/03/2075,Feriado Municipal,MUNICIPAL,,MG,3154507
-05/08/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,MG,3154606
+05/08/2075,Nossa Senhora das Neves (Padroeira),MUNICIPAL,conforme Lei Municipal nº 1.259 de 11/05/1987,MG,3154606
 15/08/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,MG,3154606
-12/12/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,MG,3154606
+12/12/2075,Aniversário da Cidade,MUNICIPAL,conforme Lei Municipal nº 1.259 de 11/05/1987,MG,3154606
 15/08/2075,Feriado Municipal,MUNICIPAL,,MG,3154705
 26/11/2075,Feriado Municipal,MUNICIPAL,,MG,3154705
 08/12/2075,Feriado Municipal,MUNICIPAL,,MG,3154705
@@ -3378,7 +3378,7 @@
 22/05/2075,Feriado Municipal,MUNICIPAL,,MG,3159209
 22/05/2075,Feriado Municipal,MUNICIPAL,,MG,3159605
 24/05/2075,Feriado Municipal,MUNICIPAL,,MG,3159605
-08/12/2075,Feriado Municipal,MUNICIPAL,,MG,3159704
+08/12/2075,Nossa Senhora da Imaculada Conceição (Padroeira),MUNICIPAL,conforme Lei Municipal nº 351 de 10/05/1993,MG,3159704
 31/05/2075,Feriado Municipal,MUNICIPAL,,MG,3159803
 15/08/2075,Feriado Municipal,MUNICIPAL,,MG,3159803
 08/12/2075,Feriado Municipal,MUNICIPAL,,MG,3159803
@@ -3581,12 +3581,12 @@
 24/06/2075,Feriado Municipal,MUNICIPAL,,MG,3170008
 08/08/2075,Feriado Municipal,MUNICIPAL,,MG,3170057
 08/12/2075,Feriado Municipal,MUNICIPAL,,MG,3170057
-02/03/2075,Aniversário da cidade,MUNICIPAL,Aniversário da cidade,MG,3170107
-15/08/2075,Nossa Senhora da Abadia,MUNICIPAL,Nossa Senhora da Abadia,MG,3170107
+02/03/2075,Aniversário de Uberaba,MUNICIPAL,conforme Lei Municipal nº 12.608 de 04/04/2017,MG,3170107
+15/08/2075,Nossa Senhora da Abadia,MUNICIPAL,conforme Lei Municipal nº 12.608 de 04/04/2017,MG,3170107
 05/04/2075,Sexta-Feira Santa,MUNICIPAL,Sexta-Feira Santa,MG,3170206
-06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,MG,3170206
-15/08/2075,Nossa Sra da Abadia,MUNICIPAL,"Dia de Nossa Senhora da Abadia, padroeira do Município",MG,3170206
-31/08/2075,Aniversário da cidade,MUNICIPAL,"Dia de São Raimundo, aniversário da cidade",MG,3170206
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 2.115 de 11/07/1973,MG,3170206
+15/08/2075,Nossa Senhora da Abadia,MUNICIPAL,"Dia de Nossa Senhora da Abadia, padroeira do Município",MG,3170206
+31/08/2075,Aniversário de Uberlândia,MUNICIPAL,conforme Lei Municipal nº 2.115 de 11/07/1973,MG,3170206
 15/01/2075,Aniversário da cidade,MUNICIPAL,Aniversário da cidade,MG,3170404
 05/04/2075,Sexta-Feira Santa,MUNICIPAL,Sexta-Feira Santa/Paixão de Cristo,MG,3170404
 06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,MG,3170404
@@ -3664,10 +3664,10 @@
 26/12/2075,Feriado Municipal,MUNICIPAL,,MS,5002407
 24/06/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,MS,5002605
 30/09/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,MS,5002605
-05/04/2075,Sexta-feira Santa,MUNICIPAL,"conforme Lei nº 95, de 27 de Outubro de 1949",MS,5002704
-06/06/2075,Corpus Christi,MUNICIPAL,"conforme Lei nº 95, de 27 de Outubro de 1949",MS,5002704
+05/04/2075,Sexta-feira Santa,MUNICIPAL,conforme Lei Municipal nº 3.901 de 29/10/2001 e Lei Municipal nº 95 de 27/10/1949,MS,5002704
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 3.901 de 29/10/2001 e Lei Municipal nº 95 de 27/10/1949,MS,5002704
 13/06/2075,Dia de Santo Antônio,MUNICIPAL,"Padroeiro do Município de Campo Grande-MS, Santo Antônio de Pádua, conforme Lei nº 3901 de 29 de outubro de 2001",MS,5002704
-26/08/2075,Aniversário de Campo Grande,MUNICIPAL,"conforme Lei nº 95, de 27 de Outubro de 1949",MS,5002704
+26/08/2075,Aniversário de Campo Grande,MUNICIPAL,conforme Lei Municipal nº 3.901 de 29/10/2001,MS,5002704
 19/06/2075,Feriado Municipal,MUNICIPAL,,MS,5002803
 19/03/2075,São José,MUNICIPAL,"Dia de São José, padroeiro do município",MS,5002902
 03/08/2075,Aniversário do município,MUNICIPAL,Aniversário da cidade de Cassilândia,MS,5002902
@@ -3826,10 +3826,10 @@
 13/05/2075,Feriado Municipal,MUNICIPAL,,MT,5103304
 12/07/2075,Dia do Evangélico,MUNICIPAL,"Feriado no Segundo Sábado de Julho, do dia do evangélico, segundo Lei nº 094/1997",MT,5103353
 29/07/2075,Feriado Municipal,MUNICIPAL,,MT,5103353
-08/04/2075,Aniversário,MUNICIPAL,Fundação da Cidade de Cuiabá,MT,5103403
-05/04/2075,Sexta-feira Santa,MUNICIPAL,conforme Lei nº 1077 de 02 de abril de 1968,MT,5103403
-06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei nº 1077 de 02 de abril de 1968,MT,5103403
-08/12/2075,N. Sra da Conceição,MUNICIPAL,Dia de Nossa Senhora da Conceição,MT,5103403
+08/04/2075,Aniversário de Cuiabá,MUNICIPAL,conforme Lei Municipal nº 1.077 de 02 de abril de 1968,MT,5103403
+05/04/2075,Sexta-feira Santa,MUNICIPAL,conforme Lei Municipal nº 1.077 de 02 de abril de 1968,MT,5103403
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 1.077 de 02 de abril de 1968,MT,5103403
+08/12/2075,Nossa Senhora da Conceição,MUNICIPAL,conforme Lei Municipal nº 1.077 de 02 de abril de 1968,MT,5103403
 06/05/2075,Feriado Municipal,MUNICIPAL,,MT,5103452
 25/07/2075,Feriado Municipal,MUNICIPAL,,MT,5103452
 18/09/2075,Feriado Municipal,MUNICIPAL,,MT,5103502
@@ -3937,7 +3937,7 @@
 30/04/2075,Feriado Municipal,MUNICIPAL,,MT,5108204
 10/12/2075,Feriado Municipal,MUNICIPAL,,MT,5108204
 19/02/2075,Carnaval,MUNICIPAL,Feriado Municipal,MT,5108402
-05/04/2075,Sexta-Feira Santa,MUNICIPAL,Sexta-Feria Santa,MT,5108402
+05/04/2075,Sexta-Feira Santa,MUNICIPAL,conforme Lei Municipal nº 1.128 de 18/12/1991,MT,5108402
 06/06/2075,Corpus Christi,MUNICIPAL,Feriado de Corpus Crhisti segundo decreto n° 44/2017,MT,5108402
 13/05/2075,Emancipação do Município,MUNICIPAL,Comemorações da Emancipação do Município de Vera-MT,MT,5108501
 27/07/2075,Fundação do Município,MUNICIPAL,Aniversário de Fundação do Município,MT,5108501
@@ -3968,8 +3968,8 @@
 31/08/2075,Feriado Municipal,MUNICIPAL,,PA,1501204
 30/10/2075,Feriado Municipal,MUNICIPAL,,PA,1501204
 03/12/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,PA,1501303
-12/01/2075,Aniversário de Belém,MUNICIPAL,Aniversário de Belém,PA,1501402
-08/12/2075,Nossa Senhora da Conceição,MUNICIPAL,conforme Lei nº 6306 de 01 de março de 1967,PA,1501402
+12/01/2075,Aniversário de Belém,MUNICIPAL,conforme Lei Municipal nº 6306 de 01 de março de 1967,PA,1501402
+08/12/2075,Nossa Senhora da Conceição,MUNICIPAL,conforme Lei Municipal nº 6306 de 01 de março de 1967,PA,1501402
 30/03/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,PA,1501501
 16/07/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,PA,1501501
 08/12/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,PA,1501501
@@ -4165,11 +4165,11 @@
 08/12/2075,Feriado Municipal,MUNICIPAL,,PB,2503605
 22/08/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,PB,2503704
 15/09/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,PB,2503704
-05/04/2075,Sexta-feira Santa,MUNICIPAL,Sexta-feira Santa,PB,2504009
-06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,PB,2504009
-24/06/2075,São João,MUNICIPAL,Dia de São João,PB,2504009
-11/10/2075,Aniversário,MUNICIPAL,Dia da fundação da cidade,PB,2504009
-08/12/2075,Padroeira,MUNICIPAL,"Nossa Senhora da Conceição, padroeira de Campinas Grande",PB,2504009
+05/04/2075,Sexta-feira Santa,MUNICIPAL,conforme Lei Municipal nº 348 de 10/03/1967,PB,2504009
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 348 de 10/03/1967,PB,2504009
+24/06/2075,São João,MUNICIPAL,conforme Lei Municipal nº 348 de 10/03/1967,PB,2504009
+11/10/2075,Emancipação Política de Campina Grande,MUNICIPAL,conforme Lei Municipal nº 348 de 10/03/1967,PB,2504009
+08/12/2075,Nossa Senhora da Conceição,MUNICIPAL,"Nossa Senhora da Conceição, padroeira de Campinas Grande",PB,2504009
 26/05/2075,Feriado Municipal,MUNICIPAL,,PB,2504306
 08/09/2075,Feriado Municipal,MUNICIPAL,,PB,2504306
 09/11/2075,Feriado Municipal,MUNICIPAL,,PB,2504306
@@ -4233,8 +4233,8 @@
 17/08/2075,Feriado Municipal,MUNICIPAL,,PB,2507309
 08/12/2075,Feriado Municipal,MUNICIPAL,,PB,2507309
 05/04/2075,Sexta-Feira Santa,MUNICIPAL,"Sexta-Feira Santa, conforme Lei nº 8805, de 23 de maio 1999",PB,2507507
-24/06/2075,Dia de São João,MUNICIPAL,"conforme Lei nº 8805, de 23 de maio 1999",PB,2507507
-08/12/2075,Nossa Senhora da Conceição,MUNICIPAL,"conforme Lei nº 8805, de 23 de maio 1999",PB,2507507
+24/06/2075,Dia de São João,MUNICIPAL,conforme Lei Municipal nº 8805 de 23/05/1999,PB,2507507
+08/12/2075,Imaculada Conceição,MUNICIPAL,conforme Lei Municipal nº 8805 de 23/05/1999,PB,2507507
 19/03/2075,São José,MUNICIPAL,Dia de São José,PB,2507705
 25/07/2075,Feriado Municipal,MUNICIPAL,,PB,2507705
 04/11/2075,Feriado Municipal,MUNICIPAL,,PB,2507705
@@ -4582,9 +4582,9 @@
 08/12/2075,Feriado Municipal,MUNICIPAL,,PE,2609402
 17/05/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,PE,2609501
 08/12/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,PE,2609501
-12/03/2075,Aniversário,MUNICIPAL,Aniversário da Cidade,PE,2609600
-06/08/2075,Padroeiro,MUNICIPAL,"Dia de São Salvador do Mundo, padroeiro de Olinda",PE,2609600
-10/11/2075,1º Grito,MUNICIPAL,1º Grito de República no Brasil,PE,2609600
+12/03/2075,Aniversário da Cidade de Olinda,MUNICIPAL,"Aniversário da Cidade, conforme Lei Municipal nº 4.380 de 10/10/1983",PE,2609600
+06/08/2075,Dia de São Salvador do Mundo,MUNICIPAL,"Dia de São Salvador do Mundo, Padroeiro da Cidade, conforme Lei Municipal nº 4.380 de 10/10/1983",PE,2609600
+10/11/2075,Primeiro Grito de República no Brasil,MUNICIPAL,"Comemoração do Primeiro Grito de República no Brasil, conforme Lei Municipal nº 4.380 de 10/10/1983",PE,2609600
 11/09/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,PE,2609709
 08/12/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,PE,2609709
 09/12/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,PE,2609709
@@ -4607,7 +4607,7 @@
 27/07/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,PE,2610608
 18/02/2075,Quarta-feira de cinzas,MUNICIPAL,,PE,2610707
 05/03/2075,Quarta-feira de cinzas,MUNICIPAL,Quarta-feira de cinzas,PE,2610707
-04/09/2075,Emancipação política,MUNICIPAL,Aniversário de Emancipação Política do Paulista,PE,2610707
+04/09/2075,Emancipação Política,MUNICIPAL,Aniversário de Emancipação Política do Paulista,PE,2610707
 06/01/2075,Feriado Municipal,MUNICIPAL,,PE,2610806
 13/05/2075,Feriado Municipal,MUNICIPAL,,PE,2610806
 17/08/2075,Feriado Municipal,MUNICIPAL,,PE,2610806
@@ -4619,8 +4619,8 @@
 04/10/2075,São Francisco,MUNICIPAL,Dia de São Francisco de Assis,PE,2611002
 19/02/2075,Carnaval,MUNICIPAL,Terça-Feria de Carnaval,PE,2611101
 19/02/2075,Carnaval,MUNICIPAL,Terça-Feria de Carnaval,PE,2611101
-15/08/2075,N Sra Rainha dos Anjos,MUNICIPAL,Nossa Senhora Rainha dos Anjos,PE,2611101
-21/09/2075,Aniversário da Cidade,MUNICIPAL,Comemorações do Aniversário da Cidade de Petrolina-PE,PE,2611101
+15/08/2075,Nossa Senhora Rainha dos Anjos,MUNICIPAL,"Feriado religioso em homenagem à padroeira do município, conforme o Art. 1º, inciso III da Lei Municipal nº 403 de 15/12/1992.",PE,2611101
+21/09/2075,Aniversário da Cidade,MUNICIPAL,"Data magna da Emancipação Política de Petrolina, conforme o Art. 1º, inciso IV da Lei Municipal nº 403 de 15/12/1992.",PE,2611101
 15/09/2075,Feriado Municipal,MUNICIPAL,,PE,2611200
 13/11/2075,Feriado Municipal,MUNICIPAL,,PE,2611200
 29/12/2075,Feriado Municipal,MUNICIPAL,,PE,2611200
@@ -4629,9 +4629,9 @@
 11/12/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,PE,2611309
 19/05/2075,Feriado Municipal,MUNICIPAL,,PE,2611507
 08/12/2075,Feriado Municipal,MUNICIPAL,,PE,2611507
-05/04/2075,Sexta-feira Santa,MUNICIPAL,Sexta-feira Santa,PE,2611606
-16/07/2075,Padroeira,MUNICIPAL,Dia de Nossa Senhora do Carmo (Padroeira do Recife),PE,2611606
-08/12/2075,N. Sra. da Conceição,MUNICIPAL,Dia de Nossa Senhora. da Conceição,PE,2611606
+05/04/2075,Sexta-feira Santa,MUNICIPAL,"Feriado religioso de Sexta-feira da Paixão, conforme Lei Municipal nº 9.777 de 06/04/1967",PE,2611606
+16/07/2075,Nossa Senhora do Carmo,MUNICIPAL,"Feriado em homenagem a Nossa Senhora do Carmo, Padroeira da cidade do Recife, conforme Lei Municipal nº 9.777 de 06/04/1967",PE,2611606
+08/12/2075,N. Sra. da Conceição,MUNICIPAL,"Dia de Nossa Senhora da Conceição, conforme Lei Municipal nº 9.777 de 06/04/1967",PE,2611606
 20/01/2075,Feriado Municipal,MUNICIPAL,,PE,2611705
 08/12/2075,Feriado Municipal,MUNICIPAL,,PE,2611705
 29/12/2075,Feriado Municipal,MUNICIPAL,,PE,2611705
@@ -4843,7 +4843,7 @@
 05/04/2075,Sexta-feira Santa,MUNICIPAL,conforme Lei nº 2.847 de 22 de novembro de 1999,PI,2211001
 06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei nº 2.847 de 22 de novembro de 1999,PI,2211001
 16/08/2075,Aniversário de Teresina,MUNICIPAL,conforme Lei nº 2.847 de 22 de novembro de 1999,PI,2211001
-08/12/2075,Nossa Senhora da Conceição,MUNICIPAL,conforme Lei nº 2.847 de 22 de novembro de 1999,PI,2211001
+08/12/2075,Dia de Nossa Senhora da Conceição,MUNICIPAL,conforme Lei nº 2.847 de 22 de novembro de 1999,PI,2211001
 29/08/2075,Feriado Municipal,MUNICIPAL,,PI,2211100
 31/08/2075,Feriado Municipal,MUNICIPAL,,PI,2211100
 17/09/2075,Feriado Municipal,MUNICIPAL,,PI,2211100
@@ -4964,9 +4964,9 @@
 13/12/2075,Aniversário da Cidade,MUNICIPAL,"Feriado municipal, alusivo a comemoração do Aniversário do Município de Carambeí. (Redação dada pela Lei nº 172/2001)",PR,4104659
 02/04/2075,Feriado Municipal,MUNICIPAL,,PR,4104709
 06/08/2075,Feriado Municipal,MUNICIPAL,,PR,4104709
-05/04/2075,Paixão de Cristo,MUNICIPAL,Paixão de Cristo,PR,4104808
-06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,PR,4104808
-14/11/2075,Aniversário,MUNICIPAL,Aniversário do Município,PR,4104808
+05/04/2075,Paixão de Cristo,MUNICIPAL,conforme Lei Municipal nº 5.250 de 22/06/2009,PR,4104808
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 5.250 de 22/06/2009,PR,4104808
+14/11/2075,Aniversário do Município,MUNICIPAL,conforme Lei Municipal nº 5.250 de 22/06/2009,PR,4104808
 19/03/2075,São José,MUNICIPAL,Dia de São José,PR,4104907
 26/07/2075,Feriado Municipal,MUNICIPAL,,PR,4104907
 20/01/2075,Feriado Municipal,MUNICIPAL,,PR,4105003
@@ -4982,10 +4982,10 @@
 25/07/2075,Feriado Municipal,MUNICIPAL,,PR,4105607
 28/06/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,PR,4105706
 08/09/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,PR,4105706
-05/02/2075,Aniversário,MUNICIPAL,Instalação do município,PR,4105805
-05/04/2075,Sexta-feira da Paixão,MUNICIPAL,Sexta-feira da Paixão,PR,4105805
-26/05/2075,N. Sra. do Caravaggio,MUNICIPAL,"Nossa Senhora do Caravaggio, patrona dos produtores Colombenses",PR,4105805
-07/10/2075,Padroeira,MUNICIPAL,"Nossa Senhora do Rosário, padroeira do município",PR,4105805
+05/02/2075,Aniversário de Colombo,MUNICIPAL,"Aniversário da emancipação e instalação do município, conforme a Lei Orgânica Municipal de Colombo",PR,4105805
+05/04/2075,Sexta-feira da Paixão,MUNICIPAL,conforme Lei Municipal nº 35 de 24/10/1967,PR,4105805
+26/05/2075,Nossa Senhora do Caravaggio,MUNICIPAL,"Nossa Senhora do Caravaggio, patrona dos produtores Colombenses",PR,4105805
+07/10/2075,Nossa Senhora do Rosário (Padroeira),MUNICIPAL,"Nossa Senhora do Rosário, padroeira do município",PR,4105805
 02/04/2075,Feriado Municipal,MUNICIPAL,,PR,4105904
 24/05/2075,Feriado Municipal,MUNICIPAL,,PR,4105904
 20/03/2075,Feriado Municipal,MUNICIPAL,,PR,4106001
@@ -5010,8 +5010,8 @@
 14/12/2075,Aniversário do Municipio,MUNICIPAL,"Aniversário da Cidade de Cruz Machado, conforme lei 790 de 1951 ",PR,4106803
 26/12/2075,Segundo dia de Natal,MUNICIPAL,"Segundo dia de Natal, conforme lei 636, de 24 de novembro de 1997",PR,4106803
 05/04/2075,Sexta-feira Santa,MUNICIPAL,,PR,4106902
-06/06/2075,Corpus Christi,MUNICIPAL,Comemorações de Corpus Christi,PR,4106902
-08/09/2075,N. Sra da Luz dos Pinhais,MUNICIPAL,Nossa Sra da Luz dos Pinhais,PR,4106902
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 3.018 de 02/05/1967,PR,4106902
+08/09/2075,Nossa Senhora da Luz dos Pinhais,MUNICIPAL,conforme Lei Municipal nº 3.018 de 02/05/1967,PR,4106902
 20/01/2075,Feriado Municipal,MUNICIPAL,,PR,4107009
 19/03/2075,São José,MUNICIPAL,Dia de São José,PR,4107108
 25/07/2075,Feriado Municipal,MUNICIPAL,,PR,4107157
@@ -5048,10 +5048,10 @@
 13/06/2075,Dia de Santo Antônio,MUNICIPAL,,PR,4108106
 18/06/2075,Feriado Municipal,MUNICIPAL,,PR,4108205
 08/12/2075,Feriado Municipal,MUNICIPAL,,PR,4108205
-05/04/2075,Sexta-feira Santa,MUNICIPAL,"conforme Decreto nº 24385, de 04 de janeiro de 2016",PR,4108304
-06/06/2075,Corpus Christi,MUNICIPAL,"conforme Decreto nº 24385, de 04 de janeiro de 2016",PR,4108304
-10/06/2075,Aniversário do Município,MUNICIPAL,Aniversário da Cidade de Foz do Iguaçu,PR,4108304
-24/06/2075,São João Batista,MUNICIPAL,"Dia de São João Batista, padroeiro da cidade",PR,4108304
+05/04/2075,Sexta-feira Santa,MUNICIPAL,"conforme Lei Municipal nº 1.411, de 16 de julho de 1988",PR,4108304
+06/06/2075,Corpus Christi,MUNICIPAL,"conforme Lei Municipal nº 1.411, de 16 de julho de 1988",PR,4108304
+10/06/2075,Aniversário do Município,MUNICIPAL,"conforme Lei Municipal nº 1.411, de 16 de julho de 1988",PR,4108304
+24/06/2075,São João Batista,MUNICIPAL,"conforme Lei Municipal nº 1.411, de 16 de julho de 1988",PR,4108304
 15/08/2075,Feriado Municipal,MUNICIPAL,,PR,4108403
 14/11/2075,Feriado Municipal,MUNICIPAL,,PR,4108403
 19/11/2075,Feriado Municipal,MUNICIPAL,,PR,4108502
@@ -5158,10 +5158,10 @@
 27/11/2075,Feriado Municipal,MUNICIPAL,,PR,4113502
 15/06/2075,Feriado Municipal,MUNICIPAL,,PR,4113601
 13/08/2075,Feriado Municipal,MUNICIPAL,,PR,4113601
-05/04/2075,Sexta-feira Santa,MUNICIPAL,Feriado de Sexta Feira da Paixão,PR,4113700
-06/06/2075,Corpus Christi,MUNICIPAL,Feriado de Corpus Christi,PR,4113700
+05/04/2075,Sexta-feira Santa,MUNICIPAL,conforme Lei Municipal nº 3.016 de 18/06/1980,PR,4113700
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 3.016 de 18/06/1980,PR,4113700
 27/06/2075,Sagrado Coração de Jesus,MUNICIPAL,Sagrado Coração de Jesus – Padroeiro da Cidade,PR,4113700
-10/12/2075,Aniversário da cidade,MUNICIPAL,Aniversário da cidade,PR,4113700
+10/12/2075,Aniversário de Londrina,MUNICIPAL,conforme Lei Municipal nº 3.016 de 18/06/1980,PR,4113700
 25/09/2075,Feriado Municipal,MUNICIPAL,,PR,4113734
 22/05/2075,Feriado Municipal,MUNICIPAL,,PR,4113759
 26/12/2075,Feriado Municipal,MUNICIPAL,,PR,4113759
@@ -5560,8 +5560,8 @@
 08/12/2075,Feriado Municipal,MUNICIPAL,,RJ,3300506
 15/08/2075,Feriado Municipal,MUNICIPAL,,RJ,3300605
 08/12/2075,Feriado Municipal,MUNICIPAL,,RJ,3300605
-15/08/2075,Padroeira,MUNICIPAL,Nossa Senhora da Assunção,RJ,3300704
-13/11/2075,Aniversário,MUNICIPAL,Aniversário de Cabo Frio,RJ,3300704
+15/08/2075,Nossa Senhora da Assunção (Padroeira),MUNICIPAL,conforme Lei Municipal nº 3.125 de 14/01/2020,RJ,3300704
+13/11/2075,Fundação de Cabo Frio (Aniversário),MUNICIPAL,conforme Lei Municipal nº 3.125 de 14/01/2020,RJ,3300704
 23/04/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,RJ,3300803
 15/05/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,RJ,3300803
 08/12/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,RJ,3300803
@@ -5571,10 +5571,10 @@
 13/03/2075,Feriado Municipal,MUNICIPAL,,RJ,3300936
 15/08/2075,Feriado Municipal,MUNICIPAL,,RJ,3300936
 30/06/2075,Feriado Municipal,MUNICIPAL,,RJ,3300951
-15/01/2075,Sto. Amaro,MUNICIPAL,Dia de Santo Amaro,RJ,3301009
-05/04/2075,Sexta-feira da Paixão,MUNICIPAL,Sexta-feira da Paixão,RJ,3301009
-06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,RJ,3301009
-06/08/2075,Santíssimo Salvador,MUNICIPAL,"Dia do Santíssimo Salvador, padroeiro da cidade",RJ,3301009
+15/01/2075,Santo Amaro,MUNICIPAL,"Dia de Santo Amaro, padroeiro da Baixada Campista, conforme Lei Municipal nº 8.441 de 15/05/2013",RJ,3301009
+05/04/2075,Sexta-feira da Paixão,MUNICIPAL,"Data religiosa móvel, conforme Lei Municipal nº 8.441 de 15/05/2013",RJ,3301009
+06/06/2075,Corpus Christi,MUNICIPAL,"Data religiosa móvel, conforme Lei Municipal nº 8.441 de 15/05/2013",RJ,3301009
+06/08/2075,Santíssimo Salvador,MUNICIPAL,"Dia do Santíssimo Salvador, padroeiro da cidade, conforme Lei Municipal nº 8.441 de 15/05/2013",RJ,3301009
 22/05/2075,Feriado Municipal,MUNICIPAL,,RJ,3301108
 29/06/2075,Feriado Municipal,MUNICIPAL,,RJ,3301108
 19/03/2075,São José,MUNICIPAL,Dia de São José,RJ,3301157
@@ -5592,8 +5592,8 @@
 08/05/2075,Feriado Municipal,MUNICIPAL,,RJ,3301603
 08/09/2075,Feriado Municipal,MUNICIPAL,,RJ,3301603
 08/12/2075,Feriado Municipal,MUNICIPAL,,RJ,3301603
-13/06/2075,Santo Antônio,MUNICIPAL,"Dia de Santo Antônio, padroeiro de Duque de Caxias",RJ,3301702
-25/08/2075,Duque de Caxias,MUNICIPAL,"Dia do Patrono da cidade, Duque de Caxias",RJ,3301702
+13/06/2075,Dia de Santo Antônio,MUNICIPAL,"Dia de Santo Antônio, padroeiro da cidade, conforme Lei Municipal nº 1.096 de 24/06/1991",RJ,3301702
+25/08/2075,Dia de Duque de Caxias,MUNICIPAL,"Dia do Patrono da cidade e do Exército Brasileiro, conforme Lei Municipal nº 1.096 de 24/06/1991",RJ,3301702
 15/08/2075,Feriado Municipal,MUNICIPAL,,RJ,3301850
 25/11/2075,Feriado Municipal,MUNICIPAL,,RJ,3301850
 26/11/2075,Feriado Municipal,MUNICIPAL,,RJ,3301850
@@ -5647,12 +5647,12 @@
 08/12/2075,Feriado Municipal,MUNICIPAL,,RJ,3303104
 21/08/2075,Feriado Municipal,MUNICIPAL,,RJ,3303203
 08/12/2075,Feriado Municipal,MUNICIPAL,,RJ,3303203
-24/06/2075,"Dia de São João, padroeiro da cidade",MUNICIPAL,,RJ,3303302
-22/11/2075,Aniversário da cidade,MUNICIPAL,,RJ,3303302
+24/06/2075,Dia de São João (Padroeiro da Cidade),MUNICIPAL,conforme Lei Municipal nº 2.142 de 31/03/2004,RJ,3303302
+22/11/2075,Aniversário de Niterói,MUNICIPAL,conforme Lei Municipal nº 2.142 de 31/03/2004,RJ,3303302
 23/04/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,RJ,3303401
 16/05/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,RJ,3303401
-23/04/2075,São Jorge,MUNICIPAL,Dia de São Jorge,RJ,3303500
-13/06/2075,Dia de Santo Antônio,MUNICIPAL,Padroeiro do município,RJ,3303500
+23/04/2075,Dia de São Jorge,MUNICIPAL,conforme Lei Estadual nº 5.198 de 05/03/2008,RJ,3303500
+13/06/2075,Dia de Santo Antônio,MUNICIPAL,"Padroeiro do município, conforme Lei Municipal nº 3.593 de 05/04/2004",RJ,3303500
 29/06/2075,Feriado Municipal,MUNICIPAL,,RJ,3303609
 08/08/2075,Feriado Municipal,MUNICIPAL,,RJ,3303609
 15/01/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,RJ,3303708
@@ -5686,8 +5686,8 @@
 17/03/2075,Feriado Municipal,MUNICIPAL,,RJ,3304508
 10/04/2075,Feriado Municipal,MUNICIPAL,,RJ,3304524
 08/12/2075,Feriado Municipal,MUNICIPAL,,RJ,3304524
-20/01/2075,"Dia de São Sebastião, Padroeiro da cidade",MUNICIPAL,conforme Lei nº 5146 de 7 de janeiro 2010,RJ,3304557
-23/04/2075,Dia de São Jorge,MUNICIPAL,conforme Lei nº 5146 de 7 de janeiro 2010,RJ,3304557
+20/01/2075,"Dia de São Sebastião, Padroeiro da cidade",MUNICIPAL,conforme Lei Municipal nº 5146 de 07/01/2010,RJ,3304557
+23/04/2075,Dia de São Jorge,MUNICIPAL,conforme Lei Municipal nº 5146 de 07/01/2010,RJ,3304557
 08/06/2075,Feriado Municipal,MUNICIPAL,,RJ,3304607
 13/06/2075,Dia de Santo Antônio,MUNICIPAL,,RJ,3304607
 29/06/2075,Feriado Municipal,MUNICIPAL,,RJ,3304607
@@ -5700,8 +5700,8 @@
 24/04/2075,Feriado Municipal,MUNICIPAL,,RJ,3304805
 06/08/2075,Feriado Municipal,MUNICIPAL,,RJ,3304805
 08/12/2075,Feriado Municipal,MUNICIPAL,,RJ,3304805
-10/01/2075,São Gonçalo,MUNICIPAL,Dia de São Gonçalo,RJ,3304904
-22/09/2075,Feriado Municipal,MUNICIPAL,,RJ,3304904
+10/01/2075,São Gonçalo,MUNICIPAL,"Dia do Padroeiro da Cidade, conforme Lei Municipal nº 434 de 20/03/2012",RJ,3304904
+22/09/2075,Aniversário da Cidade,MUNICIPAL,"Aniversário de Emancipação Político-Administrativa do Município, conforme Lei Municipal nº 434 de 20/03/2012",RJ,3304904
 17/06/2075,Feriado Municipal,MUNICIPAL,,RJ,3305000
 24/06/2075,Feriado Municipal,MUNICIPAL,,RJ,3305000
 08/12/2075,Feriado Municipal,MUNICIPAL,,RJ,3305000
@@ -5906,10 +5906,10 @@
 13/05/2075,Feriado Municipal,MUNICIPAL,,RO,1100189
 24/11/2075,Feriado Municipal,MUNICIPAL,,RO,1100189
 24/01/2075,São Francisco de Sales,MUNICIPAL,Consagrado ao Culto a São Francisco de Sales – Instalação do Município de Porto Velho,RO,1100205
-05/04/2075,Paixão de Cristo,MUNICIPAL,Paixão de Cristo,RO,1100205
+05/04/2075,Paixão de Cristo,MUNICIPAL,"Feriado religioso móvel, conforme Lei Municipal nº 190 de 14/10/1980",RO,1100205
 24/05/2075,Nossa Senhora Auxiliadora,MUNICIPAL,"Consagrado à Nossa Senhora Auxiliadora, Padroeira do município, segundo a Lei nº 190, de 14 de outubro de 1980",RO,1100205
-06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,RO,1100205
-02/10/2075,Aniversário,MUNICIPAL,"Consagrado ao tríduo à Santa Terezinha do Menino Jesus, padroeira das missões – Criação do município de Porto Velho",RO,1100205
+06/06/2075,Corpus Christi,MUNICIPAL,"Feriado religioso móvel, conforme Lei Municipal nº 190 de 14/10/1980",RO,1100205
+02/10/2075,Criação do Município de Porto Velho,MUNICIPAL,"Consagrado ao tríduo à Santa Terezinha do Menino Jesus, padroeira das missões – Criação do município de Porto Velho",RO,1100205
 16/06/2075,Feriado Municipal,MUNICIPAL,,RO,1100254
 24/06/2075,Feriado Municipal,MUNICIPAL,,RO,1100254
 19/02/2075,Carnaval,MUNICIPAL,"Terça-Feira de Carnaval, feriado Municipal segundo a Lei 1.990 de 20 de abril de 2011",RO,1100288
@@ -6067,7 +6067,7 @@
 25/07/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,RS,4304507
 31/10/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,RS,4304507
 08/12/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,RS,4304507
-02/02/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,RS,4304606
+02/02/2075,Nossa Senhora dos Navegantes,MUNICIPAL,conforme Lei Municipal nº 1.159 de 31/01/1967,RS,4304606
 11/02/2075,Feriado Municipal,MUNICIPAL,,RS,4304630
 12/04/2075,Feriado Municipal,MUNICIPAL,,RS,4304630
 03/05/2075,Feriado Municipal,MUNICIPAL,,RS,4304663
@@ -6079,7 +6079,7 @@
 25/09/2075,Feriado Municipal,MUNICIPAL,,RS,4304804
 28/02/2075,Feriado Municipal,MUNICIPAL,,RS,4304903
 21/06/2075,Feriado Municipal,MUNICIPAL,,RS,4304903
-26/05/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,RS,4305108
+26/05/2075,Nossa Senhora de Caravaggio,MUNICIPAL,conforme Lei Municipal nº 6.046 de 26/05/2003,RS,4305108
 20/03/2075,Feriado Municipal,MUNICIPAL,,RS,4305116
 05/04/2075,Sexta-Feira Santa,MUNICIPAL,Sexta Feira Santa,RS,4305116
 06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,RS,4305116
@@ -6199,7 +6199,7 @@
 08/12/2075,Feriado Municipal,MUNICIPAL,,RS,4308904
 28/01/2075,Feriado Municipal,MUNICIPAL,,RS,4309001
 25/07/2075,Feriado Municipal,MUNICIPAL,,RS,4309001
-02/08/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,RS,4309209
+02/08/2075,Nossa Senhora dos Anjos,MUNICIPAL,conforme Lei Municipal nº 3.125 de 03/11/2011,RS,4309209
 02/02/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,RS,4309308
 25/07/2075,Feriado Municipal,MUNICIPAL,,RS,4309506
 13/04/2075,Feriado Municipal,MUNICIPAL,,RS,4309555
@@ -6332,9 +6332,9 @@
 02/02/2075,Feriado Municipal,MUNICIPAL,,RS,4313375
 25/07/2075,Feriado Municipal,MUNICIPAL,,RS,4313391
 05/04/2075,Aniversário,MUNICIPAL,Emancipação do Município de Novo Hamburgo,RS,4313409
-05/04/2075,Sexta-feira da Paixão,MUNICIPAL,Sexta-feira da Paixão,RS,4313409
+05/04/2075,Sexta-feira da Paixão,MUNICIPAL,conforme Lei Municipal nº 162 de 31/08/1959,RS,4313409
 13/05/2075,Ascensão do Senhor,MUNICIPAL,Ascensão do Senhor,RS,4313409
-06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,RS,4313409
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 162 de 31/08/1959,RS,4313409
 08/12/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,RS,4313508
 19/03/2075,São José,MUNICIPAL,Dia de São José,RS,4313607
 08/12/2075,Feriado Municipal,MUNICIPAL,,RS,4313607
@@ -6656,9 +6656,9 @@
 07/12/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SC,4202107
 02/06/2075,Feriado Municipal,MUNICIPAL,,SC,4202206
 17/05/2075,Aniversário da Cidade,MUNICIPAL,Dia da Emancipação Político-Administrativa do Município de Biguaçu,SC,4202305
-05/04/2075,Sexta-Feira Santa,MUNICIPAL,Sexta-Feira Santa,SC,4202404
-06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,SC,4202404
-02/09/2075,Aniversário da Cidade,MUNICIPAL,Fundação de Blumenau,SC,4202404
+05/04/2075,Sexta-Feira Santa,MUNICIPAL,conforme Lei Municipal nº 1.222 de 14/02/1964,SC,4202404
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 1.222 de 14/02/1964,SC,4202404
+02/09/2075,Aniversário da Cidade,MUNICIPAL,conforme Lei Municipal nº 1.222 de 14/02/1964,SC,4202404
 02/02/2075,Feriado Municipal,MUNICIPAL,,SC,4202453
 15/03/2075,Feriado Municipal,MUNICIPAL,,SC,4202453
 01/11/2075,Feriado Municipal,MUNICIPAL,,SC,4202453
@@ -6732,9 +6732,9 @@
 20/01/2075,Feriado Municipal,MUNICIPAL,,SC,4205209
 18/06/2075,Feriado Municipal,MUNICIPAL,,SC,4205209
 26/07/2075,Feriado Municipal,MUNICIPAL,,SC,4205308
-23/03/2075,Aniversário da Cidade,MUNICIPAL,Emancipação política do Município,SC,4205407
-05/04/2075,Sexta-Feira Santa,MUNICIPAL,Sexta-Feira Santa,SC,4205407
-06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,SC,4205407
+23/03/2075,Aniversário da Cidade,MUNICIPAL,"Comemoração ao Aniversário de Florianópolis, conforme Lei Municipal nº 10.306 de 24/11/2017",SC,4205407
+05/04/2075,Sexta-Feira Santa,MUNICIPAL,"Sexta-feira da Paixão, conforme Lei Municipal nº 10.306 de 24/11/2017",SC,4205407
+06/06/2075,Corpus Christi,MUNICIPAL,"Corpus Christi, conforme Lei Municipal nº 10.306 de 24/11/2017",SC,4205407
 26/04/2075,Feriado Municipal,MUNICIPAL,,SC,4205456
 04/12/2075,Feriado Municipal,MUNICIPAL,,SC,4205456
 08/12/2075,Feriado Municipal,MUNICIPAL,,SC,4205506
@@ -6791,9 +6791,9 @@
 29/06/2075,Feriado Municipal,MUNICIPAL,,SC,4208005
 13/12/2075,Feriado Municipal,MUNICIPAL,,SC,4208005
 27/11/2075,Feriado Municipal,MUNICIPAL,,SC,4208104
-05/04/2075,Sexta-feira Santa,MUNICIPAL,Sexta-feira Santa,SC,4208203
-15/06/2075,Aniversário,MUNICIPAL,dia do Município de Itajaí,SC,4208203
-06/06/2075,Corpus Christi,MUNICIPAL,Padroeiro de Itajaí,SC,4208203
+05/04/2075,Sexta-feira Santa,MUNICIPAL,"Data móvel religiosa que celebra a Paixão de Cristo, conforme Lei Municipal nº 3.064 de 16/05/1996",SC,4208203
+15/06/2075,Aniversário do Município,MUNICIPAL,"Data magna que celebra a emancipação político-administrativa de Itajaí, conforme Art. 3º da Lei Orgânica Municipal e Lei Municipal nº 3.064 de 16/05/1996",SC,4208203
+06/06/2075,Corpus Christi,MUNICIPAL,"Data móvel religiosa que celebra o Sacramento da Eucaristia, conforme Lei Municipal nº 3.064 de 16/05/1996",SC,4208203
 02/02/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SC,4208302
 13/06/2075,Dia de Santo Antônio,MUNICIPAL,Dia de Santo Antônio,SC,4208302
 14/02/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SC,4208401
@@ -6812,9 +6812,9 @@
 28/10/2075,Funcionário Público,MUNICIPAL,Dia do Funcionário Público,SC,4208906
 25/08/2075,Dia do Município,MUNICIPAL,,SC,4209003
 01/10/2075,"Dia de Santa Terezinha, padroeira do município",MUNICIPAL,,SC,4209003
-09/03/2075,Aniversário da fundação da cidade,MUNICIPAL,Aniversário da fundação da cidade,SC,4209102
+09/03/2075,Aniversário da fundação da cidade,MUNICIPAL,conforme Lei Municipal nº 733 de 22/06/1965,SC,4209102
 05/04/2075,Sexta-feira Santa,MUNICIPAL,Sexta-feira Santa,SC,4209102
-06/06/2075,Corpus Christi,MUNICIPAL,,SC,4209102
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 844 de 10/05/1967,SC,4209102
 20/01/2075,Feriado Municipal,MUNICIPAL,,SC,4209151
 26/12/2075,Feriado Municipal,MUNICIPAL,,SC,4209151
 04/10/2075,Dia do Padroeiro,MUNICIPAL,Dia do Padroeiro da Cidade,SC,4209201
@@ -7310,14 +7310,14 @@
 25/08/2075,Feriado Municipal,MUNICIPAL,,SP,3505500
 24/06/2075,Feriado Municipal,MUNICIPAL,,SP,3505609
 30/12/2075,Feriado Municipal,MUNICIPAL,,SP,3505609
-06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,SP,3505708
-24/06/2075,Padroeiro,MUNICIPAL,São João Batista,SP,3505708
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 354 de 16/03/1982,SP,3505708
+24/06/2075,São João Batista (Padroeiro),MUNICIPAL,conforme Lei Municipal nº 354 de 16/03/1982,SP,3505708
 18/06/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3505807
 03/12/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3505807
 14/03/2075,Feriado Municipal,MUNICIPAL,,SP,3505906
 06/08/2075,Feriado Municipal,MUNICIPAL,,SP,3505906
-06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,SP,3506003
-01/08/2075,Aniversário,MUNICIPAL,Aniversário da Cidade,SP,3506003
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 1.401 de 16/08/1968,SP,3506003
+01/08/2075,Aniversário da Cidade,MUNICIPAL,conforme Lei Municipal nº 1.401 de 16/08/1968,SP,3506003
 03/05/2075,Feriado Municipal,MUNICIPAL,,SP,3506102
 24/06/2075,Feriado Municipal,MUNICIPAL,,SP,3506102
 27/03/2075,Feriado Municipal,MUNICIPAL,,SP,3506201
@@ -7393,7 +7393,7 @@
 18/08/2075,Aniversário,MUNICIPAL,Aniversário da Cidade de Cajuru,SP,3509403
 05/04/2075,Sexta-feira Santa,MUNICIPAL,"conforme Lei Municipal no 173, de 28 de junho de 1949",SP,3509502
 06/06/2075,Corpus Christi,MUNICIPAL,"conforme Lei Municipal no 173, de 28 de junho de 1949",SP,3509502
-08/12/2075,N. Sra da Conceição,MUNICIPAL,"Padroeira de Campinas, Lei Municipal no 173, de 28 de junho de 1949",SP,3509502
+08/12/2075,Nossa Senhora da Conceição,MUNICIPAL,"Padroeira de Campinas, Lei Municipal no 173, de 28 de junho de 1949",SP,3509502
 21/03/2075,Aniversário,MUNICIPAL,Fundação do Município,SP,3509601
 05/04/2075,Sexta-feira da Paixão,MUNICIPAL,Sexta-feira da Paixão,SP,3509601
 06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,SP,3509601
@@ -7466,8 +7466,8 @@
 02/04/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3513009
 08/09/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3513009
 19/03/2075,São José,MUNICIPAL,Dia de São José,SP,3513108
-28/07/2075,Feriado Municipal,MUNICIPAL,,SP,3513207
-15/08/2075,Feriado Municipal,MUNICIPAL,,SP,3513207
+28/07/2075,Aniversário do Município,MUNICIPAL,conforme Lei Municipal nº 1.488 de 14/06/2005,SP,3513207
+15/08/2075,Dia de Nossa Senhora da Abadia,MUNICIPAL,conforme Lei Municipal nº 1.488 de 14/06/2005,SP,3513207
 04/04/2075,Feriado Municipal,MUNICIPAL,,SP,3513306
 08/12/2075,Feriado Municipal,MUNICIPAL,,SP,3513306
 02/10/2075,Dia do município,MUNICIPAL,Homenagem ao aniversário de emancipação políticoadministrativa da cidade,SP,3513405
@@ -7588,7 +7588,7 @@
 15/01/2075,Santo Amaro,MUNICIPAL,"Dia de Santo Amaro, padroeiro da cidade",SP,3518701
 05/04/2075,Sexta-feira santa,MUNICIPAL,Sexta-feira santa,SP,3518701
 06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,SP,3518701
-08/12/2075,Aniversário de Guarulhos,MUNICIPAL,,SP,3518800
+08/12/2075,Nossa Senhora da Conceição e Aniversário de Guarulhos,MUNICIPAL,conforme Lei Municipal nº 1.631 de 14/12/1970,SP,3518800
 28/03/2075,Feriado Municipal,MUNICIPAL,,SP,3518909
 29/06/2075,Feriado Municipal,MUNICIPAL,,SP,3518909
 15/08/2075,Feriado Municipal,MUNICIPAL,,SP,3518909
@@ -7751,7 +7751,7 @@
 21/02/2075,Feriado Municipal,MUNICIPAL,,SP,3525805
 21/05/2075,Feriado Municipal,MUNICIPAL,,SP,3525854
 06/08/2075,Feriado Municipal,MUNICIPAL,,SP,3525854
-15/08/2075,Dia de Nossa Senhora do Desterro,MUNICIPAL,,SP,3525904
+15/08/2075,Dia de Nossa Senhora do Desterro,MUNICIPAL,conforme Lei Municipal nº 2.102 de 31/12/1975,SP,3525904
 13/06/2075,Dia de Santo Antônio,MUNICIPAL,Dia de Santo Antônio,SP,3526001
 10/04/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3526100
 13/06/2075,Dia de Santo Antônio,MUNICIPAL,Dia de Santo Antônio,SP,3526100
@@ -7770,7 +7770,7 @@
 29/08/2075,Dia da cidade,MUNICIPAL,Dia da cidade,SP,3526704
 28/04/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3526803
 15/09/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3526803
-15/09/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3526902
+15/09/2075,Dia da Padroeira Nossa Senhora das Dores,MUNICIPAL,conforme Lei Municipal nº 4.901 de 04/12/2012,SP,3526902
 21/03/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3527009
 08/09/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3527009
 19/02/2075,Carnaval,MUNICIPAL,Carnaval,SP,3527108
@@ -7843,10 +7843,10 @@
 08/12/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3530409
 20/01/2075,Feriado Municipal,MUNICIPAL,,SP,3530508
 05/04/2075,Feriado Municipal,MUNICIPAL,,SP,3530508
-05/04/2075,Sexta-feira Santa,MUNICIPAL,Sexta-feira Santa,SP,3530607
-06/06/2075,Corpus Christi,MUNICIPAL,,SP,3530607
-26/07/2075,Padroeira,MUNICIPAL,"Nossa Senhora de SantAna, padroeira da Cidade",SP,3530607
-01/09/2075,Aniversário da cidade,MUNICIPAL,Aniversário de fundação da cidade,SP,3530607
+05/04/2075,Sexta-feira Santa,MUNICIPAL,conforme Lei Municipal nº 3.125 de 16/12/1986,SP,3530607
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 3.125 de 16/12/1986,SP,3530607
+26/07/2075,Nossa Senhora de Sant'Ana,MUNICIPAL,"Nossa Senhora de SantAna, padroeira da Cidade",SP,3530607
+01/09/2075,Aniversário de Mogi das Cruzes,MUNICIPAL,conforme Lei Municipal nº 1.585 de 03/09/1966,SP,3530607
 21/03/2075,Feriado Municipal,MUNICIPAL,,SP,3530904
 29/06/2075,Feriado Municipal,MUNICIPAL,,SP,3530904
 01/11/2075,Feriado Municipal,MUNICIPAL,,SP,3530904
@@ -7923,10 +7923,10 @@
 21/03/2075,Feriado Municipal,MUNICIPAL,,SP,3534203
 19/03/2075,São José,MUNICIPAL,Dia de São José,SP,3534302
 30/03/2075,Feriado Municipal,MUNICIPAL,,SP,3534302
-19/02/2075,Emancipação de Osasco,MUNICIPAL,Aniversário da Emancipação do Município,SP,3534401
+19/02/2075,Emancipação de Osasco,MUNICIPAL,conforme Lei Municipal nº 1.121 de 16/05/1972,SP,3534401
 05/04/2075,Sexta-feira Santa,MUNICIPAL,"conforme Decreto 10.933, de 20 de dezembro de 2013",SP,3534401
 06/06/2075,Corpus Christi,MUNICIPAL,"conforme Decreto 10.933, de 20 de dezembro de 2013",SP,3534401
-13/06/2075,Dia de Santo Antônio,MUNICIPAL,Padroeiro de Osasco,SP,3534401
+13/06/2075,Dia de Santo Antônio,MUNICIPAL,conforme Lei Municipal nº 1.121 de 16/05/1972,SP,3534401
 24/04/2075,Feriado Municipal,MUNICIPAL,,SP,3534500
 16/07/2075,Feriado Municipal,MUNICIPAL,,SP,3534500
 19/03/2075,São José,MUNICIPAL,Dia de São José,SP,3534609
@@ -8010,8 +8010,8 @@
 20/01/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3538600
 13/06/2075,Dia de Santo Antônio,MUNICIPAL,Dia de Santo Antônio,SP,3538600
 16/06/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3538600
-13/06/2075,Dia de Santo Antônio,MUNICIPAL,Dia de Santo Antônio,SP,3538709
-08/12/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3538709
+13/06/2075,Dia de Santo Antônio,MUNICIPAL,"Padroeiro da cidade, conforme Lei Municipal nº 1.459 de 17/11/1966",SP,3538709
+08/12/2075,Imaculada Conceição,MUNICIPAL,"Dia de Nossa Senhora da Conceição, conforme Lei Municipal nº 1.459 de 17/11/1966",SP,3538709
 20/01/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3538808
 20/01/2075,Feriado Municipal,MUNICIPAL,,SP,3538907
 29/03/2075,Feriado Municipal,MUNICIPAL,,SP,3538907
@@ -8058,7 +8058,7 @@
 21/03/2075,Feriado Municipal,MUNICIPAL,,SP,3540804
 06/08/2075,Feriado Municipal,MUNICIPAL,,SP,3540804
 13/06/2075,Dia de Santo Antônio,MUNICIPAL,Dia de Santo Antônio,SP,3540903
-29/06/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3541000
+29/06/2075,Dia de São Pedro,MUNICIPAL,"Feriado municipal em louvor a São Pedro, Padroeiro da Cidade, conforme Lei Municipal nº 701 de 18/06/1991",SP,3541000
 22/03/2075,Feriado Municipal,MUNICIPAL,,SP,3541059
 06/08/2075,Feriado Municipal,MUNICIPAL,,SP,3541059
 22/11/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3541109
@@ -8109,16 +8109,16 @@
 19/03/2075,São José,MUNICIPAL,Dia de São José,SP,3543303
 06/06/2075,Corpus Christi,MUNICIPAL,,SP,3543303
 20/01/2075,São Sebastião,MUNICIPAL,"Dia de São Sebastião, padroeiro da cidade, conforme Lei 11919/09 de 10/03/2009",SP,3543402
-05/04/2075,Sexta-feira Santa,MUNICIPAL,conforme Lei 11919/09 de 10/03/2009,SP,3543402
-19/06/2075,Aniversário da cidade,MUNICIPAL,Santa Juliana Falconieri,SP,3543402
+05/04/2075,Sexta-feira Santa,MUNICIPAL,conforme Lei Municipal nº 11.919 de 10/03/2009,SP,3543402
+19/06/2075,Aniversário da Cidade e Dia de Santa Juliana Falconieri,MUNICIPAL,conforme Lei Municipal nº 11.919 de 10/03/2009,SP,3543402
 06/08/2075,Feriado Municipal,MUNICIPAL,,SP,3543501
 30/12/2075,Feriado Municipal,MUNICIPAL,,SP,3543501
 13/06/2075,Dia de Santo Antônio,MUNICIPAL,,SP,3543600
 24/12/2075,Feriado Municipal,MUNICIPAL,,SP,3543600
 20/08/2075,Feriado Municipal,MUNICIPAL,,SP,3543709
-05/04/2075,Sexta-feira Santa,MUNICIPAL,Sexta-Feira da Semana Santa,SP,3543907
-06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,SP,3543907
-24/06/2075,São João,MUNICIPAL,Dia de São João Batista,SP,3543907
+05/04/2075,Sexta-feira Santa,MUNICIPAL,Data móvel (Sexta-Feira da Paixão) conforme Lei Municipal nº 1.487 de 12/12/1977,SP,3543907
+06/06/2075,Corpus Christi,MUNICIPAL,Data móvel conforme Lei Municipal nº 1.487 de 12/12/1977,SP,3543907
+24/06/2075,São João Batista e Aniversário de Rio Claro,MUNICIPAL,Dia de São João Batista (Padroeiro) e Aniversário da Cidade conforme Lei Municipal nº 1.487 de 12/12/1977,SP,3543907
 10/07/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3544004
 06/08/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3544004
 20/01/2075,Feriado Municipal,MUNICIPAL,,SP,3544103
@@ -8145,8 +8145,8 @@
 08/09/2075,Nossa Sra Mont Serrat,MUNICIPAL,Dia da Padroeira da Cidade,SP,3545209
 24/06/2075,Feriado Municipal,MUNICIPAL,,SP,3545308
 30/12/2075,Feriado Municipal,MUNICIPAL,,SP,3545308
-15/09/2075,Feriado Municipal,MUNICIPAL,,SP,3545407
-27/12/2075,Feriado Municipal,MUNICIPAL,,SP,3545407
+15/09/2075,Dia de Nossa Senhora do Patrocínio,MUNICIPAL,conforme Lei Municipal nº 373 de 16/08/1971,SP,3545407
+27/12/2075,Aniversário da Cidade,MUNICIPAL,conforme Lei Municipal nº 373 de 16/08/1971,SP,3545407
 13/06/2075,Dia de Santo Antônio,MUNICIPAL,,SP,3545506
 15/08/2075,Feriado Municipal,MUNICIPAL,,SP,3545506
 22/03/2075,Feriado Municipal,MUNICIPAL,,SP,3545605
@@ -8183,7 +8183,7 @@
 22/01/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3547700
 19/11/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3547700
 08/12/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3547700
-08/04/2075,Aniversário da cidade,MUNICIPAL,Aniversário da cidade,SP,3547809
+08/04/2075,Aniversário da Cidade,MUNICIPAL,conforme Lei Municipal nº 4.148 de 11/05/1973,SP,3547809
 05/04/2075,Sexta-feira Santa,MUNICIPAL,"conforme Decreto 16.465, DE 18 de dezembro de 2013",SP,3547809
 06/06/2075,Corpus Christi,MUNICIPAL,"conforme Decreto 16.465, DE 18 de dezembro de 2013",SP,3547809
 06/01/2075,Feriado Municipal,MUNICIPAL,,SP,3547908
@@ -8202,14 +8202,14 @@
 08/09/2075,N. Sra do Monte Serrat,MUNICIPAL,Feriado em Comemoração ao dia de Nossa Senha de Monte Serrat,SP,3548500
 11/07/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3548609
 16/08/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3548609
-05/04/2075,Sexta-feira santa,MUNICIPAL,Sexta-feira santa,SP,3548708
+05/04/2075,Sexta-feira Santa,MUNICIPAL,conforme Lei Municipal nº 2.241 de 13/08/1976,SP,3548708
 06/06/2075,Corpus Christi,MUNICIPAL,conforme Decreto 18.735 de 19 de dezembro de 2013,SP,3548708
-20/08/2075,Aniversário da cidade,MUNICIPAL,Aniversário da cidade,SP,3548708
+20/08/2075,Aniversário da Cidade,MUNICIPAL,conforme Lei Municipal nº 2.241 de 13/08/1976,SP,3548708
 28/07/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3548807
-05/04/2075,Paixão de Cristo,MUNICIPAL,Paixão de Cristo,SP,3548906
-06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,SP,3548906
-15/08/2075,N. Sra da Babilônia,MUNICIPAL,Nossa Senhora da Babilônia,SP,3548906
-04/11/2075,Aniversário,MUNICIPAL,Aniversário de São Carlos,SP,3548906
+05/04/2075,Paixão de Cristo,MUNICIPAL,conforme Lei Municipal nº 7.502 de 04/12/1974,SP,3548906
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 7.502 de 04/12/1974,SP,3548906
+15/08/2075,Nossa Senhora da Babilônia,MUNICIPAL,conforme Lei Municipal nº 7.502 de 04/12/1974,SP,3548906
+04/11/2075,Aniversário de São Carlos,MUNICIPAL,conforme Lei Municipal nº 7.502 de 04/12/1974,SP,3548906
 03/05/2075,Feriado Municipal,MUNICIPAL,,SP,3549003
 24/06/2075,Feriado Municipal,MUNICIPAL,,SP,3549102
 24/06/2075,Feriado Municipal,MUNICIPAL,,SP,3549201
@@ -8222,14 +8222,14 @@
 19/03/2075,São José,MUNICIPAL,Dia de São José,SP,3549607
 19/03/2075,São José,MUNICIPAL,Dia de São José,SP,3549706
 15/08/2075,Feriado Municipal,MUNICIPAL,,SP,3549706
-19/03/2075,São José,MUNICIPAL,Dia de São José,SP,3549805
-05/04/2075,Sexta-Feira Santa,MUNICIPAL,Sexta-Feira Santa,SP,3549805
-06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,SP,3549805
-08/12/2075,Imaculada Conceição,MUNICIPAL,Imaculada Conceição,SP,3549805
-19/03/2075,"Dia de São José, Padroeiro da Cidade - Lei 2.096, de 30/11/2012",MUNICIPAL,"De acordo com a Lei nº 8821, de 27/11/2012",SP,3549904
-05/04/2075,Sexta-feira Santa,MUNICIPAL,Sexta-feira Santa,SP,3549904
-06/06/2075,Corpus Christi,MUNICIPAL,,SP,3549904
-27/07/2075,"Data de Fundação da Cidade - Lei 1324, DE 23/02/1967",MUNICIPAL,https://www.leismunicipais.com.br/a/sp/s/sao-jose-dos-campos/lei-ordinaria/1967/132/1324/lei-ordinaria-n-1324-1967-dispoe-sobre-os-feriados-locais.html,SP,3549904
+19/03/2075,São José,MUNICIPAL,"Dia de São José (Padroeiro e Aniversário da Cidade), conforme Lei Municipal nº 1.227 de 31/01/1967",SP,3549805
+05/04/2075,Sexta-Feira Santa,MUNICIPAL,"Sexta-Feira da Paixão, conforme Lei Municipal nº 1.227 de 31/01/1967",SP,3549805
+06/06/2075,Corpus Christi,MUNICIPAL,"Corpus Christi, conforme Lei Municipal nº 1.227 de 31/01/1967",SP,3549805
+08/12/2075,Imaculada Conceição,MUNICIPAL,"Dia da Imaculada Conceição, conforme Lei Municipal nº 1.227 de 31/01/1967",SP,3549805
+19/03/2075,Dia de São José - Padroeiro de São José dos Campos,MUNICIPAL,conforme Lei Municipal nº 8.821 de 27/11/2012,SP,3549904
+05/04/2075,Sexta-feira Santa,MUNICIPAL,conforme Lei Municipal nº 1.324 de 23/02/1967,SP,3549904
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 1.324 de 23/02/1967,SP,3549904
+27/07/2075,Aniversário de São José dos Campos,MUNICIPAL,https://www.leismunicipais.com.br/a/sp/s/sao-jose-dos-campos/lei-ordinaria/1967/132/1324/lei-ordinaria-n-1324-1967-dispoe-sobre-os-feriados-locais.html,SP,3549904
 12/03/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3549953
 10/08/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3549953
 05/04/2075,Sexta-feira da Paixão,MUNICIPAL,Sexta-feira da Paixão,SP,3550001
@@ -8240,9 +8240,9 @@
 15/08/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3550100
 01/04/2075,Feriado Municipal,MUNICIPAL,,SP,3550209
 29/09/2075,Feriado Municipal,MUNICIPAL,,SP,3550209
-25/01/2075,Aniversário da Cidade,MUNICIPAL,conforme Lei nº 14.485 de 19 de julho de 2007,SP,3550308
-05/04/2075,Sexta-feira Santa,MUNICIPAL,conforme Lei nº 14.485 de 19 de julho de 2007,SP,3550308
-06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei nº 14.485 de 19 de julho de 2007,SP,3550308
+25/01/2075,Aniversário da Cidade,MUNICIPAL,conforme Lei Municipal nº 14.485 de 19 de julho de 2007,SP,3550308
+05/04/2075,Sexta-feira Santa,MUNICIPAL,conforme Lei Municipal nº 14.485 de 19 de julho de 2007,SP,3550308
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 14.485 de 19 de julho de 2007,SP,3550308
 22/02/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3550407
 29/06/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3550407
 29/05/2075,Feriado Municipal,MUNICIPAL,,SP,3550506
@@ -8253,7 +8253,7 @@
 16/03/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3550704
 20/01/2075,Feriado Municipal,MUNICIPAL,,SP,3550803
 04/11/2075,Feriado Municipal,MUNICIPAL,,SP,3550803
-22/01/2075,Aniversário da Cidade,MUNICIPAL,"Aniversário da Fundação de São Vicente, conforme Lei Municipal 1.332/67",SP,3551009
+22/01/2075,Aniversário da Fundação de São Vicente,MUNICIPAL,"Aniversário da Fundação de São Vicente, conforme Lei Municipal 1.332/67",SP,3551009
 05/04/2075,Sexta-feira Santa,MUNICIPAL,"Sexta-Feria Santa, conforme Lei Municipal 1.332/67",SP,3551009
 06/06/2075,Corpus Christi,MUNICIPAL,"Corpus Christi, conforme Lei Municipal 1.332/67",SP,3551009
 13/03/2075,Feriado Municipal,MUNICIPAL,,SP,3551108
@@ -8278,19 +8278,19 @@
 28/02/2075,Feriado Municipal,MUNICIPAL,,SP,3552007
 08/12/2075,Feriado Municipal,MUNICIPAL,,SP,3552007
 15/08/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3552106
-06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,SP,3552205
-15/08/2075,Aniversário,MUNICIPAL,Dia de Nossa Senhora da Ponte/Aniversário de Sorocaba,SP,3552205
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 1.439 de 11/11/1966,SP,3552205
+15/08/2075,Fundação de Sorocaba e Dia de Nossa Senhora da Ponte,MUNICIPAL,Dia de Nossa Senhora da Ponte/Aniversário de Sorocaba,SP,3552205
 10/09/2075,Feriado Municipal,MUNICIPAL,,SP,3552304
 26/07/2075,Feriado Municipal,MUNICIPAL,,SP,3552403
-20/01/2075,"Dia de São Sebastião, padroeiro da Cidade",MUNICIPAL,http://leismunicipa.is/tgpch,SP,3552502
-02/04/2075,Feriado Municipal,MUNICIPAL,Feriado Municipal,SP,3552502
+20/01/2075,"Dia de São Sebastião, padroeiro da Cidade",MUNICIPAL,conforme Lei Municipal nº 782 de 25/05/1967,SP,3552502
+02/04/2075,Emancipação Político-Administrativa de Suzano,MUNICIPAL,conforme Lei Municipal nº 782 de 25/05/1967,SP,3552502
 05/04/2075,Sexta-feira Santa,MUNICIPAL,conforme Decreto Municipal nº 8652 de 06 de janeiro de 2015,SP,3552502
 06/06/2075,Corpus Christi,MUNICIPAL,conforme Decreto Municipal nº 8652 de 06 de janeiro de 2015,SP,3552502
 27/11/2075,Feriado Municipal,MUNICIPAL,,SP,3552601
-19/02/2075,Aniversário da cidade,MUNICIPAL,Emancipação do Município,SP,3552809
-05/04/2075,Sexta-feira santa,MUNICIPAL,Sexta-feira santa,SP,3552809
-06/06/2075,Corpus Christi,MUNICIPAL,Corpus Christi,SP,3552809
-01/10/2075,Amor Misericordioso,MUNICIPAL,"Dia do Amor Misericordioso de Deus, de acordo com a lei 051/2015.",SP,3552809
+19/02/2075,Aniversário da Cidade,MUNICIPAL,"Feriado civil de comemoração da emancipação político-administrativa do município, conforme Lei Municipal nº 191 de 19/02/1963.",SP,3552809
+05/04/2075,Sexta-feira Santa,MUNICIPAL,Feriado religioso municipal conforme Lei Municipal nº 495 de 22/03/1974.,SP,3552809
+06/06/2075,Corpus Christi,MUNICIPAL,Feriado religioso municipal conforme Lei Municipal nº 495 de 22/03/1974.,SP,3552809
+01/10/2075,Dia do Amor Misericordioso de Deus,MUNICIPAL,Feriado religioso municipal conforme Lei Municipal nº 2225 de 18/05/2015.,SP,3552809
 01/11/2075,Feriado Municipal,MUNICIPAL,,SP,3552908
 08/12/2075,Feriado Municipal,MUNICIPAL,,SP,3552908
 18/02/2075,Feriado Municipal,MUNICIPAL,,SP,3553005
@@ -8453,11 +8453,11 @@
 26/05/2075,Feriado Municipal,MUNICIPAL,,TO,1720978
 19/03/2075,São José,MUNICIPAL,"Dia de São José, Padroeiro de Palmas, conforme Lei nº 577/96, de 02 de abril de 1996",TO,1721000
 05/04/2075,Sexta-feira Santa,MUNICIPAL,"conforme Lei nº 577/96, de 02 de abril de 1996",TO,1721000
-20/05/2075,Aniversário de Palmas,MUNICIPAL,conforme Lei nº 108 de 15 de maio de 1991,TO,1721000
+20/05/2075,Aniversário de Palmas,MUNICIPAL,conforme Lei Municipal nº 108 de 15/05/1991,TO,1721000
 07/07/2075,Feriado Municipal,MUNICIPAL,,TO,1721208
 28/07/2075,Feriado Municipal,MUNICIPAL,,TO,1721208
 15/08/2075,Feriado Municipal,MUNICIPAL,,TO,1721208
 29/09/2075,Feriado Municipal,MUNICIPAL,,TO,1722107
 14/11/2075,Feriado Municipal,MUNICIPAL,,TO,1722107
 30/11/2075,Feriado Municipal,MUNICIPAL,,TO,1722107
-06/06/2075,Corpus Christi,MUNICIPAL,Lei Municipal nº 2.102/1975,SP,3525904
+06/06/2075,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 2.102 de 31/12/1975,SP,3525904

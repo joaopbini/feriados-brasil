@@ -26,3 +26,9 @@ venv/
 
 ### Jetbrains
 .junie
+
+### Antigravity
+.agent/
+
+### Scripts
+scripts/

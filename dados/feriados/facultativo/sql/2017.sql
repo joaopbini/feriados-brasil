@@ -1,4 +1,4 @@
-INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('24/02/2017', 'Pré Carnaval', 'FACULTATIVO', 'Não haverá expediente apenas nas repartições estaduais da capital. ', null, null);
+INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('28/02/2017', 'Pré Carnaval', 'FACULTATIVO', 'Não haverá expediente apenas nas repartições estaduais da capital. ', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('27/02/2017', 'Carnaval', 'FACULTATIVO', 'Ponto Facultativo, ou seja, cabe às empresas e orgão públicos decidirem se trabalharão ou não.', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('27/02/2017', 'Segunda de Carnaval', 'FACULTATIVO', 'Ponto Facultativo nas repartições públicas', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('28/02/2017', 'Carnaval', 'FACULTATIVO', 'Carnaval NÃO é um feriado oficial, é Ponto Facultativo, ou seja, cabe às empresas e orgão públicos decidirem se trabalharão ou não.', null, null);
