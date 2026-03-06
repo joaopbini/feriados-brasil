@@ -17,3 +17,4 @@ INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('28/1
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('20/11/2020', 'Dia da Consciência Negra', 'FACULTATIVO', 'Lei Municipal No 1985, de 2009. Prefeitura não funcionará. O Comércio deverá Funcionar normalmente', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('20/11/2020', 'Consciência Negra', 'FACULTATIVO', 'Dia da Consciência Negra. Ponto Facultativo de acordo com a Lei Municipal 2484/2008', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('31/12/2020', 'Após o meio-dia, Véspera de Ano Novo', 'FACULTATIVO', 'De acordo com o Decreto nº 18882-E de 01 de junho de 2015', null, null);
+INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('14/12/2020', 'Aniversário de Jundiaí', 'FACULTATIVO', 'Data comemorativa e ponto facultativo', 'SP', 3525904);

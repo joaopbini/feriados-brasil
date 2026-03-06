@@ -1,4 +1,4 @@
-INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('24/02/2017', 'Pré Carnaval', 'FACULTATIVO', 'Não haverá expediente apenas nas repartições estaduais da capital. ', null, null);
+INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('28/02/2017', 'Pré Carnaval', 'FACULTATIVO', 'Não haverá expediente apenas nas repartições estaduais da capital. ', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('27/02/2017', 'Carnaval', 'FACULTATIVO', 'Ponto Facultativo, ou seja, cabe às empresas e orgão públicos decidirem se trabalharão ou não.', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('27/02/2017', 'Segunda de Carnaval', 'FACULTATIVO', 'Ponto Facultativo nas repartições públicas', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('28/02/2017', 'Carnaval', 'FACULTATIVO', 'Carnaval NÃO é um feriado oficial, é Ponto Facultativo, ou seja, cabe às empresas e orgão públicos decidirem se trabalharão ou não.', null, null);
@@ -31,3 +31,4 @@ INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('20/1
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('20/11/2017', 'Feriado Para Func. Municipais', 'FACULTATIVO', 'Feriado apenas para Funcionários Municipais', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('20/11/2017', 'Consciência Negra', 'FACULTATIVO', 'Dia da Consciência Negra. Ponto Facultativo de acordo com a Lei Municipal 2484/2008', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('31/12/2017', 'Após o meio-dia, Véspera de Ano Novo', 'FACULTATIVO', 'De acordo com o Decreto nº 18882-E de 01 de junho de 2015', null, null);
+INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('14/12/2017', 'Aniversário de Jundiaí', 'FACULTATIVO', 'Data comemorativa e ponto facultativo', 'SP', 3525904);

@@ -4,7 +4,7 @@ INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('28/0
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('04/03/2019', 'Carnaval', 'FACULTATIVO', 'Ponto Facultativo, ou seja, cabe às empresas e orgão públicos decidirem se trabalharão ou não.', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('04/03/2019', 'Segunda de Carnaval', 'FACULTATIVO', 'Ponto Facultativo nas repartições públicas', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('04/03/2019', 'Facultativo', 'FACULTATIVO', 'ponto facultativo do Carnaval', null, null);
-INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('04/03/2019', 'Véspera de Carnaval', 'FACULTATIVO', 'Ponto facultativo', null, null);
+INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('05/03/2019', 'Véspera de Carnaval', 'FACULTATIVO', 'Ponto facultativo', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('05/03/2019', 'Carnaval', 'FACULTATIVO', 'Carnaval NÃO é um feriado oficial, é Ponto Facultativo, ou seja, cabe às empresas e orgão públicos decidirem se trabalharão ou não.', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('05/03/2019', 'Terça de Carnaval', 'FACULTATIVO', 'Feriado apenas no Comércio, segundo Lei nº 5913, de 21 de junho de 1991', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('05/03/2019', 'Facultativo', 'FACULTATIVO', 'Facultativo', null, null);
@@ -21,7 +21,7 @@ INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('14/0
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('14/06/2019', 'Ponto facultativo', 'FACULTATIVO', 'Ponto facultativo', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('20/06/2019', 'Corpus Christi', 'FACULTATIVO', 'Ponto Facultativo no País, mas Feriado Municipal em algumas cidades.. Corpus Christi, expressão latina que significa Corpo de Cristo, é uma festa Cristã realizada na quinta-feira seguinte ao domingo da Santíssima Trindade.', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('21/06/2019', 'Facultativo', 'FACULTATIVO', 'Ponto facultativo', null, null);
-INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('21/06/2019', 'Pós Corpus Christi', 'FACULTATIVO', 'Data após Corpus Christi', null, null);
+INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('20/06/2019', 'Pós Corpus Christi', 'FACULTATIVO', 'Data após Corpus Christi', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('21/06/2019', 'Ponto Facultativo', 'FACULTATIVO', '', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('08/07/2019', 'Facultativo', 'FACULTATIVO', 'Facultativo', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('08/07/2019', 'Ponto facultativo', 'FACULTATIVO', '', null, null);
@@ -40,3 +40,4 @@ INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('24/1
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('26/12/2019', 'Facultativo', 'FACULTATIVO', 'Facultativo', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('31/12/2019', 'Após o meio-dia, Véspera de Ano Novo', 'FACULTATIVO', 'De acordo com o Decreto nº 18882-E de 01 de junho de 2015', null, null);
 INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('31/12/2019', 'Facultativo', 'FACULTATIVO', 'Facultativo', null, null);
+INSERT INTO feriado (data, nome, tipo, descricao, uf, codigo_ibge) VALUES ('14/12/2019', 'Aniversário de Jundiaí', 'FACULTATIVO', 'Data comemorativa e ponto facultativo', 'SP', 3525904);

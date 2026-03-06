@@ -835,7 +835,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-feira da Paixão",
+        "descricao": "Feriado municipal religioso conforme a Lei Municipal nº 1.391 de 26/08/1964.",
         "uf": "AL",
         "codigo_ibge": 2704302
     },
@@ -843,23 +843,23 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
+        "descricao": "Feriado municipal religioso conforme a Lei Municipal nº 1.391 de 26/08/1964.",
         "uf": "AL",
         "codigo_ibge": 2704302
     },
     {
         "data": "27/08/2026",
-        "nome": "Padroeira",
+        "nome": "Nossa Senhora dos Prazeres",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de Nossa Senhora dos Prazeres, padroeira de Maceió",
+        "descricao": "Dia da Padroeira de Maceió, feriado municipal conforme a Lei Municipal nº 1.391 de 26/08/1964.",
         "uf": "AL",
         "codigo_ibge": 2704302
     },
     {
         "data": "08/12/2026",
-        "nome": "N. Sra. da Conceição",
+        "nome": "Nossa Senhora da Conceição",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de Nossa Senhora da Conceição",
+        "descricao": "Feriado municipal religioso em honra a Nossa Senhora da Conceição, conforme a Lei Municipal nº 1.391 de 26/08/1964.",
         "uf": "AL",
         "codigo_ibge": 2704302
     },
@@ -1800,26 +1800,18 @@
         "codigo_ibge": 1302504
     },
     {
-        "data": "17/02/2026",
-        "nome": "Carnaval",
-        "tipo": "MUNICIPAL",
-        "descricao": "Carnaval",
-        "uf": "AM",
-        "codigo_ibge": 1302603
-    },
-    {
-        "data": "05/03/2026",
-        "nome": "Quarta-feira de cinzas",
-        "tipo": "MUNICIPAL",
-        "descricao": "Feriado na quarta-feira de cinzas até às 12 (doze) horas.",
-        "uf": "AM",
-        "codigo_ibge": 1302603
-    },
-    {
         "data": "24/10/2026",
         "nome": "Aniversário de Manaus",
         "tipo": "MUNICIPAL",
-        "descricao": "Elevação de Manaus à categoria de Cidade",
+        "descricao": "Dia em que se comemora a elevação de Manaus à categoria de cidade, conforme Lei Municipal nº 495 de 06/01/2020",
+        "uf": "AM",
+        "codigo_ibge": 1302603
+    },
+    {
+        "data": "08/12/2026",
+        "nome": "Nossa Senhora da Conceição",
+        "tipo": "MUNICIPAL",
+        "descricao": "Dia de Nossa Senhora da Conceição, padroeira da cidade de Manaus, conforme Lei Municipal nº 495 de 06/01/2020",
         "uf": "AM",
         "codigo_ibge": 1302603
     },
@@ -5131,7 +5123,15 @@
         "data": "19/03/2026",
         "nome": "Dia de São José",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de São José",
+        "descricao": "Dia de São José, Padroeiro da Cidade, conforme Lei Municipal nº 2.052 de 03/07/2007",
+        "uf": "BA",
+        "codigo_ibge": 2914802
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "Feriado religioso móvel de Corpus Christi, conforme Lei Municipal nº 2.052 de 03/07/2007",
         "uf": "BA",
         "codigo_ibge": 2914802
     },
@@ -5139,7 +5139,7 @@
         "data": "24/06/2026",
         "nome": "Dia de São João",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de São João",
+        "descricao": "Feriado de São João, conforme Lei Municipal nº 2.052 de 03/07/2007",
         "uf": "BA",
         "codigo_ibge": 2914802
     },
@@ -5147,7 +5147,7 @@
         "data": "28/07/2026",
         "nome": "Aniversário de Itabuna",
         "tipo": "MUNICIPAL",
-        "descricao": "Aniversário de Itabuna",
+        "descricao": "Dia da Cidade, aniversário de emancipação política e administrativa, conforme Lei Municipal nº 2.052 de 03/07/2007",
         "uf": "BA",
         "codigo_ibge": 2914802
     },
@@ -7104,16 +7104,16 @@
         "codigo_ibge": 2924900
     },
     {
-        "data": "05/04/2026",
-        "nome": "Aniversário da cidade",
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
         "descricao": "",
         "uf": "BA",
         "codigo_ibge": 2925006
     },
     {
-        "data": "03/04/2026",
-        "nome": "Sexta-feira da Paixão",
+        "data": "05/04/2026",
+        "nome": "Aniversário da cidade",
         "tipo": "MUNICIPAL",
         "descricao": "",
         "uf": "BA",
@@ -9136,10 +9136,10 @@
         "codigo_ibge": 2933208
     },
     {
-        "data": "17/02/2026",
-        "nome": "Carnaval",
+        "data": "03/04/2026",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "Carnaval",
+        "descricao": "Sexta-feira da Paixão, feriado religioso municipal móvel conforme Lei Municipal nº 1.391 de 16/08/2006",
         "uf": "BA",
         "codigo_ibge": 2933307
     },
@@ -9147,7 +9147,7 @@
         "data": "24/06/2026",
         "nome": "São João",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de São João",
+        "descricao": "Dia de São João, conforme Lei Municipal nº 1.391 de 16/08/2006",
         "uf": "BA",
         "codigo_ibge": 2933307
     },
@@ -9155,15 +9155,15 @@
         "data": "15/08/2026",
         "nome": "Padroeira",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de Nossa Senhora das Vitórias, padroeira da cidade",
+        "descricao": "Dia de Nossa Senhora das Vitórias, padroeira da cidade, conforme Lei Municipal nº 1.391 de 16/08/2006",
         "uf": "BA",
         "codigo_ibge": 2933307
     },
     {
         "data": "09/11/2026",
-        "nome": "Aniversário",
+        "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
-        "descricao": "Aniversário da cidade",
+        "descricao": "Aniversário da cidade e Emancipação Política, conforme Lei Municipal nº 1.391 de 16/08/2006",
         "uf": "BA",
         "codigo_ibge": 2933307
     },
@@ -9794,24 +9794,40 @@
     {
         "data": "19/03/2026",
         "nome": "São José",
+        "tipo": "ESTADUAL",
+        "descricao": "Feriado estadual que celebra o santo padroeiro do Ceará, conforme Lei Estadual nº 11.010 de 23/12/1985",
+        "uf": "CE",
+        "codigo_ibge": 2303709
+    },
+    {
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de São José",
+        "descricao": "conforme Lei Municipal nº 326 de 22/06/1981",
+        "uf": "CE",
+        "codigo_ibge": 2303709
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 326 de 22/06/1981",
         "uf": "CE",
         "codigo_ibge": 2303709
     },
     {
         "data": "15/08/2026",
-        "nome": "N. Sra. dos Prazeres",
+        "nome": "Nossa Senhora dos Prazeres",
         "tipo": "MUNICIPAL",
-        "descricao": "Padrodeira de Caucaia",
+        "descricao": "Padroeira do Município, conforme Lei Municipal nº 326 de 22/06/1981",
         "uf": "CE",
         "codigo_ibge": 2303709
     },
     {
         "data": "15/10/2026",
-        "nome": "Dia do município",
+        "nome": "Dia do Município",
         "tipo": "MUNICIPAL",
-        "descricao": "Aniversário de Caucaia",
+        "descricao": "Aniversário da cidade de Caucaia, conforme Lei Municipal nº 326 de 22/06/1981",
         "uf": "CE",
         "codigo_ibge": 2303709
     },
@@ -9955,15 +9971,7 @@
         "data": "19/03/2026",
         "nome": "São José",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de São José, padroeiro do estado do Ceará, conforme a Lei nº 8796 de 09 de dezembro de 2003",
-        "uf": "CE",
-        "codigo_ibge": 2304400
-    },
-    {
-        "data": "13/04/2026",
-        "nome": "Aniversário de Fortaleza",
-        "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 7535, de 16 de junho 1994",
+        "descricao": "Dia de São José, padroeiro do Estado do Ceará, conforme Lei Municipal nº 8.796 de 09/12/2003",
         "uf": "CE",
         "codigo_ibge": 2304400
     },
@@ -9971,7 +9979,15 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme a Lei nº 8796 de 09 de dezembro de 2003",
+        "descricao": "conforme Lei Municipal nº 8.796 de 09/12/2003",
+        "uf": "CE",
+        "codigo_ibge": 2304400
+    },
+    {
+        "data": "13/04/2026",
+        "nome": "Aniversário de Fortaleza",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 7.535 de 16/06/1994",
         "uf": "CE",
         "codigo_ibge": 2304400
     },
@@ -9979,15 +9995,15 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme a Lei nº 8796 de 09 de dezembro de 2003",
+        "descricao": "conforme Lei Municipal nº 8.796 de 09/12/2003",
         "uf": "CE",
         "codigo_ibge": 2304400
     },
     {
         "data": "15/08/2026",
-        "nome": "N. Senhora da Assunção",
+        "nome": "Nossa Senhora da Assunção",
         "tipo": "MUNICIPAL",
-        "descricao": "Nossa Senhora da Assunção, Padroeira de Fortaleza, conforme a Lei nº 8796 de 09 de dezembro de 2003",
+        "descricao": "Dia de Nossa Senhora da Assunção, padroeira de Fortaleza, conforme Lei Municipal nº 8.796 de 09/12/2003",
         "uf": "CE",
         "codigo_ibge": 2304400
     },
@@ -11824,18 +11840,18 @@
         "codigo_ibge": 3201209
     },
     {
-        "data": "13/04/2026",
-        "nome": "Nossa Senhora da Penha",
+        "data": "03/04/2026",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei Municipal nº 317/1967",
+        "descricao": "conforme Lei Municipal nº 317 de 10/07/1967",
         "uf": "ES",
         "codigo_ibge": 3201308
     },
     {
-        "data": "03/04/2026",
-        "nome": "Sexta-feira Santa",
+        "data": "13/04/2026",
+        "nome": "Nossa Senhora da Penha",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 317/1967",
+        "descricao": "conforme Lei Municipal nº 317 de 10/07/1967",
         "uf": "ES",
         "codigo_ibge": 3201308
     },
@@ -11843,7 +11859,7 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 317/1967",
+        "descricao": "conforme Lei Municipal nº 317 de 10/07/1967",
         "uf": "ES",
         "codigo_ibge": 3201308
     },
@@ -11851,7 +11867,7 @@
         "data": "24/06/2026",
         "nome": "São João Batista",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de São João Batista, Aniversário de Cariacica - conforme Lei Municipal nº 317/1967",
+        "descricao": "conforme Lei Municipal nº 317 de 10/07/1967",
         "uf": "ES",
         "codigo_ibge": 3201308
     },
@@ -12736,10 +12752,18 @@
         "codigo_ibge": 3204955
     },
     {
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 228 de 14/08/1967",
+        "uf": "ES",
+        "codigo_ibge": 3205002
+    },
+    {
         "data": "29/06/2026",
         "nome": "Dia de São Pedro",
         "tipo": "MUNICIPAL",
-        "descricao": "Lei nº 228 de 1967",
+        "descricao": "conforme Lei Municipal nº 228 de 14/08/1967",
         "uf": "ES",
         "codigo_ibge": 3205002
     },
@@ -12747,7 +12771,7 @@
         "data": "08/12/2026",
         "nome": "Nossa Senhora da Conceição",
         "tipo": "MUNICIPAL",
-        "descricao": "Lei nº 228 de 1967",
+        "descricao": "conforme Lei Municipal nº 228 de 14/08/1967",
         "uf": "ES",
         "codigo_ibge": 3205002
     },
@@ -12755,7 +12779,7 @@
         "data": "26/12/2026",
         "nome": "Dia do Serrano",
         "tipo": "MUNICIPAL",
-        "descricao": "Lei nº 228 de 1967",
+        "descricao": "conforme Lei Municipal nº 228 de 14/08/1967",
         "uf": "ES",
         "codigo_ibge": 3205002
     },
@@ -12889,49 +12913,49 @@
     },
     {
         "data": "03/04/2026",
-        "nome": "Sexta-feira Santa",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "Feriado, conforme Lei 5.622 de 2015",
-        "uf": "ES",
-        "codigo_ibge": 3205200
-    },
-    {
-        "data": "28/04/2026",
-        "nome": "Festa da Penha",
-        "tipo": "MUNICIPAL",
-        "descricao": "Feriado, conforme Lei 5.622 de 2015",
-        "uf": "ES",
-        "codigo_ibge": 3205200
-    },
-    {
-        "data": "23/05/2026",
-        "nome": "Dia da Colonização",
-        "tipo": "MUNICIPAL",
-        "descricao": "Dia da Colonização do Solo Espírito-Santense",
-        "uf": "ES",
-        "codigo_ibge": 3205200
-    },
-    {
-        "data": "04/06/2026",
-        "nome": "Corpus Christi",
-        "tipo": "MUNICIPAL",
-        "descricao": "Feriado, conforme Lei 5.622 de 2015",
+        "descricao": "conforme Lei Municipal nº 5.622 de 20/05/2015",
         "uf": "ES",
         "codigo_ibge": 3205200
     },
     {
         "data": "13/04/2026",
-        "nome": "Nossa Senhora da Penha",
+        "nome": "Festa de Nossa Senhora da Penha",
         "tipo": "MUNICIPAL",
-        "descricao": "Sempre comemorado oito dias após o domingo de Páscoa, de acordo com o Decreto nº 16.896",
+        "descricao": "conforme Lei Municipal nº 5.622 de 20/05/2015",
         "uf": "ES",
-        "codigo_ibge": 3205309
+        "codigo_ibge": 3205200
+    },
+    {
+        "data": "23/05/2026",
+        "nome": "Colonização do Solo Espírito-santense",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 5.622 de 20/05/2015",
+        "uf": "ES",
+        "codigo_ibge": 3205200
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 5.622 de 20/05/2015",
+        "uf": "ES",
+        "codigo_ibge": 3205200
     },
     {
         "data": "03/04/2026",
         "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-feira da Paixão",
+        "descricao": "conforme Lei Municipal nº 1.732 de 31/03/1967",
+        "uf": "ES",
+        "codigo_ibge": 3205309
+    },
+    {
+        "data": "13/04/2026",
+        "nome": "Nossa Senhora da Penha",
+        "tipo": "ESTADUAL",
+        "descricao": "conforme Lei Estadual nº 11.010 de 03/07/2019",
         "uf": "ES",
         "codigo_ibge": 3205309
     },
@@ -12939,15 +12963,15 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei Municipal nº 1.732, de 1967",
+        "descricao": "conforme Lei Municipal nº 1.732 de 31/03/1967",
         "uf": "ES",
         "codigo_ibge": 3205309
     },
     {
         "data": "08/09/2026",
-        "nome": "N. Sra da Vitória",
+        "nome": "Nossa Senhora da Vitória",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei Municipal nº 1.732, de 1967",
+        "descricao": "conforme Lei Municipal nº 1.732 de 31/03/1967",
         "uf": "ES",
         "codigo_ibge": 3205309
     },
@@ -13080,10 +13104,34 @@
         "codigo_ibge": 5201306
     },
     {
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 792 de 10/10/1988 e Lei Municipal nº 3.257 de 25/05/2015",
+        "uf": "GO",
+        "codigo_ibge": 5201405
+    },
+    {
+        "data": "11/05/2026",
+        "nome": "Aniversário de Aparecida de Goiânia",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 792 de 10/10/1988 e Lei Municipal nº 3.257 de 25/05/2015",
+        "uf": "GO",
+        "codigo_ibge": 5201405
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 792 de 10/10/1988 e Lei Municipal nº 3.257 de 25/05/2015",
+        "uf": "GO",
+        "codigo_ibge": 5201405
+    },
+    {
         "data": "14/11/2026",
         "nome": "Emancipação política",
         "tipo": "MUNICIPAL",
-        "descricao": "Emancipação política de Aparecida de Goiânia",
+        "descricao": "conforme Lei Municipal nº 792 de 10/10/1988 e Lei Municipal nº 3.257 de 25/05/2015",
         "uf": "GO",
         "codigo_ibge": 5201405
     },
@@ -14024,10 +14072,26 @@
         "codigo_ibge": 5208608
     },
     {
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 9553 de 20/03/2015",
+        "uf": "GO",
+        "codigo_ibge": 5208707
+    },
+    {
         "data": "24/05/2026",
         "nome": "Nossa Senhora Auxiliadora",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 701 de 30 agosto de 1956",
+        "descricao": "conforme Lei Municipal nº 701 de 30/08/1956",
+        "uf": "GO",
+        "codigo_ibge": 5208707
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 9553 de 20/03/2015",
         "uf": "GO",
         "codigo_ibge": 5208707
     },
@@ -14035,7 +14099,7 @@
         "data": "24/10/2026",
         "nome": "Aniversário de Goiânia",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme a Lei nº 6968 de 19 de junho de 1991",
+        "descricao": "conforme Lei Municipal nº 6968 de 19/06/1991",
         "uf": "GO",
         "codigo_ibge": 5208707
     },
@@ -15137,17 +15201,33 @@
     },
     {
         "data": "20/01/2026",
-        "nome": "Feriado Municipal",
+        "nome": "Dia de São Sebastião (Padroeiro)",
         "tipo": "MUNICIPAL",
-        "descricao": "",
+        "descricao": "conforme Lei Municipal nº 2.822 de 16/10/1992",
+        "uf": "GO",
+        "codigo_ibge": 5218805
+    },
+    {
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 2.822 de 16/10/1992",
+        "uf": "GO",
+        "codigo_ibge": 5218805
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 2.822 de 16/10/1992",
         "uf": "GO",
         "codigo_ibge": 5218805
     },
     {
         "data": "05/08/2026",
-        "nome": "Feriado Municipal",
+        "nome": "Aniversário de Rio Verde",
         "tipo": "MUNICIPAL",
-        "descricao": "",
+        "descricao": "conforme Lei Municipal nº 2.822 de 16/10/1992 e Lei Municipal nº 1.401 de 10/05/1976",
         "uf": "GO",
         "codigo_ibge": 5218805
     },
@@ -17411,7 +17491,15 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 3432, de 06 de fevereiro de 1996",
+        "descricao": "conforme Lei Municipal nº 3.432 de 06/02/1996",
+        "uf": "MA",
+        "codigo_ibge": 2111300
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 3.432 de 06/02/1996",
         "uf": "MA",
         "codigo_ibge": 2111300
     },
@@ -17419,7 +17507,7 @@
         "data": "29/06/2026",
         "nome": "São Pedro",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 3432, de 06 de fevereiro de 1996",
+        "descricao": "conforme Lei Municipal nº 3.432 de 06/02/1996",
         "uf": "MA",
         "codigo_ibge": 2111300
     },
@@ -17427,15 +17515,7 @@
         "data": "08/09/2026",
         "nome": "Natividade de Nossa Senhora",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 3432, de 06 de fevereiro de 1996",
-        "uf": "MA",
-        "codigo_ibge": 2111300
-    },
-    {
-        "data": "20/10/2026",
-        "nome": "Dia do Comerciário",
-        "tipo": "MUNICIPAL",
-        "descricao": "Feriado para a categoria",
+        "descricao": "conforme Lei Municipal nº 3.432 de 06/02/1996",
         "uf": "MA",
         "codigo_ibge": 2111300
     },
@@ -17443,7 +17523,7 @@
         "data": "08/12/2026",
         "nome": "Nossa Senhora da Conceição",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 3432, de 06 de fevereiro de 1996",
+        "descricao": "conforme Lei Municipal nº 3.432 de 06/02/1996",
         "uf": "MA",
         "codigo_ibge": 2111300
     },
@@ -18771,7 +18851,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 1327, de 08 de fevereiro de 1967",
+        "descricao": "conforme Lei Municipal nº 1.327 de 08/02/1967",
         "uf": "MG",
         "codigo_ibge": 3106200
     },
@@ -18779,7 +18859,7 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 1327, de 08 de fevereiro de 1967",
+        "descricao": "conforme Lei Municipal nº 1.327 de 08/02/1967",
         "uf": "MG",
         "codigo_ibge": 3106200
     },
@@ -18787,7 +18867,7 @@
         "data": "15/08/2026",
         "nome": "Assunção de Nossa Senhora",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 1327, de 08 de fevereiro de 1967",
+        "descricao": "conforme Lei Municipal nº 1.327 de 08/02/1967",
         "uf": "MG",
         "codigo_ibge": 3106200
     },
@@ -18795,7 +18875,7 @@
         "data": "08/12/2026",
         "nome": "Imaculada Conceição",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 1327, de 08 de fevereiro de 1967",
+        "descricao": "conforme Lei Municipal nº 1.327 de 08/02/1967",
         "uf": "MG",
         "codigo_ibge": 3106200
     },
@@ -18873,9 +18953,9 @@
     },
     {
         "data": "03/04/2026",
-        "nome": "Sexta-feira Santa",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-feira Santa",
+        "descricao": "conforme Lei Municipal nº 4.731 de 22/12/2008",
         "uf": "MG",
         "codigo_ibge": 3106705
     },
@@ -18883,15 +18963,23 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "",
+        "descricao": "conforme Lei Municipal nº 4.731 de 22/12/2008",
         "uf": "MG",
         "codigo_ibge": 3106705
     },
     {
         "data": "16/07/2026",
-        "nome": "Dia de Nossa Senhora do Carmo, padroeira da cidade - Lei 4.731 22/12/2008.",
+        "nome": "Dia de Nossa Senhora do Carmo",
         "tipo": "MUNICIPAL",
-        "descricao": "",
+        "descricao": "Padroeira da cidade, conforme Lei Municipal nº 4.731 de 22/12/2008",
+        "uf": "MG",
+        "codigo_ibge": 3106705
+    },
+    {
+        "data": "20/11/2026",
+        "nome": "Dia da Consciência Negra",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 4.731 de 22/12/2008",
         "uf": "MG",
         "codigo_ibge": 3106705
     },
@@ -20776,10 +20864,10 @@
         "codigo_ibge": 3118403
     },
     {
-        "data": "11/04/2026",
-        "nome": "N. Senhora das Dores",
+        "data": "27/03/2026",
+        "nome": "Jubileu de Nossa Senhora das Dores",
         "tipo": "MUNICIPAL",
-        "descricao": "Jubileu de Nossa Senhora das Dores",
+        "descricao": "conforme Lei Municipal nº 3.484 de 11/10/2001",
         "uf": "MG",
         "codigo_ibge": 3118601
     },
@@ -20787,7 +20875,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 3.484/2001",
+        "descricao": "conforme Lei Municipal nº 3.484 de 11/10/2001",
         "uf": "MG",
         "codigo_ibge": 3118601
     },
@@ -20795,7 +20883,15 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 3.484/2001",
+        "descricao": "conforme Lei Municipal nº 3.484 de 11/10/2001",
+        "uf": "MG",
+        "codigo_ibge": 3118601
+    },
+    {
+        "data": "08/12/2026",
+        "nome": "Jubileu de Nossa Senhora da Conceição",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 3.484 de 11/10/2001",
         "uf": "MG",
         "codigo_ibge": 3118601
     },
@@ -21200,18 +21296,18 @@
         "codigo_ibge": 3121605
     },
     {
-        "data": "13/06/2026",
-        "nome": "Santo Antônio",
-        "tipo": "MUNICIPAL",
-        "descricao": "Dia de Santo Antônio",
-        "uf": "MG",
-        "codigo_ibge": 3121605
-    },
-    {
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
         "descricao": "Corpus Christi",
+        "uf": "MG",
+        "codigo_ibge": 3121605
+    },
+    {
+        "data": "13/06/2026",
+        "nome": "Santo Antônio",
+        "tipo": "MUNICIPAL",
+        "descricao": "Dia de Santo Antônio",
         "uf": "MG",
         "codigo_ibge": 3121605
     },
@@ -22587,15 +22683,15 @@
         "data": "03/04/2026",
         "nome": "Paixão de Cristo",
         "tipo": "MUNICIPAL",
-        "descricao": "Paixão de Cristo",
+        "descricao": "conforme Lei Municipal nº 431 de 11/04/1973",
         "uf": "MG",
         "codigo_ibge": 3131307
     },
     {
         "data": "29/04/2026",
-        "nome": "Emancipação",
+        "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
-        "descricao": "Emancipação política de Ipatinga",
+        "descricao": "conforme Lei Municipal nº 431 de 11/04/1973",
         "uf": "MG",
         "codigo_ibge": 3131307
     },
@@ -22603,15 +22699,15 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
+        "descricao": "conforme Lei Municipal nº 431 de 11/04/1973",
         "uf": "MG",
         "codigo_ibge": 3131307
     },
     {
         "data": "15/08/2026",
-        "nome": "Nossa Senhora",
+        "nome": "Nossa Senhora da Esperança",
         "tipo": "MUNICIPAL",
-        "descricao": "Assunção de Nossa Senhora",
+        "descricao": "conforme Lei Municipal nº 431 de 11/04/1973",
         "uf": "MG",
         "codigo_ibge": 3131307
     },
@@ -23560,10 +23656,10 @@
         "codigo_ibge": 3136652
     },
     {
-        "data": "13/06/2026",
-        "nome": "Dia de Santo Antônio",
+        "data": "03/04/2026",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de Santo Antônio",
+        "descricao": "conforme Lei Municipal nº 2.650, de 19/12/1963",
         "uf": "MG",
         "codigo_ibge": 3136702
     },
@@ -23571,7 +23667,15 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
+        "descricao": "conforme Lei Municipal nº 2.650, de 19/12/1963",
+        "uf": "MG",
+        "codigo_ibge": 3136702
+    },
+    {
+        "data": "13/06/2026",
+        "nome": "Dia de Santo Antônio",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 2.650, de 19/12/1963",
         "uf": "MG",
         "codigo_ibge": 3136702
     },
@@ -24672,10 +24776,34 @@
         "codigo_ibge": 3143203
     },
     {
-        "data": "03/07/2026",
-        "nome": "Feriado Municipal",
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "Feriado Municipal",
+        "descricao": "conforme Lei Municipal nº 1.258 de 22/06/1979",
+        "uf": "MG",
+        "codigo_ibge": 3143302
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 1.258 de 22/06/1979",
+        "uf": "MG",
+        "codigo_ibge": 3143302
+    },
+    {
+        "data": "03/07/2026",
+        "nome": "Aniversário da Cidade",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 1.258 de 22/06/1979",
+        "uf": "MG",
+        "codigo_ibge": 3143302
+    },
+    {
+        "data": "08/12/2026",
+        "nome": "Nossa Senhora da Conceição",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 1.258 de 22/06/1979",
         "uf": "MG",
         "codigo_ibge": 3143302
     },
@@ -26376,26 +26504,34 @@
         "codigo_ibge": 3154507
     },
     {
-        "data": "05/08/2026",
-        "nome": "Feriado Municipal",
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "Feriado Municipal",
+        "descricao": "conforme Lei Municipal nº 1.259 de 11/05/1987",
         "uf": "MG",
         "codigo_ibge": 3154606
     },
     {
-        "data": "15/08/2026",
-        "nome": "Feriado Municipal",
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Feriado Municipal",
+        "descricao": "conforme Lei Municipal nº 1.259 de 11/05/1987",
+        "uf": "MG",
+        "codigo_ibge": 3154606
+    },
+    {
+        "data": "05/08/2026",
+        "nome": "Nossa Senhora das Neves (Padroeira)",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 1.259 de 11/05/1987",
         "uf": "MG",
         "codigo_ibge": 3154606
     },
     {
         "data": "12/12/2026",
-        "nome": "Feriado Municipal",
+        "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
-        "descricao": "Feriado Municipal",
+        "descricao": "conforme Lei Municipal nº 1.259 de 11/05/1987",
         "uf": "MG",
         "codigo_ibge": 3154606
     },
@@ -27040,10 +27176,34 @@
         "codigo_ibge": 3159605
     },
     {
-        "data": "08/12/2026",
-        "nome": "Feriado Municipal",
+        "data": "01/03/2026",
+        "nome": "Aniversário do Município",
         "tipo": "MUNICIPAL",
-        "descricao": "",
+        "descricao": "conforme Lei Municipal nº 351 de 10/05/1993",
+        "uf": "MG",
+        "codigo_ibge": 3159704
+    },
+    {
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 351 de 10/05/1993",
+        "uf": "MG",
+        "codigo_ibge": 3159704
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 351 de 10/05/1993",
+        "uf": "MG",
+        "codigo_ibge": 3159704
+    },
+    {
+        "data": "08/12/2026",
+        "nome": "Nossa Senhora da Imaculada Conceição (Padroeira)",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 351 de 10/05/1993",
         "uf": "MG",
         "codigo_ibge": 3159704
     },
@@ -28665,9 +28825,25 @@
     },
     {
         "data": "02/03/2026",
-        "nome": "Aniversário da cidade",
+        "nome": "Aniversário de Uberaba",
         "tipo": "MUNICIPAL",
-        "descricao": "Aniversário da cidade",
+        "descricao": "conforme Lei Municipal nº 12.608 de 04/04/2017",
+        "uf": "MG",
+        "codigo_ibge": 3170107
+    },
+    {
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 12.608 de 04/04/2017",
+        "uf": "MG",
+        "codigo_ibge": 3170107
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 12.608 de 04/04/2017",
         "uf": "MG",
         "codigo_ibge": 3170107
     },
@@ -28675,15 +28851,23 @@
         "data": "15/08/2026",
         "nome": "Nossa Senhora da Abadia",
         "tipo": "MUNICIPAL",
-        "descricao": "Nossa Senhora da Abadia",
+        "descricao": "conforme Lei Municipal nº 12.608 de 04/04/2017",
+        "uf": "MG",
+        "codigo_ibge": 3170107
+    },
+    {
+        "data": "20/11/2026",
+        "nome": "Dia da Consciência Negra",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 12.608 de 04/04/2017",
         "uf": "MG",
         "codigo_ibge": 3170107
     },
     {
         "data": "03/04/2026",
-        "nome": "Sexta-Feira Santa",
+        "nome": "Sexta-Feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-Feira Santa",
+        "descricao": "conforme Lei Municipal nº 2.115 de 11/07/1973",
         "uf": "MG",
         "codigo_ibge": 3170206
     },
@@ -28691,23 +28875,23 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
+        "descricao": "conforme Lei Municipal nº 2.115 de 11/07/1973",
         "uf": "MG",
         "codigo_ibge": 3170206
     },
     {
         "data": "15/08/2026",
-        "nome": "Nossa Sra da Abadia",
+        "nome": "Nossa Senhora da Abadia",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de Nossa Senhora da Abadia, padroeira do Município",
+        "descricao": "conforme Lei Municipal nº 2.115 de 11/07/1973",
         "uf": "MG",
         "codigo_ibge": 3170206
     },
     {
         "data": "31/08/2026",
-        "nome": "Aniversário da cidade",
+        "nome": "Aniversário de Uberlândia",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de São Raimundo, aniversário da cidade",
+        "descricao": "conforme Lei Municipal nº 2.115 de 11/07/1973",
         "uf": "MG",
         "codigo_ibge": 3170206
     },
@@ -29331,7 +29515,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 95, de 27 de Outubro de 1949",
+        "descricao": "conforme Lei Municipal nº 3.901 de 29/10/2001 e Lei Municipal nº 95 de 27/10/1949",
         "uf": "MS",
         "codigo_ibge": 5002704
     },
@@ -29339,7 +29523,7 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 95, de 27 de Outubro de 1949",
+        "descricao": "conforme Lei Municipal nº 3.901 de 29/10/2001 e Lei Municipal nº 95 de 27/10/1949",
         "uf": "MS",
         "codigo_ibge": 5002704
     },
@@ -29347,7 +29531,7 @@
         "data": "13/06/2026",
         "nome": "Dia de Santo Antônio",
         "tipo": "MUNICIPAL",
-        "descricao": "Padroeiro do Município de Campo Grande-MS, Santo Antônio de Pádua, conforme Lei nº 3901 de 29 de outubro de 2001",
+        "descricao": "Padroeiro do Município, conforme Lei Municipal nº 3.901 de 29/10/2001",
         "uf": "MS",
         "codigo_ibge": 5002704
     },
@@ -29355,7 +29539,7 @@
         "data": "26/08/2026",
         "nome": "Aniversário de Campo Grande",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 95, de 27 de Outubro de 1949",
+        "descricao": "conforme Lei Municipal nº 3.901 de 29/10/2001",
         "uf": "MS",
         "codigo_ibge": 5002704
     },
@@ -30624,18 +30808,18 @@
         "codigo_ibge": 5103353
     },
     {
-        "data": "08/04/2026",
-        "nome": "Aniversário",
+        "data": "03/04/2026",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "Fundação da Cidade de Cuiabá",
+        "descricao": "conforme Lei Municipal nº 1.077 de 02 de abril de 1968",
         "uf": "MT",
         "codigo_ibge": 5103403
     },
     {
-        "data": "03/04/2026",
-        "nome": "Sexta-feira Santa",
+        "data": "08/04/2026",
+        "nome": "Aniversário de Cuiabá",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 1077 de 02 de abril de 1968",
+        "descricao": "conforme Lei Municipal nº 1.077 de 02 de abril de 1968",
         "uf": "MT",
         "codigo_ibge": 5103403
     },
@@ -30643,15 +30827,15 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 1077 de 02 de abril de 1968",
+        "descricao": "conforme Lei Municipal nº 1.077 de 02 de abril de 1968",
         "uf": "MT",
         "codigo_ibge": 5103403
     },
     {
         "data": "08/12/2026",
-        "nome": "N. Sra da Conceição",
+        "nome": "Nossa Senhora da Conceição",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de Nossa Senhora da Conceição",
+        "descricao": "conforme Lei Municipal nº 1.077 de 02 de abril de 1968",
         "uf": "MT",
         "codigo_ibge": 5103403
     },
@@ -31504,18 +31688,18 @@
         "codigo_ibge": 5108204
     },
     {
-        "data": "17/02/2026",
-        "nome": "Carnaval",
+        "data": "03/04/2026",
+        "nome": "Sexta-Feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "Feriado Municipal",
+        "descricao": "conforme Lei Municipal nº 1.128 de 18/12/1991",
         "uf": "MT",
         "codigo_ibge": 5108402
     },
     {
-        "data": "03/04/2026",
-        "nome": "Sexta-Feira Santa",
+        "data": "15/05/2026",
+        "nome": "Aniversário de Várzea Grande",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-Feria Santa",
+        "descricao": "conforme Lei Municipal nº 1.128 de 18/12/1991",
         "uf": "MT",
         "codigo_ibge": 5108402
     },
@@ -31523,7 +31707,15 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Feriado de Corpus Crhisti segundo decreto n° 44/2017",
+        "descricao": "conforme Lei Municipal nº 1.128 de 18/12/1991",
+        "uf": "MT",
+        "codigo_ibge": 5108402
+    },
+    {
+        "data": "08/12/2026",
+        "nome": "Nossa Senhora da Conceição",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 1.128 de 18/12/1991",
         "uf": "MT",
         "codigo_ibge": 5108402
     },
@@ -31763,7 +31955,23 @@
         "data": "12/01/2026",
         "nome": "Aniversário de Belém",
         "tipo": "MUNICIPAL",
-        "descricao": "Aniversário de Belém",
+        "descricao": "conforme Lei Municipal nº 6306 de 01 de março de 1967",
+        "uf": "PA",
+        "codigo_ibge": 1501402
+    },
+    {
+        "data": "03/04/2026",
+        "nome": "Sexta-feira Santa",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 6306 de 01 de março de 1967",
+        "uf": "PA",
+        "codigo_ibge": 1501402
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 6306 de 01 de março de 1967",
         "uf": "PA",
         "codigo_ibge": 1501402
     },
@@ -31771,7 +31979,7 @@
         "data": "08/12/2026",
         "nome": "Nossa Senhora da Conceição",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 6306 de 01 de março de 1967",
+        "descricao": "conforme Lei Municipal nº 6306 de 01 de março de 1967",
         "uf": "PA",
         "codigo_ibge": 1501402
     },
@@ -33339,7 +33547,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-feira Santa",
+        "descricao": "conforme Lei Municipal nº 348 de 10/03/1967",
         "uf": "PB",
         "codigo_ibge": 2504009
     },
@@ -33347,7 +33555,7 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
+        "descricao": "conforme Lei Municipal nº 348 de 10/03/1967",
         "uf": "PB",
         "codigo_ibge": 2504009
     },
@@ -33355,23 +33563,23 @@
         "data": "24/06/2026",
         "nome": "São João",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de São João",
+        "descricao": "conforme Lei Municipal nº 348 de 10/03/1967",
         "uf": "PB",
         "codigo_ibge": 2504009
     },
     {
         "data": "11/10/2026",
-        "nome": "Aniversário",
+        "nome": "Emancipação Política de Campina Grande",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia da fundação da cidade",
+        "descricao": "conforme Lei Municipal nº 348 de 10/03/1967",
         "uf": "PB",
         "codigo_ibge": 2504009
     },
     {
         "data": "08/12/2026",
-        "nome": "Padroeira",
+        "nome": "Nossa Senhora da Conceição",
         "tipo": "MUNICIPAL",
-        "descricao": "Nossa Senhora da Conceição, padroeira de Campinas Grande",
+        "descricao": "conforme Lei Municipal nº 348 de 10/03/1967",
         "uf": "PB",
         "codigo_ibge": 2504009
     },
@@ -33873,9 +34081,9 @@
     },
     {
         "data": "03/04/2026",
-        "nome": "Sexta-Feira Santa",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-Feira Santa, conforme Lei nº 8805, de 23 de maio 1999",
+        "descricao": "conforme Lei Municipal nº 8805 de 23/05/1999",
         "uf": "PB",
         "codigo_ibge": 2507507
     },
@@ -33883,15 +34091,23 @@
         "data": "24/06/2026",
         "nome": "Dia de São João",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 8805, de 23 de maio 1999",
+        "descricao": "conforme Lei Municipal nº 8805 de 23/05/1999",
+        "uf": "PB",
+        "codigo_ibge": 2507507
+    },
+    {
+        "data": "05/08/2026",
+        "nome": "Nossa Senhora das Neves",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 8805 de 23/05/1999",
         "uf": "PB",
         "codigo_ibge": 2507507
     },
     {
         "data": "08/12/2026",
-        "nome": "Nossa Senhora da Conceição",
+        "nome": "Imaculada Conceição",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 8805, de 23 de maio 1999",
+        "descricao": "conforme Lei Municipal nº 8805 de 23/05/1999",
         "uf": "PB",
         "codigo_ibge": 2507507
     },
@@ -36673,25 +36889,33 @@
     },
     {
         "data": "12/03/2026",
-        "nome": "Aniversário",
+        "nome": "Aniversário da Cidade de Olinda",
         "tipo": "MUNICIPAL",
-        "descricao": "Aniversário da Cidade",
+        "descricao": "Aniversário da Cidade, conforme Lei Municipal nº 4.380 de 10/10/1983",
+        "uf": "PE",
+        "codigo_ibge": 2609600
+    },
+    {
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
+        "tipo": "MUNICIPAL",
+        "descricao": "Sexta-feira da Paixão, feriado religioso móvel conforme Lei Municipal nº 4.380 de 10/10/1983",
         "uf": "PE",
         "codigo_ibge": 2609600
     },
     {
         "data": "06/08/2026",
-        "nome": "Padroeiro",
+        "nome": "Dia de São Salvador do Mundo",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de São Salvador do Mundo, padroeiro de Olinda",
+        "descricao": "Dia de São Salvador do Mundo, Padroeiro da Cidade, conforme Lei Municipal nº 4.380 de 10/10/1983",
         "uf": "PE",
         "codigo_ibge": 2609600
     },
     {
         "data": "10/11/2026",
-        "nome": "1º Grito",
+        "nome": "Primeiro Grito de República no Brasil",
         "tipo": "MUNICIPAL",
-        "descricao": "1º Grito de República no Brasil",
+        "descricao": "Comemoração do Primeiro Grito de República no Brasil, conforme Lei Municipal nº 4.380 de 10/10/1983",
         "uf": "PE",
         "codigo_ibge": 2609600
     },
@@ -36856,26 +37080,34 @@
         "codigo_ibge": 2610608
     },
     {
-        "data": "18/02/2026",
-        "nome": "Quarta-feira de cinzas",
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "",
+        "descricao": "conforme Lei Municipal nº 1.258 de 12/05/1961",
         "uf": "PE",
         "codigo_ibge": 2610707
     },
     {
-        "data": "05/03/2026",
-        "nome": "Quarta-feira de cinzas",
+        "data": "24/06/2026",
+        "nome": "São João",
         "tipo": "MUNICIPAL",
-        "descricao": "Quarta-feira de cinzas",
+        "descricao": "conforme Lei Municipal nº 1.258 de 12/05/1961",
         "uf": "PE",
         "codigo_ibge": 2610707
     },
     {
         "data": "04/09/2026",
-        "nome": "Emancipação política",
+        "nome": "Emancipação Política",
         "tipo": "MUNICIPAL",
-        "descricao": "Aniversário de Emancipação Política do Paulista",
+        "descricao": "conforme Lei Municipal nº 1.258 de 12/05/1961",
+        "uf": "PE",
+        "codigo_ibge": 2610707
+    },
+    {
+        "data": "15/12/2026",
+        "nome": "Nossa Senhora do Ó",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 1.258 de 12/05/1961",
         "uf": "PE",
         "codigo_ibge": 2610707
     },
@@ -36952,26 +37184,26 @@
         "codigo_ibge": 2611002
     },
     {
-        "data": "17/02/2026",
-        "nome": "Carnaval",
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "Terça-Feria de Carnaval",
+        "descricao": "Feriado religioso móvel, conforme o Art. 1º, inciso I da Lei Municipal nº 403 de 15/12/1992.",
         "uf": "PE",
         "codigo_ibge": 2611101
     },
     {
-        "data": "17/02/2026",
-        "nome": "Carnaval",
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Terça-Feria de Carnaval",
+        "descricao": "Feriado religioso móvel, conforme o Art. 1º, inciso II da Lei Municipal nº 403 de 15/12/1992.",
         "uf": "PE",
         "codigo_ibge": 2611101
     },
     {
         "data": "15/08/2026",
-        "nome": "N Sra Rainha dos Anjos",
+        "nome": "Nossa Senhora Rainha dos Anjos",
         "tipo": "MUNICIPAL",
-        "descricao": "Nossa Senhora Rainha dos Anjos",
+        "descricao": "Feriado religioso em homenagem à padroeira do município, conforme o Art. 1º, inciso III da Lei Municipal nº 403 de 15/12/1992.",
         "uf": "PE",
         "codigo_ibge": 2611101
     },
@@ -36979,7 +37211,7 @@
         "data": "21/09/2026",
         "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
-        "descricao": "Comemorações do Aniversário da Cidade de Petrolina-PE",
+        "descricao": "Data magna da Emancipação Política de Petrolina, conforme o Art. 1º, inciso IV da Lei Municipal nº 403 de 15/12/1992.",
         "uf": "PE",
         "codigo_ibge": 2611101
     },
@@ -37051,15 +37283,23 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-feira Santa",
+        "descricao": "Feriado religioso de Sexta-feira da Paixão, conforme Lei Municipal nº 9.777 de 06/04/1967",
+        "uf": "PE",
+        "codigo_ibge": 2611606
+    },
+    {
+        "data": "24/06/2026",
+        "nome": "São João",
+        "tipo": "MUNICIPAL",
+        "descricao": "Feriado de São João, conforme Lei Municipal nº 9.777 de 06/04/1967",
         "uf": "PE",
         "codigo_ibge": 2611606
     },
     {
         "data": "16/07/2026",
-        "nome": "Padroeira",
+        "nome": "Nossa Senhora do Carmo",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de Nossa Senhora do Carmo (Padroeira do Recife)",
+        "descricao": "Feriado em homenagem a Nossa Senhora do Carmo, Padroeira da cidade do Recife, conforme Lei Municipal nº 9.777 de 06/04/1967",
         "uf": "PE",
         "codigo_ibge": 2611606
     },
@@ -37067,7 +37307,7 @@
         "data": "08/12/2026",
         "nome": "N. Sra. da Conceição",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de Nossa Senhora. da Conceição",
+        "descricao": "Dia de Nossa Senhora da Conceição, conforme Lei Municipal nº 9.777 de 06/04/1967",
         "uf": "PE",
         "codigo_ibge": 2611606
     },
@@ -38737,9 +38977,9 @@
     },
     {
         "data": "03/04/2026",
-        "nome": "Sexta-feira Santa",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 2.847 de 22 de novembro de 1999",
+        "descricao": "conforme Lei Municipal nº 2.847 de 22/11/1999",
         "uf": "PI",
         "codigo_ibge": 2211001
     },
@@ -38747,7 +38987,7 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 2.847 de 22 de novembro de 1999",
+        "descricao": "conforme Lei Municipal nº 2.847 de 22/11/1999",
         "uf": "PI",
         "codigo_ibge": 2211001
     },
@@ -38755,15 +38995,15 @@
         "data": "16/08/2026",
         "nome": "Aniversário de Teresina",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 2.847 de 22 de novembro de 1999",
+        "descricao": "conforme Lei Municipal nº 2.847 de 22/11/1999",
         "uf": "PI",
         "codigo_ibge": 2211001
     },
     {
         "data": "08/12/2026",
-        "nome": "Nossa Senhora da Conceição",
+        "nome": "Dia de Nossa Senhora da Conceição",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 2.847 de 22 de novembro de 1999",
+        "descricao": "conforme Lei Municipal nº 2.847 de 22/11/1999",
         "uf": "PI",
         "codigo_ibge": 2211001
     },
@@ -39731,7 +39971,7 @@
         "data": "03/04/2026",
         "nome": "Paixão de Cristo",
         "tipo": "MUNICIPAL",
-        "descricao": "Paixão de Cristo",
+        "descricao": "conforme Lei Municipal nº 5.250 de 22/06/2009",
         "uf": "PR",
         "codigo_ibge": 4104808
     },
@@ -39739,15 +39979,23 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
+        "descricao": "conforme Lei Municipal nº 5.250 de 22/06/2009",
+        "uf": "PR",
+        "codigo_ibge": 4104808
+    },
+    {
+        "data": "15/08/2026",
+        "nome": "Padroeira do Município",
+        "tipo": "MUNICIPAL",
+        "descricao": "Nossa Senhora da Conceição Aparecida, conforme Lei Municipal nº 5.250 de 22/06/2009",
         "uf": "PR",
         "codigo_ibge": 4104808
     },
     {
         "data": "14/11/2026",
-        "nome": "Aniversário",
+        "nome": "Aniversário do Município",
         "tipo": "MUNICIPAL",
-        "descricao": "Aniversário do Município",
+        "descricao": "conforme Lei Municipal nº 5.250 de 22/06/2009",
         "uf": "PR",
         "codigo_ibge": 4104808
     },
@@ -39873,9 +40121,9 @@
     },
     {
         "data": "05/02/2026",
-        "nome": "Aniversário",
+        "nome": "Aniversário de Colombo",
         "tipo": "MUNICIPAL",
-        "descricao": "Instalação do município",
+        "descricao": "Aniversário da emancipação e instalação do município, conforme a Lei Orgânica Municipal de Colombo",
         "uf": "PR",
         "codigo_ibge": 4105805
     },
@@ -39883,23 +40131,31 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-feira da Paixão",
+        "descricao": "conforme Lei Municipal nº 35 de 24/10/1967",
         "uf": "PR",
         "codigo_ibge": 4105805
     },
     {
         "data": "26/05/2026",
-        "nome": "N. Sra. do Caravaggio",
+        "nome": "Nossa Senhora do Caravaggio",
         "tipo": "MUNICIPAL",
-        "descricao": "Nossa Senhora do Caravaggio, patrona dos produtores Colombenses",
+        "descricao": "conforme Lei Municipal nº 1.017 de 14/05/2007",
+        "uf": "PR",
+        "codigo_ibge": 4105805
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 35 de 24/10/1967",
         "uf": "PR",
         "codigo_ibge": 4105805
     },
     {
         "data": "07/10/2026",
-        "nome": "Padroeira",
+        "nome": "Nossa Senhora do Rosário (Padroeira)",
         "tipo": "MUNICIPAL",
-        "descricao": "Nossa Senhora do Rosário, padroeira do município",
+        "descricao": "conforme Lei Municipal nº 35 de 24/10/1967",
         "uf": "PR",
         "codigo_ibge": 4105805
     },
@@ -40089,9 +40345,9 @@
     },
     {
         "data": "03/04/2026",
-        "nome": "Sexta-feira Santa",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "",
+        "descricao": "conforme Lei Municipal nº 3.018 de 02/05/1967",
         "uf": "PR",
         "codigo_ibge": 4106902
     },
@@ -40099,15 +40355,15 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Comemorações de Corpus Christi",
+        "descricao": "conforme Lei Municipal nº 3.018 de 02/05/1967",
         "uf": "PR",
         "codigo_ibge": 4106902
     },
     {
         "data": "08/09/2026",
-        "nome": "N. Sra da Luz dos Pinhais",
+        "nome": "Nossa Senhora da Luz dos Pinhais",
         "tipo": "MUNICIPAL",
-        "descricao": "Nossa Sra da Luz dos Pinhais",
+        "descricao": "conforme Lei Municipal nº 3.018 de 02/05/1967",
         "uf": "PR",
         "codigo_ibge": 4106902
     },
@@ -40403,7 +40659,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Decreto nº 24385, de 04 de janeiro de 2016",
+        "descricao": "conforme Lei Municipal nº 1.411, de 16 de julho de 1988",
         "uf": "PR",
         "codigo_ibge": 4108304
     },
@@ -40411,7 +40667,7 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Decreto nº 24385, de 04 de janeiro de 2016",
+        "descricao": "conforme Lei Municipal nº 1.411, de 16 de julho de 1988",
         "uf": "PR",
         "codigo_ibge": 4108304
     },
@@ -40419,7 +40675,7 @@
         "data": "10/06/2026",
         "nome": "Aniversário do Município",
         "tipo": "MUNICIPAL",
-        "descricao": "Aniversário da Cidade de Foz do Iguaçu",
+        "descricao": "conforme Lei Municipal nº 1.411, de 16 de julho de 1988",
         "uf": "PR",
         "codigo_ibge": 4108304
     },
@@ -40427,7 +40683,7 @@
         "data": "24/06/2026",
         "nome": "São João Batista",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de São João Batista, padroeiro da cidade",
+        "descricao": "conforme Lei Municipal nº 1.411, de 16 de julho de 1988",
         "uf": "PR",
         "codigo_ibge": 4108304
     },
@@ -41283,7 +41539,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "Feriado de Sexta Feira da Paixão",
+        "descricao": "conforme Lei Municipal nº 3.016 de 18/06/1980",
         "uf": "PR",
         "codigo_ibge": 4113700
     },
@@ -41291,23 +41547,23 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Feriado de Corpus Christi",
+        "descricao": "conforme Lei Municipal nº 3.016 de 18/06/1980",
         "uf": "PR",
         "codigo_ibge": 4113700
     },
     {
-        "data": "27/06/2026",
+        "data": "12/06/2026",
         "nome": "Sagrado Coração de Jesus",
         "tipo": "MUNICIPAL",
-        "descricao": "Sagrado Coração de Jesus – Padroeiro da Cidade",
+        "descricao": "conforme Lei Municipal nº 3.016 de 18/06/1980",
         "uf": "PR",
         "codigo_ibge": 4113700
     },
     {
         "data": "10/12/2026",
-        "nome": "Aniversário da cidade",
+        "nome": "Aniversário de Londrina",
         "tipo": "MUNICIPAL",
-        "descricao": "Aniversário da cidade",
+        "descricao": "conforme Lei Municipal nº 3.016 de 18/06/1980",
         "uf": "PR",
         "codigo_ibge": 4113700
     },
@@ -44496,18 +44752,34 @@
         "codigo_ibge": 3300605
     },
     {
-        "data": "15/08/2026",
-        "nome": "Padroeira",
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "Nossa Senhora da Assunção",
+        "descricao": "conforme Lei Municipal nº 3.125 de 14/01/2020",
+        "uf": "RJ",
+        "codigo_ibge": 3300704
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 3.125 de 14/01/2020",
+        "uf": "RJ",
+        "codigo_ibge": 3300704
+    },
+    {
+        "data": "15/08/2026",
+        "nome": "Nossa Senhora da Assunção (Padroeira)",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 3.125 de 14/01/2020",
         "uf": "RJ",
         "codigo_ibge": 3300704
     },
     {
         "data": "13/11/2026",
-        "nome": "Aniversário",
+        "nome": "Fundação de Cabo Frio (Aniversário)",
         "tipo": "MUNICIPAL",
-        "descricao": "Aniversário de Cabo Frio",
+        "descricao": "conforme Lei Municipal nº 3.125 de 14/01/2020",
         "uf": "RJ",
         "codigo_ibge": 3300704
     },
@@ -44585,9 +44857,9 @@
     },
     {
         "data": "15/01/2026",
-        "nome": "Sto. Amaro",
+        "nome": "Santo Amaro",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de Santo Amaro",
+        "descricao": "Dia de Santo Amaro, padroeiro da Baixada Campista, conforme Lei Municipal nº 8.441 de 15/05/2013",
         "uf": "RJ",
         "codigo_ibge": 3301009
     },
@@ -44595,7 +44867,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-feira da Paixão",
+        "descricao": "Data religiosa móvel, conforme Lei Municipal nº 8.441 de 15/05/2013",
         "uf": "RJ",
         "codigo_ibge": 3301009
     },
@@ -44603,7 +44875,7 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
+        "descricao": "Data religiosa móvel, conforme Lei Municipal nº 8.441 de 15/05/2013",
         "uf": "RJ",
         "codigo_ibge": 3301009
     },
@@ -44611,7 +44883,7 @@
         "data": "06/08/2026",
         "nome": "Santíssimo Salvador",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia do Santíssimo Salvador, padroeiro da cidade",
+        "descricao": "Dia do Santíssimo Salvador, padroeiro da cidade, conforme Lei Municipal nº 8.441 de 15/05/2013",
         "uf": "RJ",
         "codigo_ibge": 3301009
     },
@@ -44752,18 +45024,34 @@
         "codigo_ibge": 3301603
     },
     {
-        "data": "13/06/2026",
-        "nome": "Santo Antônio",
+        "data": "03/04/2026",
+        "nome": "Sexta-Feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de Santo Antônio, padroeiro de Duque de Caxias",
+        "descricao": "Feriado religioso móvel, conforme Lei Municipal nº 1.096 de 24/06/1991",
+        "uf": "RJ",
+        "codigo_ibge": 3301702
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "Feriado religioso móvel, conforme Lei Municipal nº 1.096 de 24/06/1991",
+        "uf": "RJ",
+        "codigo_ibge": 3301702
+    },
+    {
+        "data": "13/06/2026",
+        "nome": "Dia de Santo Antônio",
+        "tipo": "MUNICIPAL",
+        "descricao": "Dia de Santo Antônio, padroeiro da cidade, conforme Lei Municipal nº 1.096 de 24/06/1991",
         "uf": "RJ",
         "codigo_ibge": 3301702
     },
     {
         "data": "25/08/2026",
-        "nome": "Duque de Caxias",
+        "nome": "Dia de Duque de Caxias",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia do Patrono da cidade, Duque de Caxias",
+        "descricao": "Dia do Patrono da cidade e do Exército Brasileiro, conforme Lei Municipal nº 1.096 de 24/06/1991",
         "uf": "RJ",
         "codigo_ibge": 3301702
     },
@@ -45192,18 +45480,34 @@
         "codigo_ibge": 3303203
     },
     {
-        "data": "24/06/2026",
-        "nome": "Dia de São João, padroeiro da cidade",
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "",
+        "descricao": "conforme Lei Municipal nº 2.142 de 31/03/2004",
+        "uf": "RJ",
+        "codigo_ibge": 3303302
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 2.142 de 31/03/2004",
+        "uf": "RJ",
+        "codigo_ibge": 3303302
+    },
+    {
+        "data": "24/06/2026",
+        "nome": "Dia de São João (Padroeiro da Cidade)",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 2.142 de 31/03/2004",
         "uf": "RJ",
         "codigo_ibge": 3303302
     },
     {
         "data": "22/11/2026",
-        "nome": "Aniversário da cidade",
+        "nome": "Aniversário de Niterói",
         "tipo": "MUNICIPAL",
-        "descricao": "",
+        "descricao": "conforme Lei Municipal nº 2.142 de 31/03/2004",
         "uf": "RJ",
         "codigo_ibge": 3303302
     },
@@ -45224,10 +45528,34 @@
         "codigo_ibge": 3303401
     },
     {
-        "data": "23/04/2026",
-        "nome": "São Jorge",
+        "data": "15/01/2026",
+        "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de São Jorge",
+        "descricao": "Aniversário da emancipação política do município, conforme Lei Municipal nº 3.657 de 10/01/2005",
+        "uf": "RJ",
+        "codigo_ibge": 3303500
+    },
+    {
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
+        "tipo": "MUNICIPAL",
+        "descricao": "Feriado religioso móvel, conforme Lei Municipal nº 3.593 de 05/04/2004",
+        "uf": "RJ",
+        "codigo_ibge": 3303500
+    },
+    {
+        "data": "23/04/2026",
+        "nome": "Dia de São Jorge",
+        "tipo": "ESTADUAL",
+        "descricao": "conforme Lei Estadual nº 5.198 de 05/03/2008",
+        "uf": "RJ",
+        "codigo_ibge": 3303500
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "Feriado religioso móvel, conforme Lei Municipal nº 3.593 de 05/04/2004",
         "uf": "RJ",
         "codigo_ibge": 3303500
     },
@@ -45235,7 +45563,7 @@
         "data": "13/06/2026",
         "nome": "Dia de Santo Antônio",
         "tipo": "MUNICIPAL",
-        "descricao": "Padroeiro do município",
+        "descricao": "Padroeiro do município, conforme Lei Municipal nº 3.593 de 05/04/2004",
         "uf": "RJ",
         "codigo_ibge": 3303500
     },
@@ -45507,7 +45835,23 @@
         "data": "20/01/2026",
         "nome": "Dia de São Sebastião, Padroeiro da cidade",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 5146 de 7 de janeiro 2010",
+        "descricao": "conforme Lei Municipal nº 5146 de 07/01/2010",
+        "uf": "RJ",
+        "codigo_ibge": 3304557
+    },
+    {
+        "data": "17/02/2026",
+        "nome": "Terça-feira de Carnaval",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 5146 de 07/01/2010",
+        "uf": "RJ",
+        "codigo_ibge": 3304557
+    },
+    {
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 5146 de 07/01/2010",
         "uf": "RJ",
         "codigo_ibge": 3304557
     },
@@ -45515,7 +45859,15 @@
         "data": "23/04/2026",
         "nome": "Dia de São Jorge",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 5146 de 7 de janeiro 2010",
+        "descricao": "conforme Lei Municipal nº 5146 de 07/01/2010",
+        "uf": "RJ",
+        "codigo_ibge": 3304557
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 5146 de 07/01/2010",
         "uf": "RJ",
         "codigo_ibge": 3304557
     },
@@ -45619,15 +45971,31 @@
         "data": "10/01/2026",
         "nome": "São Gonçalo",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de São Gonçalo",
+        "descricao": "Dia do Padroeiro da Cidade, conforme Lei Municipal nº 434 de 20/03/2012",
+        "uf": "RJ",
+        "codigo_ibge": 3304904
+    },
+    {
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
+        "tipo": "MUNICIPAL",
+        "descricao": "Feriado religioso móvel, conforme Lei Municipal nº 434 de 20/03/2012",
+        "uf": "RJ",
+        "codigo_ibge": 3304904
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "Feriado religioso móvel, conforme Lei Municipal nº 434 de 20/03/2012",
         "uf": "RJ",
         "codigo_ibge": 3304904
     },
     {
         "data": "22/09/2026",
-        "nome": "Feriado Municipal",
+        "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
-        "descricao": "",
+        "descricao": "Aniversário de Emancipação Político-Administrativa do Município, conforme Lei Municipal nº 434 de 20/03/2012",
         "uf": "RJ",
         "codigo_ibge": 3304904
     },
@@ -46603,7 +46971,23 @@
         "data": "06/01/2026",
         "nome": "Dia de Santos Reis",
         "tipo": "MUNICIPAL",
-        "descricao": " conforme o Decreto n.º 10.599 de 09 de janeiro de 2015",
+        "descricao": "conforme Lei Municipal nº 245 de 03/01/1974",
+        "uf": "RN",
+        "codigo_ibge": 2408102
+    },
+    {
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 245 de 03/01/1974",
+        "uf": "RN",
+        "codigo_ibge": 2408102
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 245 de 03/01/1974",
         "uf": "RN",
         "codigo_ibge": 2408102
     },
@@ -46611,7 +46995,7 @@
         "data": "21/11/2026",
         "nome": "Dia de Nossa Senhora da Apresentação",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme o Decreto n.º 10.599 de 09 de janeiro de 2015",
+        "descricao": "conforme Lei Municipal nº 245 de 03/01/1974",
         "uf": "RN",
         "codigo_ibge": 2408102
     },
@@ -47259,7 +47643,7 @@
         "data": "24/01/2026",
         "nome": "São Francisco de Sales",
         "tipo": "MUNICIPAL",
-        "descricao": "Consagrado ao Culto a São Francisco de Sales – Instalação do Município de Porto Velho",
+        "descricao": "Instalação do Município de Porto Velho, conforme Lei Municipal nº 190 de 14/10/1980",
         "uf": "RO",
         "codigo_ibge": 1100205
     },
@@ -47267,7 +47651,7 @@
         "data": "03/04/2026",
         "nome": "Paixão de Cristo",
         "tipo": "MUNICIPAL",
-        "descricao": "Paixão de Cristo",
+        "descricao": "Feriado religioso móvel, conforme Lei Municipal nº 190 de 14/10/1980",
         "uf": "RO",
         "codigo_ibge": 1100205
     },
@@ -47275,7 +47659,7 @@
         "data": "24/05/2026",
         "nome": "Nossa Senhora Auxiliadora",
         "tipo": "MUNICIPAL",
-        "descricao": "Consagrado à Nossa Senhora Auxiliadora, Padroeira do município, segundo a Lei nº 190, de 14 de outubro de 1980",
+        "descricao": "Dia de Nossa Senhora Auxiliadora, Padroeira do Município, conforme Lei Municipal nº 190 de 14/10/1980",
         "uf": "RO",
         "codigo_ibge": 1100205
     },
@@ -47283,15 +47667,15 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
+        "descricao": "Feriado religioso móvel, conforme Lei Municipal nº 190 de 14/10/1980",
         "uf": "RO",
         "codigo_ibge": 1100205
     },
     {
         "data": "02/10/2026",
-        "nome": "Aniversário",
+        "nome": "Criação do Município de Porto Velho",
         "tipo": "MUNICIPAL",
-        "descricao": "Consagrado ao tríduo à Santa Terezinha do Menino Jesus, padroeira das missões – Criação do município de Porto Velho",
+        "descricao": "Dia consagrado à Criação do Município de Porto Velho, conforme Lei Municipal nº 190 de 14/10/1980",
         "uf": "RO",
         "codigo_ibge": 1100205
     },
@@ -48553,9 +48937,33 @@
     },
     {
         "data": "02/02/2026",
-        "nome": "Feriado Municipal",
+        "nome": "Nossa Senhora dos Navegantes",
         "tipo": "MUNICIPAL",
-        "descricao": "Feriado Municipal",
+        "descricao": "conforme Lei Municipal nº 1.159 de 31/01/1967",
+        "uf": "RS",
+        "codigo_ibge": 4304606
+    },
+    {
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 1.159 de 31/01/1967",
+        "uf": "RS",
+        "codigo_ibge": 4304606
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 1.159 de 31/01/1967",
+        "uf": "RS",
+        "codigo_ibge": 4304606
+    },
+    {
+        "data": "27/06/2026",
+        "nome": "Dia do Município",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 1.159 de 31/01/1967",
         "uf": "RS",
         "codigo_ibge": 4304606
     },
@@ -48648,10 +49056,26 @@
         "codigo_ibge": 4304903
     },
     {
-        "data": "26/05/2026",
-        "nome": "Feriado Municipal",
+        "data": "03/04/2026",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "Feriado Municipal",
+        "descricao": "conforme Lei Municipal nº 1.705 de 16/05/1968",
+        "uf": "RS",
+        "codigo_ibge": 4305108
+    },
+    {
+        "data": "26/05/2026",
+        "nome": "Nossa Senhora de Caravaggio",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 6.046 de 26/05/2003",
+        "uf": "RS",
+        "codigo_ibge": 4305108
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 1.705 de 16/05/1968",
         "uf": "RS",
         "codigo_ibge": 4305108
     },
@@ -49608,10 +50032,26 @@
         "codigo_ibge": 4309001
     },
     {
-        "data": "02/08/2026",
-        "nome": "Feriado Municipal",
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "Feriado Municipal",
+        "descricao": "conforme Lei Municipal nº 3.125 de 03/11/2011",
+        "uf": "RS",
+        "codigo_ibge": 4309209
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 3.125 de 03/11/2011",
+        "uf": "RS",
+        "codigo_ibge": 4309209
+    },
+    {
+        "data": "02/08/2026",
+        "nome": "Nossa Senhora dos Anjos",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 3.125 de 03/11/2011",
         "uf": "RS",
         "codigo_ibge": 4309209
     },
@@ -50664,26 +51104,18 @@
         "codigo_ibge": 4313391
     },
     {
-        "data": "05/04/2026",
-        "nome": "Aniversário",
-        "tipo": "MUNICIPAL",
-        "descricao": "Emancipação do Município de Novo Hamburgo",
-        "uf": "RS",
-        "codigo_ibge": 4313409
-    },
-    {
         "data": "03/04/2026",
         "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-feira da Paixão",
+        "descricao": "conforme Lei Municipal nº 162 de 31/08/1959",
         "uf": "RS",
         "codigo_ibge": 4313409
     },
     {
-        "data": "13/05/2026",
+        "data": "14/05/2026",
         "nome": "Ascensão do Senhor",
         "tipo": "MUNICIPAL",
-        "descricao": "Ascensão do Senhor",
+        "descricao": "conforme Lei Municipal nº 162 de 31/08/1959",
         "uf": "RS",
         "codigo_ibge": 4313409
     },
@@ -50691,7 +51123,15 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
+        "descricao": "conforme Lei Municipal nº 162 de 31/08/1959",
+        "uf": "RS",
+        "codigo_ibge": 4313409
+    },
+    {
+        "data": "31/10/2026",
+        "nome": "Dia da Reforma",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 162 de 31/08/1959",
         "uf": "RS",
         "codigo_ibge": 4313409
     },
@@ -51043,7 +51483,7 @@
         "data": "02/02/2026",
         "nome": "Nossa Senhora dos Navegantes",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme a Lei nº 4453, de 18 de setembro de 1978",
+        "descricao": "conforme Lei Municipal nº 4453 de 18/09/1978",
         "uf": "RS",
         "codigo_ibge": 4314902
     },
@@ -51051,7 +51491,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme a Lei nº 4453, de 18 de setembro de 1978",
+        "descricao": "conforme Lei Municipal nº 4453 de 18/09/1978",
         "uf": "RS",
         "codigo_ibge": 4314902
     },
@@ -51059,7 +51499,7 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme a Lei nº 4453, de 18 de setembro de 1978",
+        "descricao": "conforme Lei Municipal nº 4453 de 18/09/1978",
         "uf": "RS",
         "codigo_ibge": 4314902
     },
@@ -53120,18 +53560,18 @@
         "codigo_ibge": 4201604
     },
     {
-        "data": "07/04/2026",
-        "nome": "Aniversário da Cidade",
-        "tipo": "MUNICIPAL",
-        "descricao": "Aniversário de Ascurra, lei 915/2002",
-        "uf": "SC",
-        "codigo_ibge": 4201703
-    },
-    {
         "data": "03/04/2026",
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-Feria Santa",
+        "uf": "SC",
+        "codigo_ibge": 4201703
+    },
+    {
+        "data": "07/04/2026",
+        "nome": "Aniversário da Cidade",
+        "tipo": "MUNICIPAL",
+        "descricao": "Aniversário de Ascurra, lei 915/2002",
         "uf": "SC",
         "codigo_ibge": 4201703
     },
@@ -53267,7 +53707,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-Feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-Feira Santa",
+        "descricao": "conforme Lei Municipal nº 1.222 de 14/02/1964",
         "uf": "SC",
         "codigo_ibge": 4202404
     },
@@ -53275,7 +53715,7 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
+        "descricao": "conforme Lei Municipal nº 1.222 de 14/02/1964",
         "uf": "SC",
         "codigo_ibge": 4202404
     },
@@ -53283,7 +53723,15 @@
         "data": "02/09/2026",
         "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
-        "descricao": "Fundação de Blumenau",
+        "descricao": "conforme Lei Municipal nº 1.222 de 14/02/1964",
+        "uf": "SC",
+        "codigo_ibge": 4202404
+    },
+    {
+        "data": "31/10/2026",
+        "nome": "Dia da Reforma",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 5.564 de 11/12/2000",
         "uf": "SC",
         "codigo_ibge": 4202404
     },
@@ -53472,18 +53920,18 @@
         "codigo_ibge": 4203105
     },
     {
-        "data": "05/04/2026",
-        "nome": "Aniversário da Cidade",
-        "tipo": "MUNICIPAL",
-        "descricao": "Aniversário da Cidade de Camboriu",
-        "uf": "SC",
-        "codigo_ibge": 4203204
-    },
-    {
         "data": "03/04/2026",
         "nome": "Sexta-Feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-Feira Santa",
+        "uf": "SC",
+        "codigo_ibge": 4203204
+    },
+    {
+        "data": "05/04/2026",
+        "nome": "Aniversário da Cidade",
+        "tipo": "MUNICIPAL",
+        "descricao": "Aniversário da Cidade de Camboriu",
         "uf": "SC",
         "codigo_ibge": 4203204
     },
@@ -53875,7 +54323,7 @@
         "data": "23/03/2026",
         "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
-        "descricao": "Emancipação política do Município",
+        "descricao": "Comemoração ao Aniversário de Florianópolis, conforme Lei Municipal nº 10.306 de 24/11/2017",
         "uf": "SC",
         "codigo_ibge": 4205407
     },
@@ -53883,7 +54331,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-Feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-Feira Santa",
+        "descricao": "Sexta-feira da Paixão, conforme Lei Municipal nº 10.306 de 24/11/2017",
         "uf": "SC",
         "codigo_ibge": 4205407
     },
@@ -53891,7 +54339,15 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
+        "descricao": "Corpus Christi, conforme Lei Municipal nº 10.306 de 24/11/2017",
+        "uf": "SC",
+        "codigo_ibge": 4205407
+    },
+    {
+        "data": "25/11/2026",
+        "nome": "Dia de Santa Catarina de Alexandria",
+        "tipo": "MUNICIPAL",
+        "descricao": "Dia de Santa Catarina de Alexandria, Padroeira do Município, conforme Lei Municipal nº 10.306 de 24/11/2017",
         "uf": "SC",
         "codigo_ibge": 4205407
     },
@@ -54347,15 +54803,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-feira Santa",
-        "uf": "SC",
-        "codigo_ibge": 4208203
-    },
-    {
-        "data": "15/06/2026",
-        "nome": "Aniversário",
-        "tipo": "MUNICIPAL",
-        "descricao": "dia do Município de Itajaí",
+        "descricao": "Data móvel religiosa que celebra a Paixão de Cristo, conforme Lei Municipal nº 3.064 de 16/05/1996",
         "uf": "SC",
         "codigo_ibge": 4208203
     },
@@ -54363,7 +54811,23 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Padroeiro de Itajaí",
+        "descricao": "Data móvel religiosa que celebra o Sacramento da Eucaristia, conforme Lei Municipal nº 3.064 de 16/05/1996",
+        "uf": "SC",
+        "codigo_ibge": 4208203
+    },
+    {
+        "data": "15/06/2026",
+        "nome": "Aniversário do Município",
+        "tipo": "MUNICIPAL",
+        "descricao": "Data magna que celebra a emancipação político-administrativa de Itajaí, conforme Art. 3º da Lei Orgânica Municipal e Lei Municipal nº 3.064 de 16/05/1996",
+        "uf": "SC",
+        "codigo_ibge": 4208203
+    },
+    {
+        "data": "08/12/2026",
+        "nome": "Nossa Senhora da Imaculada Conceição",
+        "tipo": "MUNICIPAL",
+        "descricao": "Dia da Padroeira do Município de Itajaí, conforme Lei Municipal nº 3.064 de 16/05/1996",
         "uf": "SC",
         "codigo_ibge": 4208203
     },
@@ -54515,15 +54979,15 @@
         "data": "09/03/2026",
         "nome": "Aniversário da fundação da cidade",
         "tipo": "MUNICIPAL",
-        "descricao": "Aniversário da fundação da cidade",
+        "descricao": "conforme Lei Municipal nº 733 de 22/06/1965",
         "uf": "SC",
         "codigo_ibge": 4209102
     },
     {
         "data": "03/04/2026",
-        "nome": "Sexta-feira Santa",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-feira Santa",
+        "descricao": "conforme Lei Municipal nº 844 de 10/05/1967",
         "uf": "SC",
         "codigo_ibge": 4209102
     },
@@ -54531,7 +54995,15 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "",
+        "descricao": "conforme Lei Municipal nº 844 de 10/05/1967",
+        "uf": "SC",
+        "codigo_ibge": 4209102
+    },
+    {
+        "data": "08/12/2026",
+        "nome": "Imaculada Conceição",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 844 de 10/05/1967",
         "uf": "SC",
         "codigo_ibge": 4209102
     },
@@ -58496,18 +58968,34 @@
         "codigo_ibge": 3505609
     },
     {
+        "data": "26/03/2026",
+        "nome": "Emancipação Político-Administrativa de Barueri",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 354 de 16/03/1982",
+        "uf": "SP",
+        "codigo_ibge": 3505708
+    },
+    {
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 354 de 16/03/1982",
+        "uf": "SP",
+        "codigo_ibge": 3505708
+    },
+    {
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
+        "descricao": "conforme Lei Municipal nº 354 de 16/03/1982",
         "uf": "SP",
         "codigo_ibge": 3505708
     },
     {
         "data": "24/06/2026",
-        "nome": "Padroeiro",
+        "nome": "São João Batista (Padroeiro)",
         "tipo": "MUNICIPAL",
-        "descricao": "São João Batista",
+        "descricao": "conforme Lei Municipal nº 354 de 16/03/1982",
         "uf": "SP",
         "codigo_ibge": 3505708
     },
@@ -58544,18 +59032,26 @@
         "codigo_ibge": 3505906
     },
     {
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 1.401 de 16/08/1968",
+        "uf": "SP",
+        "codigo_ibge": 3506003
+    },
+    {
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
+        "descricao": "conforme Lei Municipal nº 1.401 de 16/08/1968",
         "uf": "SP",
         "codigo_ibge": 3506003
     },
     {
         "data": "01/08/2026",
-        "nome": "Aniversário",
+        "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
-        "descricao": "Aniversário da Cidade",
+        "descricao": "conforme Lei Municipal nº 1.401 de 16/08/1968",
         "uf": "SP",
         "codigo_ibge": 3506003
     },
@@ -58760,18 +59256,18 @@
         "codigo_ibge": 3507407
     },
     {
-        "data": "14/04/2026",
-        "nome": "Aniversário da Cidade",
-        "tipo": "MUNICIPAL",
-        "descricao": "Aniversário da Cidade",
-        "uf": "SP",
-        "codigo_ibge": 3507506
-    },
-    {
         "data": "03/04/2026",
         "nome": "Sexta-Feira Santa",
         "tipo": "MUNICIPAL",
         "descricao": "Sexta-Feira Santa",
+        "uf": "SP",
+        "codigo_ibge": 3507506
+    },
+    {
+        "data": "14/04/2026",
+        "nome": "Aniversário da Cidade",
+        "tipo": "MUNICIPAL",
+        "descricao": "Aniversário da Cidade",
         "uf": "SP",
         "codigo_ibge": 3507506
     },
@@ -59147,7 +59643,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei Municipal no 173, de 28 de junho de 1949",
+        "descricao": "conforme Lei Municipal nº 173, de 28 de junho de 1949",
         "uf": "SP",
         "codigo_ibge": 3509502
     },
@@ -59155,15 +59651,15 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei Municipal no 173, de 28 de junho de 1949",
+        "descricao": "conforme Lei Municipal nº 173, de 28 de junho de 1949",
         "uf": "SP",
         "codigo_ibge": 3509502
     },
     {
         "data": "08/12/2026",
-        "nome": "N. Sra da Conceição",
+        "nome": "Nossa Senhora da Conceição",
         "tipo": "MUNICIPAL",
-        "descricao": "Padroeira de Campinas, Lei Municipal no 173, de 28 de junho de 1949",
+        "descricao": "conforme Lei Municipal nº 173, de 28 de junho de 1949",
         "uf": "SP",
         "codigo_ibge": 3509502
     },
@@ -59744,18 +60240,34 @@
         "codigo_ibge": 3513108
     },
     {
-        "data": "28/07/2026",
-        "nome": "Feriado Municipal",
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "",
+        "descricao": "conforme Lei Municipal nº 1.488 de 14/06/2005",
+        "uf": "SP",
+        "codigo_ibge": 3513207
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 1.488 de 14/06/2005",
+        "uf": "SP",
+        "codigo_ibge": 3513207
+    },
+    {
+        "data": "28/07/2026",
+        "nome": "Aniversário do Município",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 1.488 de 14/06/2005",
         "uf": "SP",
         "codigo_ibge": 3513207
     },
     {
         "data": "15/08/2026",
-        "nome": "Feriado Municipal",
+        "nome": "Dia de Nossa Senhora da Abadia",
         "tipo": "MUNICIPAL",
-        "descricao": "",
+        "descricao": "conforme Lei Municipal nº 1.488 de 14/06/2005",
         "uf": "SP",
         "codigo_ibge": 3513207
     },
@@ -60720,10 +61232,26 @@
         "codigo_ibge": 3518701
     },
     {
-        "data": "08/12/2026",
-        "nome": "Aniversário de Guarulhos",
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "",
+        "descricao": "conforme Lei Municipal nº 1.631 de 14/12/1970",
+        "uf": "SP",
+        "codigo_ibge": 3518800
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 1.631 de 14/12/1970",
+        "uf": "SP",
+        "codigo_ibge": 3518800
+    },
+    {
+        "data": "08/12/2026",
+        "nome": "Nossa Senhora da Conceição e Aniversário de Guarulhos",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 1.631 de 14/12/1970",
         "uf": "SP",
         "codigo_ibge": 3518800
     },
@@ -62024,10 +62552,26 @@
         "codigo_ibge": 3525854
     },
     {
-        "data": "15/08/2026",
-        "nome": "Feriado Municipal",
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "",
+        "descricao": "conforme Lei Municipal nº 2.102 de 31/12/1975",
+        "uf": "SP",
+        "codigo_ibge": 3525904
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 2.102 de 31/12/1975",
+        "uf": "SP",
+        "codigo_ibge": 3525904
+    },
+    {
+        "data": "15/08/2026",
+        "nome": "Dia de Nossa Senhora do Desterro",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 2.102 de 31/12/1975",
         "uf": "SP",
         "codigo_ibge": 3525904
     },
@@ -62136,18 +62680,18 @@
         "codigo_ibge": 3526704
     },
     {
-        "data": "17/06/2026",
-        "nome": "Dia de São Manoel",
-        "tipo": "MUNICIPAL",
-        "descricao": "Padroeiro do município",
-        "uf": "SP",
-        "codigo_ibge": 3526704
-    },
-    {
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
         "descricao": "Corpus Christi",
+        "uf": "SP",
+        "codigo_ibge": 3526704
+    },
+    {
+        "data": "17/06/2026",
+        "nome": "Dia de São Manoel",
+        "tipo": "MUNICIPAL",
+        "descricao": "Padroeiro do município",
         "uf": "SP",
         "codigo_ibge": 3526704
     },
@@ -62176,10 +62720,26 @@
         "codigo_ibge": 3526803
     },
     {
-        "data": "15/09/2026",
-        "nome": "Feriado Municipal",
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "Feriado Municipal",
+        "descricao": "conforme Lei Municipal nº 4.901 de 04/12/2012",
+        "uf": "SP",
+        "codigo_ibge": 3526902
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 4.901 de 04/12/2012",
+        "uf": "SP",
+        "codigo_ibge": 3526902
+    },
+    {
+        "data": "15/09/2026",
+        "nome": "Dia da Padroeira Nossa Senhora das Dores",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 4.901 de 04/12/2012",
         "uf": "SP",
         "codigo_ibge": 3526902
     },
@@ -62216,18 +62776,18 @@
         "codigo_ibge": 3527108
     },
     {
-        "data": "13/06/2026",
-        "nome": "Padroeiro",
-        "tipo": "MUNICIPAL",
-        "descricao": "Dia de Santo Antônio",
-        "uf": "SP",
-        "codigo_ibge": 3527108
-    },
-    {
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
         "descricao": "Corpus Christi",
+        "uf": "SP",
+        "codigo_ibge": 3527108
+    },
+    {
+        "data": "13/06/2026",
+        "nome": "Padroeiro",
+        "tipo": "MUNICIPAL",
+        "descricao": "Dia de Santo Antônio",
         "uf": "SP",
         "codigo_ibge": 3527108
     },
@@ -62763,7 +63323,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-feira Santa",
+        "descricao": "conforme Lei Municipal nº 3.125 de 16/12/1986",
         "uf": "SP",
         "codigo_ibge": 3530607
     },
@@ -62771,23 +63331,23 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "",
+        "descricao": "conforme Lei Municipal nº 3.125 de 16/12/1986",
         "uf": "SP",
         "codigo_ibge": 3530607
     },
     {
         "data": "26/07/2026",
-        "nome": "Padroeira",
+        "nome": "Nossa Senhora de Sant'Ana",
         "tipo": "MUNICIPAL",
-        "descricao": "Nossa Senhora de SantAna, padroeira da Cidade",
+        "descricao": "conforme Lei Municipal nº 3.125 de 16/12/1986",
         "uf": "SP",
         "codigo_ibge": 3530607
     },
     {
         "data": "01/09/2026",
-        "nome": "Aniversário da cidade",
+        "nome": "Aniversário de Mogi das Cruzes",
         "tipo": "MUNICIPAL",
-        "descricao": "Aniversário de fundação da cidade",
+        "descricao": "conforme Lei Municipal nº 1.585 de 03/09/1966",
         "uf": "SP",
         "codigo_ibge": 3530607
     },
@@ -63403,7 +63963,7 @@
         "data": "19/02/2026",
         "nome": "Emancipação de Osasco",
         "tipo": "MUNICIPAL",
-        "descricao": "Aniversário da Emancipação do Município",
+        "descricao": "conforme Lei Municipal nº 1.121 de 16/05/1972",
         "uf": "SP",
         "codigo_ibge": 3534401
     },
@@ -63411,7 +63971,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Decreto 10.933, de 20 de dezembro de 2013",
+        "descricao": "conforme Lei Municipal nº 1.121 de 16/05/1972",
         "uf": "SP",
         "codigo_ibge": 3534401
     },
@@ -63419,7 +63979,7 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Decreto 10.933, de 20 de dezembro de 2013",
+        "descricao": "conforme Lei Municipal nº 1.121 de 16/05/1972",
         "uf": "SP",
         "codigo_ibge": 3534401
     },
@@ -63427,7 +63987,7 @@
         "data": "13/06/2026",
         "nome": "Dia de Santo Antônio",
         "tipo": "MUNICIPAL",
-        "descricao": "Padroeiro de Osasco",
+        "descricao": "conforme Lei Municipal nº 1.121 de 16/05/1972",
         "uf": "SP",
         "codigo_ibge": 3534401
     },
@@ -64096,18 +64656,34 @@
         "codigo_ibge": 3538600
     },
     {
+        "data": "03/04/2026",
+        "nome": "Sexta-Feira Santa",
+        "tipo": "MUNICIPAL",
+        "descricao": "Data móvel religiosa, conforme Lei Municipal nº 1.459 de 17/11/1966",
+        "uf": "SP",
+        "codigo_ibge": 3538709
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "Data móvel religiosa, conforme Lei Municipal nº 1.459 de 17/11/1966",
+        "uf": "SP",
+        "codigo_ibge": 3538709
+    },
+    {
         "data": "13/06/2026",
         "nome": "Dia de Santo Antônio",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de Santo Antônio",
+        "descricao": "Padroeiro da cidade, conforme Lei Municipal nº 1.459 de 17/11/1966",
         "uf": "SP",
         "codigo_ibge": 3538709
     },
     {
         "data": "08/12/2026",
-        "nome": "Feriado Municipal",
+        "nome": "Imaculada Conceição",
         "tipo": "MUNICIPAL",
-        "descricao": "Feriado Municipal",
+        "descricao": "Dia de Nossa Senhora da Conceição, conforme Lei Municipal nº 1.459 de 17/11/1966",
         "uf": "SP",
         "codigo_ibge": 3538709
     },
@@ -64480,10 +65056,34 @@
         "codigo_ibge": 3540903
     },
     {
-        "data": "29/06/2026",
-        "nome": "Feriado Municipal",
+        "data": "19/01/2026",
+        "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
-        "descricao": "Feriado Municipal",
+        "descricao": "Emancipação Político-Administrativa do Município, conforme Lei Municipal nº 701 de 18/06/1991",
+        "uf": "SP",
+        "codigo_ibge": 3541000
+    },
+    {
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
+        "tipo": "MUNICIPAL",
+        "descricao": "Feriado religioso móvel, conforme Lei Municipal nº 701 de 18/06/1991",
+        "uf": "SP",
+        "codigo_ibge": 3541000
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "Feriado religioso móvel, conforme Lei Municipal nº 701 de 18/06/1991",
+        "uf": "SP",
+        "codigo_ibge": 3541000
+    },
+    {
+        "data": "29/06/2026",
+        "nome": "Dia de São Pedro",
+        "tipo": "MUNICIPAL",
+        "descricao": "Feriado municipal em louvor a São Pedro, Padroeiro da Cidade, conforme Lei Municipal nº 701 de 18/06/1991",
         "uf": "SP",
         "codigo_ibge": 3541000
     },
@@ -64624,18 +65224,18 @@
         "codigo_ibge": 3541703
     },
     {
-        "data": "13/06/2026",
-        "nome": "Dia de Santo Antônio",
-        "tipo": "MUNICIPAL",
-        "descricao": "",
-        "uf": "SP",
-        "codigo_ibge": 3541703
-    },
-    {
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
         "descricao": "Corpus Christi",
+        "uf": "SP",
+        "codigo_ibge": 3541703
+    },
+    {
+        "data": "13/06/2026",
+        "nome": "Dia de Santo Antônio",
+        "tipo": "MUNICIPAL",
+        "descricao": "",
         "uf": "SP",
         "codigo_ibge": 3541703
     },
@@ -64680,18 +65280,18 @@
         "codigo_ibge": 3542206
     },
     {
-        "data": "13/06/2026",
-        "nome": "Santo Antônio",
-        "tipo": "MUNICIPAL",
-        "descricao": "Aniversário de Rancharia e dia de Santo Antônio, padroeiro",
-        "uf": "SP",
-        "codigo_ibge": 3542206
-    },
-    {
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
         "descricao": "Corpus Christi",
+        "uf": "SP",
+        "codigo_ibge": 3542206
+    },
+    {
+        "data": "13/06/2026",
+        "nome": "Santo Antônio",
+        "tipo": "MUNICIPAL",
+        "descricao": "Aniversário de Rancharia e dia de Santo Antônio, padroeiro",
         "uf": "SP",
         "codigo_ibge": 3542206
     },
@@ -64883,7 +65483,7 @@
         "data": "20/01/2026",
         "nome": "São Sebastião",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de São Sebastião, padroeiro da cidade, conforme Lei 11919/09 de 10/03/2009",
+        "descricao": "conforme Lei Municipal nº 11.919 de 10/03/2009",
         "uf": "SP",
         "codigo_ibge": 3543402
     },
@@ -64891,15 +65491,23 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei 11919/09 de 10/03/2009",
+        "descricao": "conforme Lei Municipal nº 11.919 de 10/03/2009",
+        "uf": "SP",
+        "codigo_ibge": 3543402
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 11.919 de 10/03/2009",
         "uf": "SP",
         "codigo_ibge": 3543402
     },
     {
         "data": "19/06/2026",
-        "nome": "Aniversário da cidade",
+        "nome": "Aniversário da Cidade e Dia de Santa Juliana Falconieri",
         "tipo": "MUNICIPAL",
-        "descricao": "Santa Juliana Falconieri",
+        "descricao": "conforme Lei Municipal nº 11.919 de 10/03/2009",
         "uf": "SP",
         "codigo_ibge": 3543402
     },
@@ -64947,7 +65555,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-Feira da Semana Santa",
+        "descricao": "Data móvel (Sexta-Feira da Paixão) conforme Lei Municipal nº 1.487 de 12/12/1977",
         "uf": "SP",
         "codigo_ibge": 3543907
     },
@@ -64955,15 +65563,15 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
+        "descricao": "Data móvel conforme Lei Municipal nº 1.487 de 12/12/1977",
         "uf": "SP",
         "codigo_ibge": 3543907
     },
     {
         "data": "24/06/2026",
-        "nome": "São João",
+        "nome": "São João Batista e Aniversário de Rio Claro",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de São João Batista",
+        "descricao": "Dia de São João Batista (Padroeiro) e Aniversário da Cidade conforme Lei Municipal nº 1.487 de 12/12/1977",
         "uf": "SP",
         "codigo_ibge": 3543907
     },
@@ -65176,18 +65784,34 @@
         "codigo_ibge": 3545308
     },
     {
-        "data": "15/09/2026",
-        "nome": "Feriado Municipal",
+        "data": "03/04/2026",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "",
+        "descricao": "conforme Lei Municipal nº 373 de 16/08/1971",
+        "uf": "SP",
+        "codigo_ibge": 3545407
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 373 de 16/08/1971",
+        "uf": "SP",
+        "codigo_ibge": 3545407
+    },
+    {
+        "data": "15/09/2026",
+        "nome": "Dia de Nossa Senhora do Patrocínio",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 373 de 16/08/1971",
         "uf": "SP",
         "codigo_ibge": 3545407
     },
     {
         "data": "27/12/2026",
-        "nome": "Feriado Municipal",
+        "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
-        "descricao": "",
+        "descricao": "conforme Lei Municipal nº 373 de 16/08/1971",
         "uf": "SP",
         "codigo_ibge": 3545407
     },
@@ -65480,18 +66104,18 @@
         "codigo_ibge": 3547700
     },
     {
-        "data": "08/04/2026",
-        "nome": "Aniversário da cidade",
+        "data": "03/04/2026",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "Aniversário da cidade",
+        "descricao": "conforme Lei Municipal nº 4.148 de 11/05/1973",
         "uf": "SP",
         "codigo_ibge": 3547809
     },
     {
-        "data": "03/04/2026",
-        "nome": "Sexta-feira Santa",
+        "data": "08/04/2026",
+        "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Decreto 16.465, DE 18 de dezembro de 2013",
+        "descricao": "conforme Lei Municipal nº 4.148 de 11/05/1973",
         "uf": "SP",
         "codigo_ibge": 3547809
     },
@@ -65499,7 +66123,7 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Decreto 16.465, DE 18 de dezembro de 2013",
+        "descricao": "conforme Lei Municipal nº 4.148 de 11/05/1973",
         "uf": "SP",
         "codigo_ibge": 3547809
     },
@@ -65633,9 +66257,9 @@
     },
     {
         "data": "03/04/2026",
-        "nome": "Sexta-feira santa",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-feira santa",
+        "descricao": "conforme Lei Municipal nº 2.241 de 13/08/1976",
         "uf": "SP",
         "codigo_ibge": 3548708
     },
@@ -65643,15 +66267,15 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Decreto 18.735 de 19 de dezembro de 2013",
+        "descricao": "conforme Lei Municipal nº 2.241 de 13/08/1976",
         "uf": "SP",
         "codigo_ibge": 3548708
     },
     {
         "data": "20/08/2026",
-        "nome": "Aniversário da cidade",
+        "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
-        "descricao": "Aniversário da cidade",
+        "descricao": "conforme Lei Municipal nº 2.241 de 13/08/1976",
         "uf": "SP",
         "codigo_ibge": 3548708
     },
@@ -65667,7 +66291,7 @@
         "data": "03/04/2026",
         "nome": "Paixão de Cristo",
         "tipo": "MUNICIPAL",
-        "descricao": "Paixão de Cristo",
+        "descricao": "conforme Lei Municipal nº 7.502 de 04/12/1974",
         "uf": "SP",
         "codigo_ibge": 3548906
     },
@@ -65675,23 +66299,23 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
+        "descricao": "conforme Lei Municipal nº 7.502 de 04/12/1974",
         "uf": "SP",
         "codigo_ibge": 3548906
     },
     {
         "data": "15/08/2026",
-        "nome": "N. Sra da Babilônia",
+        "nome": "Nossa Senhora da Babilônia",
         "tipo": "MUNICIPAL",
-        "descricao": "Nossa Senhora da Babilônia",
+        "descricao": "conforme Lei Municipal nº 7.502 de 04/12/1974",
         "uf": "SP",
         "codigo_ibge": 3548906
     },
     {
         "data": "04/11/2026",
-        "nome": "Aniversário",
+        "nome": "Aniversário de São Carlos",
         "tipo": "MUNICIPAL",
-        "descricao": "Aniversário de São Carlos",
+        "descricao": "conforme Lei Municipal nº 7.502 de 04/12/1974",
         "uf": "SP",
         "codigo_ibge": 3548906
     },
@@ -65795,7 +66419,7 @@
         "data": "19/03/2026",
         "nome": "São José",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de São José",
+        "descricao": "Dia de São José (Padroeiro e Aniversário da Cidade), conforme Lei Municipal nº 1.227 de 31/01/1967",
         "uf": "SP",
         "codigo_ibge": 3549805
     },
@@ -65803,7 +66427,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-Feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-Feira Santa",
+        "descricao": "Sexta-Feira da Paixão, conforme Lei Municipal nº 1.227 de 31/01/1967",
         "uf": "SP",
         "codigo_ibge": 3549805
     },
@@ -65811,7 +66435,7 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
+        "descricao": "Corpus Christi, conforme Lei Municipal nº 1.227 de 31/01/1967",
         "uf": "SP",
         "codigo_ibge": 3549805
     },
@@ -65819,15 +66443,15 @@
         "data": "08/12/2026",
         "nome": "Imaculada Conceição",
         "tipo": "MUNICIPAL",
-        "descricao": "Imaculada Conceição",
+        "descricao": "Dia da Imaculada Conceição, conforme Lei Municipal nº 1.227 de 31/01/1967",
         "uf": "SP",
         "codigo_ibge": 3549805
     },
     {
         "data": "19/03/2026",
-        "nome": "Dia de São José, Padroeiro da Cidade - Lei 2.096, de 30/11/2012",
+        "nome": "Dia de São José - Padroeiro de São José dos Campos",
         "tipo": "MUNICIPAL",
-        "descricao": "De acordo com a Lei nº 8821, de 27/11/2012",
+        "descricao": "conforme Lei Municipal nº 8.821 de 27/11/2012",
         "uf": "SP",
         "codigo_ibge": 3549904
     },
@@ -65835,7 +66459,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-feira Santa",
+        "descricao": "conforme Lei Municipal nº 1.324 de 23/02/1967",
         "uf": "SP",
         "codigo_ibge": 3549904
     },
@@ -65843,15 +66467,15 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "",
+        "descricao": "conforme Lei Municipal nº 1.324 de 23/02/1967",
         "uf": "SP",
         "codigo_ibge": 3549904
     },
     {
         "data": "27/07/2026",
-        "nome": "Data de Fundação da Cidade - Lei 1324, DE 23/02/1967",
+        "nome": "Aniversário de São José dos Campos",
         "tipo": "MUNICIPAL",
-        "descricao": "https://www.leismunicipais.com.br/a/sp/s/sao-jose-dos-campos/lei-ordinaria/1967/132/1324/lei-ordinaria-n-1324-1967-dispoe-sobre-os-feriados-locais.html",
+        "descricao": "conforme Lei Municipal nº 1.324 de 23/02/1967",
         "uf": "SP",
         "codigo_ibge": 3549904
     },
@@ -65939,7 +66563,7 @@
         "data": "25/01/2026",
         "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 14.485 de 19 de julho de 2007",
+        "descricao": "conforme Lei Municipal nº 14.485 de 19 de julho de 2007",
         "uf": "SP",
         "codigo_ibge": 3550308
     },
@@ -65947,7 +66571,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 14.485 de 19 de julho de 2007",
+        "descricao": "conforme Lei Municipal nº 14.485 de 19 de julho de 2007",
         "uf": "SP",
         "codigo_ibge": 3550308
     },
@@ -65955,7 +66579,15 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 14.485 de 19 de julho de 2007",
+        "descricao": "conforme Lei Municipal nº 14.485 de 19 de julho de 2007",
+        "uf": "SP",
+        "codigo_ibge": 3550308
+    },
+    {
+        "data": "20/11/2026",
+        "nome": "Dia da Consciência Negra",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 14.485 de 19 de julho de 2007",
         "uf": "SP",
         "codigo_ibge": 3550308
     },
@@ -66041,17 +66673,17 @@
     },
     {
         "data": "22/01/2026",
-        "nome": "Aniversário da Cidade",
+        "nome": "Aniversário da Fundação de São Vicente",
         "tipo": "MUNICIPAL",
-        "descricao": "Aniversário da Fundação de São Vicente, conforme Lei Municipal 1.332/67",
+        "descricao": "conforme Lei Municipal nº 1.332 de 08/06/1967",
         "uf": "SP",
         "codigo_ibge": 3551009
     },
     {
         "data": "03/04/2026",
-        "nome": "Sexta-feira Santa",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-Feria Santa, conforme Lei Municipal 1.332/67",
+        "descricao": "conforme Lei Municipal nº 1.332 de 08/06/1967",
         "uf": "SP",
         "codigo_ibge": 3551009
     },
@@ -66059,7 +66691,7 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi, conforme Lei Municipal 1.332/67",
+        "descricao": "conforme Lei Municipal nº 1.332 de 08/06/1967",
         "uf": "SP",
         "codigo_ibge": 3551009
     },
@@ -66240,18 +66872,26 @@
         "codigo_ibge": 3552106
     },
     {
+        "data": "03/04/2026",
+        "nome": "Sexta-Feira da Paixão",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 1.439 de 11/11/1966",
+        "uf": "SP",
+        "codigo_ibge": 3552205
+    },
+    {
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
+        "descricao": "conforme Lei Municipal nº 1.439 de 11/11/1966",
         "uf": "SP",
         "codigo_ibge": 3552205
     },
     {
         "data": "15/08/2026",
-        "nome": "Aniversário",
+        "nome": "Fundação de Sorocaba e Dia de Nossa Senhora da Ponte",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de Nossa Senhora da Ponte/Aniversário de Sorocaba",
+        "descricao": "conforme Lei Municipal nº 1.439 de 11/11/1966",
         "uf": "SP",
         "codigo_ibge": 3552205
     },
@@ -66275,15 +66915,15 @@
         "data": "20/01/2026",
         "nome": "Dia de São Sebastião, padroeiro da Cidade",
         "tipo": "MUNICIPAL",
-        "descricao": "http://leismunicipa.is/tgpch",
+        "descricao": "conforme Lei Municipal nº 782 de 25/05/1967",
         "uf": "SP",
         "codigo_ibge": 3552502
     },
     {
         "data": "02/04/2026",
-        "nome": "Feriado Municipal",
+        "nome": "Emancipação Político-Administrativa de Suzano",
         "tipo": "MUNICIPAL",
-        "descricao": "Feriado Municipal",
+        "descricao": "conforme Lei Municipal nº 782 de 25/05/1967",
         "uf": "SP",
         "codigo_ibge": 3552502
     },
@@ -66291,7 +66931,7 @@
         "data": "03/04/2026",
         "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Decreto Municipal nº 8652 de 06 de janeiro de 2015",
+        "descricao": "conforme Lei Municipal nº 782 de 25/05/1967",
         "uf": "SP",
         "codigo_ibge": 3552502
     },
@@ -66299,7 +66939,7 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Decreto Municipal nº 8652 de 06 de janeiro de 2015",
+        "descricao": "conforme Lei Municipal nº 782 de 25/05/1967",
         "uf": "SP",
         "codigo_ibge": 3552502
     },
@@ -66313,17 +66953,17 @@
     },
     {
         "data": "19/02/2026",
-        "nome": "Aniversário da cidade",
+        "nome": "Aniversário da Cidade",
         "tipo": "MUNICIPAL",
-        "descricao": "Emancipação do Município",
+        "descricao": "Feriado civil de comemoração da emancipação político-administrativa do município, conforme Lei Municipal nº 191 de 19/02/1963.",
         "uf": "SP",
         "codigo_ibge": 3552809
     },
     {
         "data": "03/04/2026",
-        "nome": "Sexta-feira santa",
+        "nome": "Sexta-feira Santa",
         "tipo": "MUNICIPAL",
-        "descricao": "Sexta-feira santa",
+        "descricao": "Feriado religioso municipal conforme Lei Municipal nº 495 de 22/03/1974.",
         "uf": "SP",
         "codigo_ibge": 3552809
     },
@@ -66331,15 +66971,15 @@
         "data": "04/06/2026",
         "nome": "Corpus Christi",
         "tipo": "MUNICIPAL",
-        "descricao": "Corpus Christi",
+        "descricao": "Feriado religioso municipal conforme Lei Municipal nº 495 de 22/03/1974.",
         "uf": "SP",
         "codigo_ibge": 3552809
     },
     {
         "data": "01/10/2026",
-        "nome": "Amor Misericordioso",
+        "nome": "Dia do Amor Misericordioso de Deus",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia do Amor Misericordioso de Deus, de acordo com a lei 051/2015.",
+        "descricao": "Feriado religioso municipal conforme Lei Municipal nº 2225 de 18/05/2015.",
         "uf": "SP",
         "codigo_ibge": 3552809
     },
@@ -67627,15 +68267,15 @@
         "data": "19/03/2026",
         "nome": "São José",
         "tipo": "MUNICIPAL",
-        "descricao": "Dia de São José, Padroeiro de Palmas, conforme Lei nº 577/96, de 02 de abril de 1996",
+        "descricao": "conforme Lei Municipal nº 577 de 02/04/1996",
         "uf": "TO",
         "codigo_ibge": 1721000
     },
     {
         "data": "03/04/2026",
-        "nome": "Sexta-feira Santa",
+        "nome": "Sexta-feira da Paixão",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 577/96, de 02 de abril de 1996",
+        "descricao": "conforme Lei Municipal nº 577 de 02/04/1996",
         "uf": "TO",
         "codigo_ibge": 1721000
     },
@@ -67643,7 +68283,31 @@
         "data": "20/05/2026",
         "nome": "Aniversário de Palmas",
         "tipo": "MUNICIPAL",
-        "descricao": "conforme Lei nº 108 de 15 de maio de 1991",
+        "descricao": "conforme Lei Municipal nº 108 de 15/05/1991",
+        "uf": "TO",
+        "codigo_ibge": 1721000
+    },
+    {
+        "data": "04/06/2026",
+        "nome": "Corpus Christi",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 577 de 02/04/1996",
+        "uf": "TO",
+        "codigo_ibge": 1721000
+    },
+    {
+        "data": "08/09/2026",
+        "nome": "Nossa Senhora da Natividade",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 577 de 02/04/1996",
+        "uf": "TO",
+        "codigo_ibge": 1721000
+    },
+    {
+        "data": "30/11/2026",
+        "nome": "Dia do Evangélico",
+        "tipo": "MUNICIPAL",
+        "descricao": "conforme Lei Municipal nº 1254 de 24/11/2003",
         "uf": "TO",
         "codigo_ibge": 1721000
     },
