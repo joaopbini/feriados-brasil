@@ -224,7 +224,7 @@
 08/09/2094,Feriado Municipal,MUNICIPAL,,AM,1302405
 16/07/2094,Feriado Municipal,MUNICIPAL,Feriado Municipal,AM,1302504
 16/02/2094,Carnaval,MUNICIPAL,Carnaval,AM,1302603
-05/03/2094,Quarta-feira de cinzas,MUNICIPAL,Feriado na quarta-feira de cinzas até às 12 (doze) horas.,AM,1302603
+17/02/2094,Quarta-feira de cinzas,MUNICIPAL,Feriado na quarta-feira de cinzas até às 12 (doze) horas.,AM,1302603
 24/10/2094,Aniversário de Manaus,MUNICIPAL,"Dia em que se comemora a elevação de Manaus à categoria de cidade, conforme Lei Municipal nº 495 de 06/01/2020",AM,1302603
 15/05/2094,Feriado Municipal,MUNICIPAL,,AM,1302702
 15/08/2094,Feriado Municipal,MUNICIPAL,,AM,1302702
@@ -395,7 +395,7 @@
 10/01/2094,Feriado Municipal,MUNICIPAL,,BA,2905107
 08/04/2094,Feriado Municipal,MUNICIPAL,,BA,2905107
 05/04/2094,Emancipação do Município,MUNICIPAL,Emancipação Política do Município de Caetité,BA,2905206
-12/07/2094,Anísio Teixeira,MUNICIPAL, Nascimento do Educador Anísio Teixeira,BA,2905206
+12/07/2094,Anísio Teixeira,MUNICIPAL,Nascimento do Educador Anísio Teixeira,BA,2905206
 26/07/2094,Senhora Santana,MUNICIPAL,"Senhora Santana, Padroeira da Cidade",BA,2905206
 17/09/2094,Dia do Evangélico,MUNICIPAL,Dia do Evangélico,BA,2905206
 07/04/2094,Feriado Municipal,MUNICIPAL,Feriado Municipal,BA,2905305
@@ -597,7 +597,7 @@
 08/09/2094,Feriado Municipal,MUNICIPAL,,BA,2913002
 31/01/2094,Feriado Municipal,MUNICIPAL,,BA,2913101
 20/01/2094,Dia de São Sebastião,MUNICIPAL,"Dia de São Sebastião, padroeiro da Cidade",BA,2913200
-05/03/2094,Quarta-Feira de Cinzas,MUNICIPAL,Quarta-Feira de Cinzas,BA,2913200
+17/02/2094,Quarta-Feira de Cinzas,MUNICIPAL,Quarta-Feira de Cinzas,BA,2913200
 14/08/2094,Aniversário da Cidade,MUNICIPAL,Aniversário de Emancipação do Município de Ibotirama,BA,2913200
 24/06/2094,Feriado Municipal,MUNICIPAL,,BA,2913309
 01/09/2094,Feriado Municipal,MUNICIPAL,Feriado Municipal,BA,2913408
@@ -1519,7 +1519,7 @@
 08/09/2094,Feriado Municipal,MUNICIPAL,Feriado Municipal,ES,3202801
 20/01/2094,São Sebastião,MUNICIPAL,Dia de São Sebastião,ES,3202900
 18/04/2094,Emancipação política,MUNICIPAL,Emancipação politica do Município,ES,3202900
-24/05/2094,N. Sra. Auxiliadora,MUNICIPAL,Dia de Nossa Senhora Auxiliadora ,ES,3202900
+24/05/2094,N. Sra. Auxiliadora,MUNICIPAL,Dia de Nossa Senhora Auxiliadora,ES,3202900
 31/10/2094,Reforma Protestante,MUNICIPAL,Reforma Protestante,ES,3202900
 31/05/2094,Feriado Municipal,MUNICIPAL,,ES,3203007
 20/07/2094,Feriado Municipal,MUNICIPAL,,ES,3203007
@@ -2495,7 +2495,7 @@
 29/06/2094,Feriado Municipal,MUNICIPAL,Feriado Municipal,MG,3113503
 15/08/2094,Feriado Municipal,MUNICIPAL,Feriado Municipal,MG,3113503
 08/12/2094,Feriado Municipal,MUNICIPAL,,MG,3113602
-20/01/2094,São Sebastião,MUNICIPAL," Dia de São Sebastião, padroeiro da cidade",MG,3113701
+20/01/2094,São Sebastião,MUNICIPAL,"Dia de São Sebastião, padroeiro da cidade",MG,3113701
 03/06/2094,Corpus Christi,MUNICIPAL,Corpus Christi,MG,3113701
 17/12/2094,Emancipação,MUNICIPAL,Aniversário de Emancipação Política do Município,MG,3113701
 16/07/2094,Feriado Municipal,MUNICIPAL,,MG,3113909
@@ -2895,7 +2895,7 @@
 08/12/2094,Feriado Municipal,MUNICIPAL,,MG,3134608
 17/12/2094,Feriado Municipal,MUNICIPAL,,MG,3134608
 22/02/2094,Feriado Municipal,MUNICIPAL,,MG,3134707
-05/03/2094,Quarta-Feira de Cinzas,MUNICIPAL,"Quarta-Feira de Cinzas, feriado conforme lei nº 603, de 05 de março de 1996",MG,3134707
+17/02/2094,Quarta-Feira de Cinzas,MUNICIPAL,"Quarta-Feira de Cinzas, feriado conforme lei nº 603, de 05 de março de 1996",MG,3134707
 13/06/2094,Dia de Santo Antônio,MUNICIPAL,,MG,3134707
 01/11/2094,Feriado Municipal,MUNICIPAL,,MG,3134707
 31/12/2094,Feriado Municipal,MUNICIPAL,,MG,3134707
@@ -3012,7 +3012,7 @@
 11/02/2094,Feriado Municipal,MUNICIPAL,,MG,3139904
 01/06/2094,Feriado Municipal,MUNICIPAL,,MG,3139904
 03/06/2094,Corpus Christi,MUNICIPAL,Corpus Christi,MG,3140001
-16/07/2094,Aniversário,MUNICIPAL,Aniversário da Cidade de Mariana ,MG,3140001
+16/07/2094,Aniversário,MUNICIPAL,Aniversário da Cidade de Mariana,MG,3140001
 08/12/2094,N. Sra. da Conceição,MUNICIPAL,Dia de Nossa Senhora da Conceição,MG,3140001
 20/01/2094,São Sebastião,MUNICIPAL,Dia de São Sebastião,MG,3140159
 02/04/2094,Sexta-feira da Paixão,MUNICIPAL,Sexta-feira da Paixão,MG,3140159
@@ -4605,8 +4605,7 @@
 08/12/2094,Feriado Municipal,MUNICIPAL,,PE,2610509
 20/12/2094,Feriado Municipal,MUNICIPAL,,PE,2610509
 27/07/2094,Feriado Municipal,MUNICIPAL,Feriado Municipal,PE,2610608
-18/02/2094,Quarta-feira de cinzas,MUNICIPAL,,PE,2610707
-05/03/2094,Quarta-feira de cinzas,MUNICIPAL,Quarta-feira de cinzas,PE,2610707
+17/02/2094,Quarta-feira de cinzas,MUNICIPAL,,PE,2610707
 04/09/2094,Emancipação Política,MUNICIPAL,Aniversário de Emancipação Política do Paulista,PE,2610707
 06/01/2094,Feriado Municipal,MUNICIPAL,,PE,2610806
 13/05/2094,Feriado Municipal,MUNICIPAL,,PE,2610806
@@ -5007,7 +5006,7 @@
 08/12/2094,Feriado Municipal,MUNICIPAL,,PR,4106605
 14/12/2094,Feriado Municipal,MUNICIPAL,,PR,4106704
 27/06/2094,Sagrado Coração de Jesus,MUNICIPAL,"Dia do Sagrado Coração de Jesus, conforme lei 009 de 1961",PR,4106803
-14/12/2094,Aniversário do Municipio,MUNICIPAL,"Aniversário da Cidade de Cruz Machado, conforme lei 790 de 1951 ",PR,4106803
+14/12/2094,Aniversário do Municipio,MUNICIPAL,"Aniversário da Cidade de Cruz Machado, conforme lei 790 de 1951",PR,4106803
 26/12/2094,Segundo dia de Natal,MUNICIPAL,"Segundo dia de Natal, conforme lei 636, de 24 de novembro de 1997",PR,4106803
 02/04/2094,Sexta-feira Santa,MUNICIPAL,,PR,4106902
 03/06/2094,Corpus Christi,MUNICIPAL,conforme Lei Municipal nº 3.018 de 02/05/1967,PR,4106902
@@ -5148,7 +5147,7 @@
 07/08/2094,Feriado Municipal,MUNICIPAL,,PR,4113106
 08/12/2094,Feriado Municipal,MUNICIPAL,,PR,4113106
 09/02/2094,Aniversário do Cerco da Lapa - Leis Municipais nº 1.558/2001 e 2.530/2010,MUNICIPAL,,PR,4113205
-13/06/2094,Dia de Santo Antônio,MUNICIPAL, Padroeiro da Cidade - Leis Municipais nº 1.558/2001 e 2.530/2010,PR,4113205
+13/06/2094,Dia de Santo Antônio,MUNICIPAL,Padroeiro da Cidade - Leis Municipais nº 1.558/2001 e 2.530/2010,PR,4113205
 26/12/2094,Dia de São Benedito - Leis Municipais nº 1.558/2001 e 2.530/2010,MUNICIPAL,,PR,4113205
 26/07/2094,Feriado Municipal,MUNICIPAL,,PR,4113304
 06/08/2094,Feriado Municipal,MUNICIPAL,,PR,4113304
@@ -5823,7 +5822,7 @@
 31/10/2094,Feriado Municipal,MUNICIPAL,,RN,2407807
 30/09/2094,Feriado Municipal,MUNICIPAL,Feriado Municipal,RN,2408003
 13/12/2094,Feriado Municipal,MUNICIPAL,Feriado Municipal,RN,2408003
-06/01/2094,Dia de Santos Reis,MUNICIPAL, conforme o Decreto n.º 10.599 de 09 de janeiro de 2015,RN,2408102
+06/01/2094,Dia de Santos Reis,MUNICIPAL,conforme o Decreto n.º 10.599 de 09 de janeiro de 2015,RN,2408102
 21/11/2094,Dia de Nossa Senhora da Apresentação,MUNICIPAL,conforme o Decreto n.º 10.599 de 09 de janeiro de 2015,RN,2408102
 18/02/2094,Feriado Municipal,MUNICIPAL,Feriado Municipal,RN,2408201
 18/12/2094,Feriado Municipal,MUNICIPAL,Feriado Municipal,RN,2408201
@@ -6018,7 +6017,7 @@
 25/07/2094,Feriado Municipal,MUNICIPAL,,RS,4302006
 01/11/2094,Feriado Municipal,MUNICIPAL,,RS,4302006
 08/12/2094,Feriado Municipal,MUNICIPAL,,RS,4302006
-13/06/2094,Dia de Santo Antonio,MUNICIPAL, Padroeiro do município.,RS,4302105
+13/06/2094,Dia de Santo Antonio,MUNICIPAL,Padroeiro do município.,RS,4302105
 19/03/2094,São José,MUNICIPAL,Dia de São José,RS,4302204
 02/12/2094,Feriado Municipal,MUNICIPAL,,RS,4302204
 15/05/2094,Feriado Municipal,MUNICIPAL,,RS,4302303
@@ -6222,7 +6221,7 @@
 03/06/2094,Corpus Christi,MUNICIPAL,"Decreto nº 5375, de 17 de fevereiro de 2014",RS,4310207
 19/10/2094,Aniversário da cidade,MUNICIPAL,Aniversário da cidade,RS,4310207
 16/08/2094,Feriado Municipal,MUNICIPAL,,RS,4310306
-19/03/2094,Dia de São José,MUNICIPAL,"Dia de São José, padroeiro do município ",RS,4310330
+19/03/2094,Dia de São José,MUNICIPAL,"Dia de São José, padroeiro do município",RS,4310330
 09/05/2094,Aniversário da Cidade,MUNICIPAL,Aniversário de Emancipação do município,RS,4310330
 09/05/2094,Feriado Municipal,MUNICIPAL,,RS,4310363
 31/10/2094,Feriado Municipal,MUNICIPAL,,RS,4310363
@@ -6276,7 +6275,7 @@
 13/06/2094,Dia de Santo Antônio,MUNICIPAL,,RS,4312104
 31/03/2094,São Guido,MUNICIPAL,Dia de São Guido,RS,4312138
 02/04/2094,Sexta-feira da Paixão,MUNICIPAL,Sexta-feira da Paixão,RS,4312138
-19/06/2094,Corpus Crhisti,MUNICIPAL,Corpus Crhisti,RS,4312138
+03/06/2094,Corpus Crhisti,MUNICIPAL,Corpus Crhisti,RS,4312138
 20/01/2094,Feriado Municipal,MUNICIPAL,,RS,4312203
 15/03/2094,Feriado Municipal,MUNICIPAL,,RS,4312203
 08/12/2094,Feriado Municipal,MUNICIPAL,,RS,4312203
@@ -6685,7 +6684,7 @@
 05/04/2094,Aniversário da Cidade,MUNICIPAL,Aniversário da Cidade de Camboriu,SC,4203204
 02/04/2094,Sexta-Feira Santa,MUNICIPAL,Sexta-Feira Santa,SC,4203204
 09/06/2094,Divino Espírito Santo,MUNICIPAL,Festa do Divino Espírito Santo,SC,4203204
-19/06/2094,Corpus-Christi,MUNICIPAL,Dia de Corpus-Christi,SC,4203204
+03/06/2094,Corpus-Christi,MUNICIPAL,Dia de Corpus-Christi,SC,4203204
 08/11/2094,Feriado Municipal,MUNICIPAL,,SC,4203402
 03/12/2094,Feriado Municipal,MUNICIPAL,,SC,4203402
 27/07/2094,Feriado Municipal,MUNICIPAL,,SC,4203501
@@ -6879,7 +6878,7 @@
 25/11/2094,Feriado Municipal,MUNICIPAL,,SC,4211405
 28/12/2094,Feriado Municipal,MUNICIPAL,,SC,4211405
 03/06/2094,Corpus Christi,MUNICIPAL,Corpus Christi,SC,4211504
-09/07/2094,Santa Paulina,MUNICIPAL,Aniversário de Morte de Santa Paulina ,SC,4211504
+09/07/2094,Santa Paulina,MUNICIPAL,Aniversário de Morte de Santa Paulina,SC,4211504
 08/08/2094,Aniversário do Município,MUNICIPAL,Emancipação Político Administrativa do Município de Nova Trento,SC,4211504
 21/06/2094,Feriado Municipal,MUNICIPAL,,SC,4211603
 30/08/2094,Aniversário da Cidade,MUNICIPAL,"Data de criação do Município, feriado municipal, definido pela Lei n. 456 de 07 de maio de 1973",SC,4211702
@@ -7064,7 +7063,7 @@
 27/02/2094,Feriado Municipal,MUNICIPAL,,SC,4219507
 06/08/2094,Feriado Municipal,MUNICIPAL,,SC,4219507
 02/02/2094,Aniversário da Ciadade,MUNICIPAL,Emancipação Político-Administrativa do Município de Xavantina,SC,4219606
-25/07/2094,Dia do Colono e Motorista,MUNICIPAL,Dia do Colono e Motorista ,SC,4219606
+25/07/2094,Dia do Colono e Motorista,MUNICIPAL,Dia do Colono e Motorista,SC,4219606
 07/10/2094,Dia da Padroeira,MUNICIPAL,"Nossa Senhora do Rosário, Padroeira do Município",SC,4219606
 20/02/2094,Feriado Municipal,MUNICIPAL,,SC,4219705
 21/06/2094,Feriado Municipal,MUNICIPAL,,SC,4219705
@@ -7369,7 +7368,7 @@
 09/03/2094,Feriado Municipal,MUNICIPAL,,SP,3508603
 13/06/2094,Dia de Santo Antônio,MUNICIPAL,,SP,3508603
 02/04/2094,Sexta-Feira Santa,MUNICIPAL,Sexta-Feira Santa,SP,3508702
-27/04/2094,Aniversário Ranieri Mazzilli,MUNICIPAL," Aniversário de Ranieri Mazzilli. Lei Municipal nº 2255, de 14 de dezembro de 2005",SP,3508702
+27/04/2094,Aniversário Ranieri Mazzilli,MUNICIPAL,"Aniversário de Ranieri Mazzilli. Lei Municipal nº 2255, de 14 de dezembro de 2005",SP,3508702
 03/06/2094,Corpus Christi,MUNICIPAL,"conforme Lei Municipal nº 950, de 30 de setembro de 1969",SP,3508702
 08/12/2094,Aniversário da Cidade,MUNICIPAL,Aniversário do Município. Lei Municipal nº 841 de 31 de agosto de 1967,SP,3508702
 11/04/2094,Feriado Municipal,MUNICIPAL,,SP,3508801

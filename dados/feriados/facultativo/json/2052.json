@@ -5,14 +5,14 @@
         "tipo": "FACULTATIVO",
         "descricao": "aniversário de morte de José Pedro Dias, fundador de Juara",
         "uf": "MT",
-        "codigo_ibge": 5105101
+        "codigo_ibge": "5105101"
     },
     {
         "data": "04/03/2052",
         "nome": "Carnaval",
         "tipo": "FACULTATIVO",
         "descricao": "Ponto Facultativo, ou seja, cabe às empresas e orgão públicos decidirem se trabalharão ou não.",
-        "uf": "",
+        "uf": null,
         "codigo_ibge": null
     },
     {
@@ -20,7 +20,7 @@
         "nome": "Segunda de Carnaval",
         "tipo": "FACULTATIVO",
         "descricao": "Ponto Facultativo nas repartições públicas",
-        "uf": "",
+        "uf": null,
         "codigo_ibge": null
     },
     {
@@ -28,7 +28,7 @@
         "nome": "Carnaval",
         "tipo": "FACULTATIVO",
         "descricao": "Carnaval NÃO é um feriado oficial, é Ponto Facultativo, ou seja, cabe às empresas e orgão públicos decidirem se trabalharão ou não.",
-        "uf": "",
+        "uf": null,
         "codigo_ibge": null
     },
     {
@@ -36,7 +36,7 @@
         "nome": "Terça de Carnaval",
         "tipo": "FACULTATIVO",
         "descricao": "Feriado apenas no Comércio, segundo Lei nº 5913, de 21 de junho de 1991",
-        "uf": "",
+        "uf": null,
         "codigo_ibge": null
     },
     {
@@ -44,7 +44,7 @@
         "nome": "Carnaval",
         "tipo": "FACULTATIVO",
         "descricao": "Ponto Facultativo até às 14h.",
-        "uf": "",
+        "uf": null,
         "codigo_ibge": null
     },
     {
@@ -52,7 +52,7 @@
         "nome": "Quarta Feira de Cinzas",
         "tipo": "FACULTATIVO",
         "descricao": "Ponto Facultativo nas repartições públicas",
-        "uf": "",
+        "uf": null,
         "codigo_ibge": null
     },
     {
@@ -69,7 +69,7 @@
         "tipo": "FACULTATIVO",
         "descricao": "Dia de São José padroeiro de Mafra",
         "uf": "SC",
-        "codigo_ibge": 4210100
+        "codigo_ibge": "4210100"
     },
     {
         "data": "29/03/2052",
@@ -77,14 +77,14 @@
         "tipo": "FACULTATIVO",
         "descricao": "Fundação de Curitiba - Aniversário da Cidade (Ponto Facultativo), conforme Lei Municipal nº229,26/12/49",
         "uf": "PR",
-        "codigo_ibge": 4106902
+        "codigo_ibge": "4106902"
     },
     {
         "data": "18/04/2052",
         "nome": "Quinta-feira santa",
         "tipo": "FACULTATIVO",
         "descricao": "",
-        "uf": "",
+        "uf": null,
         "codigo_ibge": null
     },
     {
@@ -92,7 +92,7 @@
         "nome": "Corpus Christi",
         "tipo": "FACULTATIVO",
         "descricao": "Ponto Facultativo no País, mas Feriado Municipal em algumas cidades.. Corpus Christi, expressão latina que significa Corpo de Cristo, é uma festa Cristã realizada na quinta-feira seguinte ao domingo da Santíssima Trindade.",
-        "uf": "",
+        "uf": null,
         "codigo_ibge": null
     },
     {
@@ -101,14 +101,14 @@
         "tipo": "FACULTATIVO",
         "descricao": "Feriado para Servidores Públicos. Determinado pelo Estatuto dos Funcionários Públicos Civis do Estado de Goiás e de suas Autarquias, Lei nº 10.460, de 22 de fevereiro de 1988",
         "uf": "GO",
-        "codigo_ibge": 5208905
+        "codigo_ibge": "5208905"
     },
     {
         "data": "15/10/2052",
         "nome": "Dia do Professor",
         "tipo": "FACULTATIVO",
         "descricao": "FERIADO ESCOLAR - No dia 15 de outubro de 1827 (dia consagrado à educadora Santa Teresa de Ávila), o Imperador do Brasil, Pedro I, baixou um Decreto Imperial que criou o Ensino Elementar no Brasil. Pelo decreto, \"todas as cidades, vilas e lugarejos teriam suas escolas de primeiras letras\"",
-        "uf": "",
+        "uf": null,
         "codigo_ibge": null
     },
     {
@@ -132,7 +132,7 @@
         "nome": "Após o meio-dia, Véspera de Ano Novo",
         "tipo": "FACULTATIVO",
         "descricao": "De acordo com o Decreto nº 18882-E de 01 de junho de 2015",
-        "uf": "",
+        "uf": null,
         "codigo_ibge": null
     },
     {
@@ -141,6 +141,6 @@
         "tipo": "FACULTATIVO",
         "descricao": "Data comemorativa e ponto facultativo",
         "uf": "SP",
-        "codigo_ibge": 3525904
+        "codigo_ibge": "3525904"
     }
 ]
