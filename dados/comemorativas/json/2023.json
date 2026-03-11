@@ -1,0 +1,128 @@
+[
+    {
+        "data": "14/02/2023",
+        "nome": "Dia de São Valentim",
+        "tipo": "COMEMORATIVA",
+        "descricao": "O Dia de São Valentim, celebrado em 14 de fevereiro, é associado ao amor romântico em muitos países do mundo. No Brasil, embora o Dia dos Namorados seja celebrado em 12 de junho, a data também é reconhecida culturalmente pela influência internacional."
+    },
+    {
+        "data": "08/03/2023",
+        "nome": "Dia Internacional da Mulher",
+        "tipo": "COMEMORATIVA",
+        "descricao": "O Dia Internacional da Mulher é celebrado anualmente em 8 de março para homenagear as conquistas sociais, econômicas, culturais e políticas das mulheres. A data também é um apelo à ação em prol da igualdade de gênero. Instituído pela ONU em 1977, no Brasil é amplamente celebrado."
+    },
+    {
+        "data": "07/04/2023",
+        "nome": "Dia Mundial da Saúde",
+        "tipo": "COMEMORATIVA",
+        "descricao": "O Dia Mundial da Saúde é comemorado anualmente em 7 de abril, data de fundação da Organização Mundial da Saúde (OMS) em 1948. Serve para conscientizar a população sobre questões de saúde pública e promover políticas de bem-estar global."
+    },
+    {
+        "data": "22/04/2023",
+        "nome": "Dia da Terra",
+        "tipo": "COMEMORATIVA",
+        "descricao": "O Dia da Terra, celebrado anualmente em 22 de abril, é dedicado à proteção do meio ambiente. Foi criado em 1970 nos Estados Unidos e se tornou um movimento global que mobiliza bilhões de pessoas em mais de 193 países em defesa do planeta."
+    },
+    {
+        "data": "23/04/2023",
+        "nome": "Dia do Livro",
+        "tipo": "COMEMORATIVA",
+        "descricao": "O Dia Mundial do Livro e do Direito Autoral é comemorado em 23 de abril, data escolhida pela UNESCO em 1995 por coincidir com a morte de William Shakespeare e Miguel de Cervantes. No Brasil, a data celebra a leitura e a literatura como instrumentos de cultura e cidadania."
+    },
+    {
+        "data": "14/05/2023",
+        "nome": "Dia das Mães",
+        "tipo": "COMEMORATIVA",
+        "descricao": "O Dia das Mães é celebrado no segundo domingo de maio no Brasil. A data homenageia as mães e a maternidade, sendo uma das datas comemorativas mais importantes do país. Em 2023, cai no dia 14 de maio."
+    },
+    {
+        "data": "01/06/2023",
+        "nome": "Dia Mundial da Criança",
+        "tipo": "COMEMORATIVA",
+        "descricao": "O Dia Mundial da Criança é celebrado em 1º de junho em muitos países, sendo uma data recomendada pela ONU para promover o bem-estar infantil e os direitos das crianças. No Brasil, o Dia das Crianças é comemorado oficialmente em 12 de outubro."
+    },
+    {
+        "data": "05/06/2023",
+        "nome": "Dia Mundial do Meio Ambiente",
+        "tipo": "COMEMORATIVA",
+        "descricao": "O Dia Mundial do Meio Ambiente é celebrado anualmente em 5 de junho desde 1974, por iniciativa do Programa das Nações Unidas para o Meio Ambiente (PNUMA). A data foi estabelecida em memória da Conferência de Estocolmo de 1972, que marcou o início das discussões globais sobre questões ambientais."
+    },
+    {
+        "data": "12/06/2023",
+        "nome": "Dia dos Namorados",
+        "tipo": "COMEMORATIVA",
+        "descricao": "O Dia dos Namorados é celebrado no Brasil em 12 de junho, véspera do Dia de Santo Antônio, padroeiro dos casamentos. A data foi criada no Brasil na década de 1940 por iniciativa comercial e rapidamente se tornou uma das datas mais populares para presentes e celebrações românticas."
+    },
+    {
+        "data": "13/06/2023",
+        "nome": "Dia de Santo Antônio",
+        "tipo": "COMEMORATIVA",
+        "descricao": "Santo Antônio de Lisboa ou Santo Antônio de Pádua é celebrado em 13 de junho, sendo considerado o santo dos namorados e dos casamentos no Brasil. Em Lisboa e em várias cidades brasileiras, como São Paulo, é feriado municipal. Para o Brasil como um todo, é uma importante data religiosa e cultural."
+    },
+    {
+        "data": "24/06/2023",
+        "nome": "Dia de São João",
+        "tipo": "COMEMORATIVA",
+        "descricao": "O Dia de São João Batista, celebrado em 24 de junho, é uma das festas juninas mais tradicionais do Brasil, especialmente no Nordeste. Marca o auge das festas juninas com quadrilhas, fogueiras, forró e comidas típicas. Em alguns municípios nordestinos é feriado local."
+    },
+    {
+        "data": "25/07/2023",
+        "nome": "Dia do Colono",
+        "tipo": "COMEMORATIVA",
+        "descricao": "O Dia do Colono, comemorado em 25 de julho, homenageia os imigrantes europeus, especialmente italianos e alemães, que colonizaram o Sul do Brasil. Em estados como Rio Grande do Sul e Santa Catarina, a data tem grande importância histórica e cultural."
+    },
+    {
+        "data": "13/08/2023",
+        "nome": "Dia dos Pais",
+        "tipo": "COMEMORATIVA",
+        "descricao": "O Dia dos Pais é celebrado no segundo domingo de agosto no Brasil. A data homenageia os pais e a paternidade. Em 2023, cai no dia 13 de agosto. A comemoração foi criada no Brasil em 1953 por iniciativa comercial e se tornou uma das datas mais importantes do calendário familiar brasileiro."
+    },
+    {
+        "data": "01/10/2023",
+        "nome": "Dia do Idoso",
+        "tipo": "COMEMORATIVA",
+        "descricao": "O Dia Internacional do Idoso é comemorado em 1º de outubro, data estabelecida pela ONU em 1990. No Brasil, a data ganha especial relevância graças ao Estatuto do Idoso (Lei nº 10.741/2003), que garante direitos fundamentais às pessoas com mais de 60 anos."
+    },
+    {
+        "data": "12/10/2023",
+        "nome": "Dia das Crianças",
+        "tipo": "COMEMORATIVA",
+        "descricao": "O Dia das Crianças é comemorado no Brasil em 12 de outubro, coincidindo com o feriado de Nossa Senhora Aparecida. A data foi instituída pelo governo brasileiro em 1924 e celebra a infância e os direitos das crianças brasileiras."
+    },
+    {
+        "data": "15/10/2023",
+        "nome": "Dia do Professor",
+        "tipo": "COMEMORATIVA",
+        "descricao": "O Dia do Professor é comemorado no Brasil em 15 de outubro desde 1963, quando o presidente João Goulart instituiu a data pelo Decreto nº 52.682. A data coincide com o aniversário da criação, por Dom Pedro I, das primeiras escolas de ensino elementar no Brasil em 1827."
+    },
+    {
+        "data": "31/10/2023",
+        "nome": "Halloween",
+        "tipo": "COMEMORATIVA",
+        "descricao": "O Halloween é celebrado em 31 de outubro e tem origem na tradição celta do Samhain. Embora não seja uma data oficial brasileira, ganhou grande popularidade no país, especialmente entre crianças e jovens, com fantasias, decorações e festas temáticas."
+    },
+    {
+        "data": "02/11/2023",
+        "nome": "Dia de Finados",
+        "tipo": "COMEMORATIVA",
+        "descricao": "O Dia de Finados, também chamado de Dia dos Mortos, é celebrado em 2 de novembro. Embora seja feriado nacional, também é uma data comemorativa de grande importância cultural e religiosa no Brasil, com visitas a cemitérios e homenagens aos falecidos."
+    },
+    {
+        "data": "20/11/2023",
+        "nome": "Dia da Consciência Negra",
+        "tipo": "COMEMORATIVA",
+        "descricao": "O Dia da Consciência Negra é celebrado em 20 de novembro em homenagem a Zumbi dos Palmares, líder do Quilombo dos Palmares, morto nesta data em 1695. A data celebra a resistência e a cultura afro-brasileira e é feriado nacional desde 2024, conforme a Lei 14.759/2023."
+    },
+    {
+        "data": "24/12/2023",
+        "nome": "Véspera de Natal",
+        "tipo": "COMEMORATIVA",
+        "descricao": "A Véspera de Natal é celebrada em 24 de dezembro. Embora não seja feriado nacional, é uma das noites mais celebradas do Brasil, com reuniões familiares, ceia natalina, troca de presentes e celebrações religiosas."
+    },
+    {
+        "data": "31/12/2023",
+        "nome": "Réveillon",
+        "tipo": "COMEMORATIVA",
+        "descricao": "O Réveillon é a celebração da passagem do ano, realizada na noite de 31 de dezembro para 1º de janeiro. No Brasil, é uma das maiores festas populares, com eventos nas principais cidades, queima de fogos e a tradicional ida ao mar para oferendas à Iemanjá, especialmente no Rio de Janeiro."
+    }
+]
