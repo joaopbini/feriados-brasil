@@ -138,6 +138,10 @@ dados/
 │       ├── municipios.json
 │       └── municipios.sql
 ├── municipios.json              # Lista completa de municípios (legado)
+├── comemorativas/               # Datas comemorativas (não são feriados oficiais)
+│   ├── csv/                     # Arquivos CSV por ano
+│   ├── json/                    # Arquivos JSON por ano
+│   └── sql/                     # Scripts SQL por ano
 └── feriados/
     ├── nacional/                # Feriados nacionais
     │   ├── csv/                 # Arquivos CSV por ano
@@ -156,6 +160,23 @@ dados/
         ├── json/
         └── sql/
 ```
+
+### 🎉 Datas Comemorativas
+
+A pasta `dados/comemorativas/` contém datas comemorativas populares no Brasil que **não são feriados oficiais**. Estas datas são amplamente celebradas pela população e têm grande relevância cultural e comercial, mas não geram obrigação de folga.
+
+Exemplos de datas incluídas:
+- **Dia das Mães** (2º domingo de maio)
+- **Dia dos Pais** (2º domingo de agosto)
+- **Dia dos Namorados** (12 de junho)
+- **Dia Internacional da Mulher** (8 de março)
+- **Dia das Crianças** (12 de outubro)
+- **Dia do Professor** (15 de outubro)
+- **Dia Mundial da Saúde** (7 de abril)
+- **Dia Mundial do Meio Ambiente** (5 de junho)
+- Entre outras
+
+Os arquivos seguem o mesmo padrão estrutural dos feriados (CSV, JSON, SQL), mas utilizam o tipo `COMEMORATIVA` e **não possuem** os campos `uf` e `codigo_ibge`, pois são datas de abrangência nacional sem cunho oficial jurisdicional.
 
 ### 📍 Dados de Localização (Estados e Municípios)
 
@@ -290,7 +311,16 @@ ORDER BY m.nome;
 |   01/01/2024| Ano Novo|     NACIONAL    | O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo.|  -  |  -  | 
 |   02/07/2024| Independência da Bahia|     ESTADUAL| Independência da Bahia| BA     |   -    | 
 |   20/01/2024| Dia de São Sebastião |     MUNICIPAL| Padroeiro da cidade| RJ|    Rio de Janeiro (3304557)    | 
-|   28/10/2024| Dia do Servidor Público|     FACULTATIVO| O dia do servidor público é feriado apenas para funcionários públicos.|  -  |  -  | 
+|   28/10/2024| Dia do Servidor Público|     FACULTATIVO| O dia do servidor público é feriado apenas para funcionários públicos.|  -  |  -  |
+
+#### Datas Comemorativas
+
+| Data |  Nome  | Tipo | Descrição|
+|:-----------:|:-------------------:|:---------:|:-----------------:|
+|   08/03/2026| Dia Internacional da Mulher|     COMEMORATIVA    | Homenagem às conquistas sociais, econômicas, culturais e políticas das mulheres.|
+|   10/05/2026| Dia das Mães|     COMEMORATIVA| Celebrado no 2º domingo de maio.|
+|   12/06/2026| Dia dos Namorados|     COMEMORATIVA| Comemorado em 12 de junho, véspera do Dia de Santo Antônio.|
+|   09/08/2026| Dia dos Pais|     COMEMORATIVA| Celebrado no 2º domingo de agosto.| 
 
 
 #### Formato JSON
@@ -341,6 +371,38 @@ data,nome,tipo,descricao,uf,codigo_ibge
 ```
 
 **Nota:** Para feriados nacionais e facultativos, os campos `uf` e `codigo_ibge` ficam vazios. Para feriados estaduais, apenas `codigo_ibge` fica vazio.
+
+#### Formato JSON — Datas Comemorativas
+
+Os arquivos de datas comemorativas têm uma estrutura mais simples, sem `uf` e `codigo_ibge`, pois são datas de abrangência nacional:
+
+```json
+[
+  {
+    "data": "10/05/2026",
+    "nome": "Dia das Mães",
+    "tipo": "COMEMORATIVA",
+    "descricao": "O Dia das Mães é celebrado no segundo domingo de maio no Brasil."
+  },
+  {
+    "data": "12/06/2026",
+    "nome": "Dia dos Namorados",
+    "tipo": "COMEMORATIVA",
+    "descricao": "O Dia dos Namorados é celebrado no Brasil em 12 de junho, véspera do Dia de Santo Antônio."
+  }
+]
+```
+
+#### Formato CSV — Datas Comemorativas
+
+Os arquivos CSV de comemorativas seguem esta estrutura (4 colunas):
+
+```csv
+data,nome,tipo,descricao
+10/05/2026,Dia das Mães,COMEMORATIVA,"O Dia das Mães é celebrado no segundo domingo de maio no Brasil."
+12/06/2026,Dia dos Namorados,COMEMORATIVA,"O Dia dos Namorados é celebrado no Brasil em 12 de junho."
+09/08/2026,Dia dos Pais,COMEMORATIVA,"O Dia dos Pais é celebrado no segundo domingo de agosto no Brasil."
+```
 
 
 ---
