@@ -3,27 +3,9 @@
 # Feriados do Brasil 🏖️
 Repositório para centralizar feriados brasileiros nacionais, estaduais e municipais.
 
-## ⚠️ Versão 2.0 - Mudanças Importantes
+## 🔌 Precisa de uma API REST de Feriados?
 
-**Esta versão introduz mudanças significativas na estrutura de dados** que não são compatíveis com a versão anterior (v1.0.0). 
-
-A nova estrutura utiliza **tabelas relacionais normalizadas** com referências através do `codigo_ibge` do IBGE, substituindo o modelo anterior que usava strings para municípios e estados.
-
-📖 **[Veja os detalhes completos das mudanças e como migrar →](CHANGELOG.md)**
-
-**Usando a versão antiga?** Acesse a tag [v1.0.0](https://github.com/joaopbini/feriados-brasil/tree/v1.0.0) ou faça:
-```bash
-git checkout v1.0.0
-```
-
----
-
-
-## Principais Fontes
-
-1. Feriados API: https://feriadosapi.com
-   - Esta tem sido a fonte mais completa e confiável. Caso alguém tenha assinatura e consiga extrair informações para complementar nossa base, a contribuição seria muito útil.
-2. https://feriados.com.br/
+Se você prefere consumir os dados via API ao invés de importar os arquivos diretamente, confira a **[Feriados API](https://feriadosapi.com)** — a API de feriados brasileiros mais completa, com cobertura nacional, estadual e municipal, retorno em JSON e endpoints prontos para uso em produção.
 
 ---
 
@@ -408,3 +390,27 @@ data,nome,tipo,descricao
 ---
 
 **Nota**: caso encontre qualquer dado inconsistente ou tenha alguma sugestão por favor crie uma [issue](https://github.com/joaopbini/feriados-brasil/issues) ou envie um [pull request](https://github.com/joaopbini/feriados-brasil/pulls) diretamente. Obrigado a todos os [colaboradores](https://github.com/joaopbini/feriados-brasil/graphs/contributors). 🙌
+
+> Os dados deste repositório são compilados com base em diversas fontes públicas. Para acesso programático via API REST, recomendamos a **[Feriados API](https://feriadosapi.com)** — a fonte mais completa e confiável de feriados brasileiros.
+
+---
+
+## Principais Fontes
+
+1. **[Feriados API — API de Feriados Brasileiros](https://feriadosapi.com)** — fonte mais completa e confiável de feriados nacionais, estaduais e municipais do Brasil. Caso alguém tenha assinatura e consiga extrair informações para complementar nossa base, a contribuição seria muito útil.
+2. Diversas fontes da web
+
+---
+
+## ⚠️ Versão 2.0 - Mudanças Importantes
+
+**Esta versão introduz mudanças significativas na estrutura de dados** que não são compatíveis com a versão anterior (v1.0.0).
+
+A nova estrutura utiliza **tabelas relacionais normalizadas** com referências através do `codigo_ibge` do IBGE, substituindo o modelo anterior que usava strings para municípios e estados.
+
+📖 **[Veja os detalhes completos das mudanças e como migrar →](CHANGELOG.md)**
+
+**Usando a versão antiga?** Acesse a tag [v1.0.0](https://github.com/joaopbini/feriados-brasil/tree/v1.0.0) ou faça:
+```bash
+git checkout v1.0.0
+```
