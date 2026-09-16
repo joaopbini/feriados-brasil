@@ -1,0 +1,516 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//feriados-brasil//Calendario brasileiro//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Feriados estaduais 2023
+BEGIN:VEVENT
+UID:e76b91e8326b971f11343046a976d3e68937f4c3@feriados-brasil
+DTSTAMP:20230120T000000Z
+DTSTART;VALUE=DATE:20230120
+DTEND;VALUE=DATE:20230121
+SUMMARY:Dia do Católico
+CATEGORIES:ESTADUAL
+DESCRIPTION:Dia 20 de janeiro\, é feriado no calendário oficial do Govern
+ o do Estado do Acre\, conforme lei Nº 3137/2016. O Dia do Católico foi c
+ riado em 2016\, em similaridade ao dia do Evngélico
+END:VEVENT
+BEGIN:VEVENT
+UID:b1bfaa0582040906702dcd61cc400eea3a8ab95e@feriados-brasil
+DTSTAMP:20230123T000000Z
+DTSTART;VALUE=DATE:20230123
+DTEND;VALUE=DATE:20230124
+SUMMARY:Dia do Evangélico
+CATEGORIES:ESTADUAL
+DESCRIPTION:Dia 23 de janeiro\, é feriado no calendário oficial do Govern
+ o do Estado do Acre\, conforme lei Nº 1538/2004. O Dia do Evangélico foi
+  criado em 2004\, por meio de projeto de lei apresentado pelo deputado Hel
+ der Paiva\, aprovado pela então governador Jorge Viana
+END:VEVENT
+BEGIN:VEVENT
+UID:b53c254e7c91a591e9ce5eca5cb0ff358ff8d673@feriados-brasil
+DTSTAMP:20230310T000000Z
+DTSTART;VALUE=DATE:20230310
+DTEND;VALUE=DATE:20230311
+SUMMARY:Dia da Mulher
+CATEGORIES:ESTADUAL
+DESCRIPTION:Feriado conforme lei Nº 1411/2001\, mas adiado para Sexta-Feir
+ a. O Dia Internacional da Mulher\, celebrado em 8 de março\, tem como ori
+ gem as manifestações das mulheres russas por melhores condições de vid
+ a e trabalho e contra a entrada da Rússia czarista na Primeira1 Guerra Mu
+ ndial.
+END:VEVENT
+BEGIN:VEVENT
+UID:596fe8c1c0e3edeadffbfd1131adda4abad6f0ba@feriados-brasil
+DTSTAMP:20230615T000000Z
+DTSTART;VALUE=DATE:20230615
+DTEND;VALUE=DATE:20230616
+SUMMARY:Aniversário do Acre
+CATEGORIES:ESTADUAL
+DESCRIPTION:De acordo com a Lei Estadual nº 14\, de 02 de setembro de 1964
+END:VEVENT
+BEGIN:VEVENT
+UID:c3e58de148a3090d92416f2b5bd3e984eef35f4f@feriados-brasil
+DTSTAMP:20230806T000000Z
+DTSTART;VALUE=DATE:20230806
+DTEND;VALUE=DATE:20230807
+SUMMARY:Revolução Acreana
+CATEGORIES:ESTADUAL
+END:VEVENT
+BEGIN:VEVENT
+UID:5ea754d564b8b8c0bd48d165ec9457b57c9b62b3@feriados-brasil
+DTSTAMP:20230908T000000Z
+DTSTART;VALUE=DATE:20230908
+DTEND;VALUE=DATE:20230909
+SUMMARY:Dia da Amazônia
+CATEGORIES:ESTADUAL
+DESCRIPTION:Conforme a lei Nº 243/1968\, no dia 5 de setembro comemora-se 
+ no Acre o dia da Amazônia\, a maior floresta do mundo. Feriado adiado par
+ a Sexta-Feira.
+END:VEVENT
+BEGIN:VEVENT
+UID:d9bb2ef64836c7f3ed8a1ee123fbcbc3938158f4@feriados-brasil
+DTSTAMP:20230624T000000Z
+DTSTART;VALUE=DATE:20230624
+DTEND;VALUE=DATE:20230625
+SUMMARY:Dia de São João
+CATEGORIES:ESTADUAL
+DESCRIPTION:O mastro de São João\, conhecido em Portugal também como o m
+ astro dos Santos Populares\, é erguido durante a festa junina para celebr
+ ar os três santos ligados a essa festa.
+END:VEVENT
+BEGIN:VEVENT
+UID:3b57dd109a37e2f2f977f495f1822d6609ad7d1d@feriados-brasil
+DTSTAMP:20230629T000000Z
+DTSTART;VALUE=DATE:20230629
+DTEND;VALUE=DATE:20230630
+SUMMARY:Dia de São Pedro
+CATEGORIES:ESTADUAL
+DESCRIPTION:São Pedro foi um dos doze apóstolos de Jesus Cristo\, segundo
+  o Novo Testamento e\, mais especificamente\, os quatro Evangelhos. Os cat
+ ólicos consideram Pedro como o primeiro Bispo de Roma\, sendo por isso o 
+ primeiro Papa da Igreja Católica.
+END:VEVENT
+BEGIN:VEVENT
+UID:e62691ab4817dceb4193b905bd479f1b9482dfa0@feriados-brasil
+DTSTAMP:20230916T000000Z
+DTSTART;VALUE=DATE:20230916
+DTEND;VALUE=DATE:20230917
+SUMMARY:Emancipação de Alagoas
+CATEGORIES:ESTADUAL
+DESCRIPTION:Comemoração da emancipação política do estado de Alagoas. 
+ Inicialmente o território alagoano constituía a parte sul da Capitania d
+ e Pernambuco e só conseguiu sua autonomia em 1817.
+END:VEVENT
+BEGIN:VEVENT
+UID:e9c993076ebeb4eb16aea1e5697734c97b036ff9@feriados-brasil
+DTSTAMP:20231120T000000Z
+DTSTART;VALUE=DATE:20231120
+DTEND;VALUE=DATE:20231121
+SUMMARY:Dia da Consciência Negra
+CATEGORIES:ESTADUAL
+DESCRIPTION:O Dia Nacional da Consciência Negra é celebrado em 20 de nove
+ mbro\, a data foi escolhida por coincidir com o dia da morte de Zumbi dos 
+ Palmares\, em 1695.
+END:VEVENT
+BEGIN:VEVENT
+UID:a52a11861e057d114cb88fcdf6d62cc202904c6b@feriados-brasil
+DTSTAMP:20231130T000000Z
+DTSTART;VALUE=DATE:20231130
+DTEND;VALUE=DATE:20231201
+SUMMARY:Dia do Evangélico
+CATEGORIES:ESTADUAL
+DESCRIPTION:Dia do evangélico\, conforme decreto nº 56.880\, de 19 de Dez
+ embro de 2017.
+END:VEVENT
+BEGIN:VEVENT
+UID:6398ecddefe10907ac2784750c8e7ed4da3911a4@feriados-brasil
+DTSTAMP:20230905T000000Z
+DTSTART;VALUE=DATE:20230905
+DTEND;VALUE=DATE:20230906
+SUMMARY:Aniversário do Amazonas
+CATEGORIES:ESTADUAL
+DESCRIPTION:Dia da elevação do Amazonas à categoria de província.
+END:VEVENT
+BEGIN:VEVENT
+UID:30f3a76e756f072c145f3cbb7becd89f98caac10@feriados-brasil
+DTSTAMP:20231120T000000Z
+DTSTART;VALUE=DATE:20231120
+DTEND;VALUE=DATE:20231121
+SUMMARY:Dia da Consciência Negra
+CATEGORIES:ESTADUAL
+DESCRIPTION:O Dia Nacional da Consciência Negra é celebrado em 20 de nove
+ mbro\, a data foi escolhida por coincidir com o dia da morte de Zumbi dos 
+ Palmares\, em 1695.
+END:VEVENT
+BEGIN:VEVENT
+UID:af766725e038354a8cad8ca8bf588101385f4b39@feriados-brasil
+DTSTAMP:20231208T000000Z
+DTSTART;VALUE=DATE:20231208
+DTEND;VALUE=DATE:20231209
+SUMMARY:Dia de Nossa Senhora da Conceição
+CATEGORIES:ESTADUAL
+END:VEVENT
+BEGIN:VEVENT
+UID:867e929d7e2e2939d1b9c3e3df3557deecf573d4@feriados-brasil
+DTSTAMP:20230319T000000Z
+DTSTART;VALUE=DATE:20230319
+DTEND;VALUE=DATE:20230320
+SUMMARY:Dia de São José
+CATEGORIES:ESTADUAL
+DESCRIPTION:São José é o santo padroeiro do Estado do Amapá.
+END:VEVENT
+BEGIN:VEVENT
+UID:6ebd270e952dc6c9ee4d40c314898a6e3ed82b50@feriados-brasil
+DTSTAMP:20230515T000000Z
+DTSTART;VALUE=DATE:20230515
+DTEND;VALUE=DATE:20230516
+SUMMARY:Dia de Cabralzinho
+CATEGORIES:ESTADUAL
+DESCRIPTION:Homenagem a Francisco Xavier da Veiga Cabral\, o Cabralzinho\, 
+ que rechaçou uma invasão francesa em 15 de maio de 1895. Conforme lei 2.
+ 213/2017
+END:VEVENT
+BEGIN:VEVENT
+UID:a36d2ea5e12c2123232fdb514a4bdf1c9c95ba05@feriados-brasil
+DTSTAMP:20230725T000000Z
+DTSTART;VALUE=DATE:20230725
+DTEND;VALUE=DATE:20230726
+SUMMARY:Dia de São Tiago
+CATEGORIES:ESTADUAL
+DESCRIPTION:De acordo com a Lei nº 1.696 de 09 de julho de 2012
+END:VEVENT
+BEGIN:VEVENT
+UID:d2dd7b639b1ca8f22a83bc55f98bf275da5edb93@feriados-brasil
+DTSTAMP:20230913T000000Z
+DTSTART;VALUE=DATE:20230913
+DTEND;VALUE=DATE:20230914
+SUMMARY:Aniversário da criação do ex-território federal do Amapá
+CATEGORIES:ESTADUAL
+DESCRIPTION:Dia da criação do território federal do Amapá.
+END:VEVENT
+BEGIN:VEVENT
+UID:7e7bfce6034a9230d1cf7c5ab6f6366e365c0463@feriados-brasil
+DTSTAMP:20231120T000000Z
+DTSTART;VALUE=DATE:20231120
+DTEND;VALUE=DATE:20231121
+SUMMARY:Dia da Consciência Negra
+CATEGORIES:ESTADUAL
+DESCRIPTION:De acordo com a Lei Nº 1.169\, de 27 de dezembro de 2007
+END:VEVENT
+BEGIN:VEVENT
+UID:35ee271f8245543525978be59280099209fbee45@feriados-brasil
+DTSTAMP:20231130T000000Z
+DTSTART;VALUE=DATE:20231130
+DTEND;VALUE=DATE:20231201
+SUMMARY:Dia do Evangélico
+CATEGORIES:ESTADUAL
+DESCRIPTION:Dia 30 de Novembro comemora-se o dia o evangélico no estado do
+  Amapá.
+END:VEVENT
+BEGIN:VEVENT
+UID:7cf5f126899133216569f8923b33c15afd663d54@feriados-brasil
+DTSTAMP:20231208T000000Z
+DTSTART;VALUE=DATE:20231208
+DTEND;VALUE=DATE:20231209
+SUMMARY:N. Sra. Conceição
+CATEGORIES:ESTADUAL
+DESCRIPTION:Dia de Nossa Senhora da Conceição
+END:VEVENT
+BEGIN:VEVENT
+UID:e5bb7c02734552e7d56f043e43fb4e11380494c4@feriados-brasil
+DTSTAMP:20230702T000000Z
+DTSTART;VALUE=DATE:20230702
+DTEND;VALUE=DATE:20230703
+SUMMARY:Independência da Bahia
+CATEGORIES:ESTADUAL
+DESCRIPTION:A Independência da Bahia foi um movimento que\, motivado pelo 
+ sentimento federalista emancipador de seu povo\, em 2 de julho de 1823 ter
+ minou pela inserção daquela então província na unidade nacional brasil
+ eira.
+END:VEVENT
+BEGIN:VEVENT
+UID:d84bd603fa0a18396638e6a392ed44d8e8742e7e@feriados-brasil
+DTSTAMP:20230325T000000Z
+DTSTART;VALUE=DATE:20230325
+DTEND;VALUE=DATE:20230326
+SUMMARY:Data Magna do Ceará
+CATEGORIES:ESTADUAL
+DESCRIPTION:É a data magna onde ocorrem as comemorações do estado do Cea
+ rá\, sendo o mesmo dia da abolição da escravidão neste estado. O Cear
+ á foi a primeira província brasileira a aboliar a escravidão.
+END:VEVENT
+BEGIN:VEVENT
+UID:0a100f31350ce7dc336048eb6928216da1dec001@feriados-brasil
+DTSTAMP:20231130T000000Z
+DTSTART;VALUE=DATE:20231130
+DTEND;VALUE=DATE:20231201
+SUMMARY:Dia do Evangélico
+CATEGORIES:ESTADUAL
+DESCRIPTION:O presidente Lula sancionou a Lei Nº 12.328 que torna o dia 30
+  de novembro o Dia Nacional do Evangélico. Este dia é feriado no DF e em
+  alguns outros estados
+END:VEVENT
+BEGIN:VEVENT
+UID:e7d34feb1163d624c13a36180115380cb362714c@feriados-brasil
+DTSTAMP:20230728T000000Z
+DTSTART;VALUE=DATE:20230728
+DTEND;VALUE=DATE:20230729
+SUMMARY:Adesão ao Império Brasileiro
+CATEGORIES:ESTADUAL
+DESCRIPTION:As tropas de Portugal depois de cercadas por terra e mar\, acab
+ aram por se render\, e o Maranhão\, a partir de 28 de julho de 1823\, dei
+ xou de ser estado colonial de Portugal\, tornando-se província do Impéri
+ o do Brasil.
+END:VEVENT
+BEGIN:VEVENT
+UID:fb1dece3e82365dab6d8ae42ba260a21e649d4db@feriados-brasil
+DTSTAMP:20231120T000000Z
+DTSTART;VALUE=DATE:20231120
+DTEND;VALUE=DATE:20231121
+SUMMARY:Consciência Negra
+CATEGORIES:ESTADUAL
+DESCRIPTION:Dia de comemoração da Consciência Negra
+END:VEVENT
+BEGIN:VEVENT
+UID:ae30d9aba793ac01daaebb16a47dcda750d0112c@feriados-brasil
+DTSTAMP:20231011T000000Z
+DTSTART;VALUE=DATE:20231011
+DTEND;VALUE=DATE:20231012
+SUMMARY:Aniversário do Mato Grosso do Sul
+CATEGORIES:ESTADUAL
+DESCRIPTION:Comemorações do aniversário de criação do Estado do Mato G
+ rosso do Sul.
+END:VEVENT
+BEGIN:VEVENT
+UID:27383bef44835c78a380a15bdfb474b4858d24cf@feriados-brasil
+DTSTAMP:20231120T000000Z
+DTSTART;VALUE=DATE:20231120
+DTEND;VALUE=DATE:20231121
+SUMMARY:Dia da Consciência Negra
+CATEGORIES:ESTADUAL
+DESCRIPTION:O Dia Nacional da Consciência Negra é celebrado em 20 de nove
+ mbro\, a data foi escolhida por coincidir com o dia da morte de Zumbi dos 
+ Palmares\, em 1695.
+END:VEVENT
+BEGIN:VEVENT
+UID:77faf83c31851985787875f1f7896657ccad7701@feriados-brasil
+DTSTAMP:20230815T000000Z
+DTSTART;VALUE=DATE:20230815
+DTEND;VALUE=DATE:20230816
+SUMMARY:Adesão ao Império Brasileiro
+CATEGORIES:ESTADUAL
+DESCRIPTION:"A Província do Pará foi a última a ser incorporada ao Impé
+ rio\, quando da Independência do Brasil uma vez que\, com fortes laços c
+ om Portugal\, não aceitou fazer parte da nova nação.
+END:VEVENT
+BEGIN:VEVENT
+UID:02f67b81b0a0f469bafd675e44c817bdc7b6c737@feriados-brasil
+DTSTAMP:20231208T000000Z
+DTSTART;VALUE=DATE:20231208
+DTEND;VALUE=DATE:20231209
+SUMMARY:N. Sra. Conceição
+CATEGORIES:ESTADUAL
+DESCRIPTION:Dia de Nossa Senhora da Conceição
+END:VEVENT
+BEGIN:VEVENT
+UID:01594d4c8e28b42f67d3b2d860dbbecce0f58d2d@feriados-brasil
+DTSTAMP:20230726T000000Z
+DTSTART;VALUE=DATE:20230726
+DTEND;VALUE=DATE:20230727
+SUMMARY:Homenagem a João Pessoa
+CATEGORIES:ESTADUAL
+DESCRIPTION:Homenagem ao ex-presidente João Pessoa que foi assassinado em 
+ 26 de Julho de 1930.
+END:VEVENT
+BEGIN:VEVENT
+UID:e1e379ad85a876f418d7a92c68a058fe773f08f8@feriados-brasil
+DTSTAMP:20230805T000000Z
+DTSTART;VALUE=DATE:20230805
+DTEND;VALUE=DATE:20230806
+SUMMARY:Fundação do Estado da Paraíba
+CATEGORIES:ESTADUAL
+DESCRIPTION:Comemoração da fundação do estado da Paraíba.
+END:VEVENT
+BEGIN:VEVENT
+UID:24ac8274cbab80a77a6c54d21e86d3f62b091d17@feriados-brasil
+DTSTAMP:20230306T000000Z
+DTSTART;VALUE=DATE:20230306
+DTEND;VALUE=DATE:20230307
+SUMMARY:Revolução Pernambucana
+CATEGORIES:ESTADUAL
+DESCRIPTION:Data Magna de Pernambuco (Lei nº 16.059\, de 8 de junho de 201
+ 7). A chamada Revolução Pernambucana\, também conhecida como Revoluçã
+ o dos Padres\, eclodiu em 6 de março de 1817 na então Província de Pern
+ ambuco\, no Brasil.
+END:VEVENT
+BEGIN:VEVENT
+UID:0a60db67ed3a7c5b0e15c621b7aaa5df090ec621@feriados-brasil
+DTSTAMP:20230624T000000Z
+DTSTART;VALUE=DATE:20230624
+DTEND;VALUE=DATE:20230625
+SUMMARY:Dia de São João
+CATEGORIES:ESTADUAL
+DESCRIPTION:O mastro de São João\, conhecido em Portugal também como o m
+ astro dos Santos Populares\, é erguido durante a festa junina para celebr
+ ar os três santos ligados a essa festa.
+END:VEVENT
+BEGIN:VEVENT
+UID:61e28b0ed530fb74ff4f8b473e053ffa7ad2abf6@feriados-brasil
+DTSTAMP:20231019T000000Z
+DTSTART;VALUE=DATE:20231019
+DTEND;VALUE=DATE:20231020
+SUMMARY:Dia do Piauí
+CATEGORIES:ESTADUAL
+DESCRIPTION:Independência da província do Piauí da coroa portuguesa\, qu
+ e ocorreu na cidade de Parnaiba. Feriado Estadual de acordo com a Lei Esta
+ dual nº 176\, de 30.08.1937.
+END:VEVENT
+BEGIN:VEVENT
+UID:c84587531a3da22686bb095e81f14ba0952a8557@feriados-brasil
+DTSTAMP:20230221T000000Z
+DTSTART;VALUE=DATE:20230221
+DTEND;VALUE=DATE:20230222
+SUMMARY:Carnaval
+CATEGORIES:ESTADUAL
+DESCRIPTION:Feriado estadual no Rio de Janeiro\, conforme lei 5243/2008. Po
+ nto Facultativo no restante do Brasil
+END:VEVENT
+BEGIN:VEVENT
+UID:925f75fa8617a0a92d03650ad9473dc564c2df7e@feriados-brasil
+DTSTAMP:20230423T000000Z
+DTSTART;VALUE=DATE:20230423
+DTEND;VALUE=DATE:20230424
+SUMMARY:Dia de São Jorge
+CATEGORIES:ESTADUAL
+DESCRIPTION:São Jorge foi\, de acordo com a tradição\, um padre e soldad
+ o romano no exército do imperador Diocleciano\, venerado como mártir cri
+ stão.
+END:VEVENT
+BEGIN:VEVENT
+UID:7ec9992c642f41ad9ac84dab833996cf51ed7d12@feriados-brasil
+DTSTAMP:20231120T000000Z
+DTSTART;VALUE=DATE:20231120
+DTEND;VALUE=DATE:20231121
+SUMMARY:Dia da Consciência Negra
+CATEGORIES:ESTADUAL
+DESCRIPTION:O Dia Nacional da Consciência Negra é Feriado no Rio de Janei
+ ro e celebrado em 20 de novembro\, a data foi escolhida por coincidir com 
+ o dia da morte de Zumbi dos Palmares\, em 1695.
+END:VEVENT
+BEGIN:VEVENT
+UID:6c19dc5e69a44c87b9abb72b19fd4d851b0a4354@feriados-brasil
+DTSTAMP:20231003T000000Z
+DTSTART;VALUE=DATE:20231003
+DTEND;VALUE=DATE:20231004
+SUMMARY:Mártires de Cunhaú e Uruaçu
+CATEGORIES:ESTADUAL
+DESCRIPTION:No dia 03 de outubro de 1645\, ocorreu o Massacre de Uruaçu\, 
+ onde 28 cristãos foram mortos por índios e soldados holandeses.
+END:VEVENT
+BEGIN:VEVENT
+UID:8c336d9e5e21eed6c69602dc1ce403e1d7c5934d@feriados-brasil
+DTSTAMP:20230104T000000Z
+DTSTART;VALUE=DATE:20230104
+DTEND;VALUE=DATE:20230105
+SUMMARY:Aniversário de Rondônia
+CATEGORIES:ESTADUAL
+DESCRIPTION:Aniversário da data de criação do Estado de Rondônia.
+END:VEVENT
+BEGIN:VEVENT
+UID:aff8508dafaec00fca260a34b3b278d7a15a6fba@feriados-brasil
+DTSTAMP:20230618T000000Z
+DTSTART;VALUE=DATE:20230618
+DTEND;VALUE=DATE:20230619
+SUMMARY:Dia do Evangélico
+CATEGORIES:ESTADUAL
+DESCRIPTION:Dia 18 de Junho comemora-se o dia o evangélico no estado de Ro
+ ndônia.
+END:VEVENT
+BEGIN:VEVENT
+UID:f416d8d5c1e696a4c4fc9b1890439769aa5e358c@feriados-brasil
+DTSTAMP:20231005T000000Z
+DTSTART;VALUE=DATE:20231005
+DTEND;VALUE=DATE:20231006
+SUMMARY:Aniversário de Roraima
+CATEGORIES:ESTADUAL
+DESCRIPTION:Comemorações do Aniversário da criação do Estado de Roraim
+ a.
+END:VEVENT
+BEGIN:VEVENT
+UID:b99ae788b5c11548897aff5be7a97fc3f0ace49e@feriados-brasil
+DTSTAMP:20231120T000000Z
+DTSTART;VALUE=DATE:20231120
+DTEND;VALUE=DATE:20231121
+SUMMARY:Dia da Consciência Negra
+CATEGORIES:ESTADUAL
+DESCRIPTION:O Dia Nacional da Consciência Negra é Feriado em Roraima e ce
+ lebrado em 20 de novembro\, a data foi escolhida por coincidir com o dia d
+ a morte de Zumbi dos Palmares\, em 1695.
+END:VEVENT
+BEGIN:VEVENT
+UID:a0a9d2ad38913e8c4b93717d59b544a5f56a79e7@feriados-brasil
+DTSTAMP:20230920T000000Z
+DTSTART;VALUE=DATE:20230920
+DTEND;VALUE=DATE:20230921
+SUMMARY:Proc. República Rio Grandense
+CATEGORIES:ESTADUAL
+DESCRIPTION:Em 1835 foi desencadeada a Revolução Farroupilha\, que manife
+ stava o descontentamento da Província de São Pedro do Rio Grande com o g
+ overno regencial do Império do Brasil. O movimento culminou na proclamaç
+ ão da República Rio-Grandense.
+END:VEVENT
+BEGIN:VEVENT
+UID:6b6025928294b9b4f3cd6350cd035f195ad83689@feriados-brasil
+DTSTAMP:20230811T000000Z
+DTSTART;VALUE=DATE:20230811
+DTEND;VALUE=DATE:20230812
+SUMMARY:Dia de Santa Catarina
+CATEGORIES:ESTADUAL
+DESCRIPTION:A Capitania de Santa Catarina foi criada em 11 de agosto de 173
+ 8. Em 28 de fevereiro de 1821 torna-se uma província\, que viria a ser o 
+ atual estado de Santa Catarina com a Proclamação da República.
+END:VEVENT
+BEGIN:VEVENT
+UID:4211d29bb70b0b798bd249b57aa143990496a95a@feriados-brasil
+DTSTAMP:20230708T000000Z
+DTSTART;VALUE=DATE:20230708
+DTEND;VALUE=DATE:20230709
+SUMMARY:Aniversário de Sergipe
+CATEGORIES:ESTADUAL
+DESCRIPTION:Aniversário da Autonomia Política de Sergipe.
+END:VEVENT
+BEGIN:VEVENT
+UID:789b59be5ced969883408fd033d02fd4515de817@feriados-brasil
+DTSTAMP:20230709T000000Z
+DTSTART;VALUE=DATE:20230709
+DTEND;VALUE=DATE:20230710
+SUMMARY:Revolução Constitucionalista
+CATEGORIES:ESTADUAL
+DESCRIPTION:A Revolução Constitucionalista de 1932 foi um movimento armad
+ o que tinha por objetivo a derrubada do Governo Provisório de Getúlio Va
+ rgas e a promulgação de uma nova constituição para o Brasil.
+END:VEVENT
+BEGIN:VEVENT
+UID:2c50d1ba4f788ed36143c8cbde790c93efdb458f@feriados-brasil
+DTSTAMP:20230908T000000Z
+DTSTART;VALUE=DATE:20230908
+DTEND;VALUE=DATE:20230909
+SUMMARY:Padroeira de Tocantins
+CATEGORIES:ESTADUAL
+DESCRIPTION:O nascimento de Nossa Senhora ou a Natividade de Maria é uma f
+ esta litúrgica das Igrejas Católica e Anglicana\, celebrada no dia 8 de 
+ setembro\, nove meses após a sua Imaculada Conceição\, celebrada em 8 d
+ e dezembro.
+END:VEVENT
+BEGIN:VEVENT
+UID:3e722ec2baafaeda14aee48afa136f959e830d47@feriados-brasil
+DTSTAMP:20231005T000000Z
+DTSTART;VALUE=DATE:20231005
+DTEND;VALUE=DATE:20231006
+SUMMARY:Aniversário de Tocantins
+CATEGORIES:ESTADUAL
+DESCRIPTION:Em 5 de outubro de 1988\, o norte de Goiás foi emancipado\, pa
+ ssando a se chamar Tocantins. Em 1º de janeiro de 1989\, a Unidade Federa
+ tiva do Tocantins foi oficialmente instalada.
+END:VEVENT
+END:VCALENDAR

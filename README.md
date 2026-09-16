@@ -36,6 +36,7 @@ Os dados estão disponíveis em três formatos:
 | **CSV** | Planilhas, Excel, Google Sheets, pandas |
 | **JSON** | Aplicações web, APIs, scripts |
 | **SQL** | Bancos de dados relacionais (PostgreSQL, MySQL, SQLite) |
+| **ICS** | Importação em calendários (Google Calendar, Outlook, Apple Calendar) |
 
 ### Estrutura de Dados
 
@@ -134,6 +135,7 @@ dados/
 │   └── municipios/
 ├── comemorativas/        # Datas comemorativas (não são feriados oficiais)
 │   ├── csv/
+│   ├── ics/
 │   ├── json/
 │   └── sql/
 └── feriados/
@@ -143,7 +145,9 @@ dados/
     └── facultativo/
 ```
 
-Cada subpasta contém arquivos organizados por ano (ex: `2024.json`, `2025.sql`).
+As pastas de cada categoria contêm os formatos disponíveis (`csv/`, `json/`, `sql/` e `ics/`).
+
+Cada subpasta contém arquivos organizados por ano (ex: `2024.json`, `2025.sql`, `2026.ics`). Os arquivos ICS usam eventos de dia inteiro e têm o término configurado para o dia seguinte, conforme o padrão iCalendar.
 
 ### Datas Comemorativas
 

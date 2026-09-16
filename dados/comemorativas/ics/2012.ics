@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//feriados-brasil//Calendario brasileiro//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Datas comemorativas 2012
+BEGIN:VEVENT
+UID:e1da4139b86a1f510232252a93ba5c5b6eeb2a9f@feriados-brasil
+DTSTAMP:20120214T000000Z
+DTSTART;VALUE=DATE:20120214
+DTEND;VALUE=DATE:20120215
+SUMMARY:Dia de São Valentim
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:O Dia de São Valentim\, celebrado em 14 de fevereiro\, é asso
+ ciado ao amor romântico em muitos países do mundo. No Brasil\, embora o 
+ Dia dos Namorados seja celebrado em 12 de junho\, a data também é reconh
+ ecida culturalmente pela influência internacional.
+END:VEVENT
+BEGIN:VEVENT
+UID:cb7a55303aa18089eb6a7ad49a9cbc31b3ab923a@feriados-brasil
+DTSTAMP:20120308T000000Z
+DTSTART;VALUE=DATE:20120308
+DTEND;VALUE=DATE:20120309
+SUMMARY:Dia Internacional da Mulher
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:O Dia Internacional da Mulher é celebrado anualmente em 8 de m
+ arço para homenagear as conquistas sociais\, econômicas\, culturais e po
+ líticas das mulheres. A data também é um apelo à ação em prol da igu
+ aldade de gênero. Instituído pela ONU em 1977\, no Brasil é amplamente 
+ celebrado.
+END:VEVENT
+BEGIN:VEVENT
+UID:d613b1a55fd0cec29930139d5114f084220cc072@feriados-brasil
+DTSTAMP:20120407T000000Z
+DTSTART;VALUE=DATE:20120407
+DTEND;VALUE=DATE:20120408
+SUMMARY:Dia Mundial da Saúde
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:O Dia Mundial da Saúde é comemorado anualmente em 7 de abril\
+ , data de fundação da Organização Mundial da Saúde (OMS) em 1948. Ser
+ ve para conscientizar a população sobre questões de saúde pública e p
+ romover políticas de bem-estar global.
+END:VEVENT
+BEGIN:VEVENT
+UID:e4f58afc6a209d65683df6e5b32417c60f78202c@feriados-brasil
+DTSTAMP:20120422T000000Z
+DTSTART;VALUE=DATE:20120422
+DTEND;VALUE=DATE:20120423
+SUMMARY:Dia da Terra
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:O Dia da Terra\, celebrado anualmente em 22 de abril\, é dedic
+ ado à proteção do meio ambiente. Foi criado em 1970 nos Estados Unidos 
+ e se tornou um movimento global que mobiliza bilhões de pessoas em mais d
+ e 193 países em defesa do planeta.
+END:VEVENT
+BEGIN:VEVENT
+UID:2f78e072e395da8305e9aa527621b18734226922@feriados-brasil
+DTSTAMP:20120423T000000Z
+DTSTART;VALUE=DATE:20120423
+DTEND;VALUE=DATE:20120424
+SUMMARY:Dia do Livro
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:O Dia Mundial do Livro e do Direito Autoral é comemorado em 23
+  de abril\, data escolhida pela UNESCO em 1995 por coincidir com a morte d
+ e William Shakespeare e Miguel de Cervantes. No Brasil\, a data celebra a 
+ leitura e a literatura como instrumentos de cultura e cidadania.
+END:VEVENT
+BEGIN:VEVENT
+UID:ea232e0b154705ea1c1876a7c37d5eb6d6c9dcf7@feriados-brasil
+DTSTAMP:20120513T000000Z
+DTSTART;VALUE=DATE:20120513
+DTEND;VALUE=DATE:20120514
+SUMMARY:Dia das Mães
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:O Dia das Mães é celebrado no segundo domingo de maio no Bras
+ il. A data homenageia as mães e a maternidade\, sendo uma das datas comem
+ orativas mais importantes do país. Em 2012\, cai no dia 13 de maio.
+END:VEVENT
+BEGIN:VEVENT
+UID:8742e84e7488f5b5a869bebb0cc9a483ea1df73f@feriados-brasil
+DTSTAMP:20120601T000000Z
+DTSTART;VALUE=DATE:20120601
+DTEND;VALUE=DATE:20120602
+SUMMARY:Dia Mundial da Criança
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:O Dia Mundial da Criança é celebrado em 1º de junho em muito
+ s países\, sendo uma data recomendada pela ONU para promover o bem-estar 
+ infantil e os direitos das crianças. No Brasil\, o Dia das Crianças é c
+ omemorado oficialmente em 12 de outubro.
+END:VEVENT
+BEGIN:VEVENT
+UID:f5b1614182bf5617d6d629f5b2cf1e80e5bf4eb1@feriados-brasil
+DTSTAMP:20120605T000000Z
+DTSTART;VALUE=DATE:20120605
+DTEND;VALUE=DATE:20120606
+SUMMARY:Dia Mundial do Meio Ambiente
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:O Dia Mundial do Meio Ambiente é celebrado anualmente em 5 de 
+ junho desde 1974\, por iniciativa do Programa das Nações Unidas para o M
+ eio Ambiente (PNUMA). A data foi estabelecida em memória da Conferência 
+ de Estocolmo de 1972\, que marcou o início das discussões globais sobre 
+ questões ambientais.
+END:VEVENT
+BEGIN:VEVENT
+UID:175edbaa1f2251a8dd6432d8ba4938d56f65992c@feriados-brasil
+DTSTAMP:20120612T000000Z
+DTSTART;VALUE=DATE:20120612
+DTEND;VALUE=DATE:20120613
+SUMMARY:Dia dos Namorados
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:O Dia dos Namorados é celebrado no Brasil em 12 de junho\, vé
+ spera do Dia de Santo Antônio\, padroeiro dos casamentos. A data foi cria
+ da no Brasil na década de 1940 por iniciativa comercial e rapidamente se 
+ tornou uma das datas mais populares para presentes e celebrações românt
+ icas.
+END:VEVENT
+BEGIN:VEVENT
+UID:52363e87f2e0cf78fe89bde6b25b2d6b65d62f85@feriados-brasil
+DTSTAMP:20120613T000000Z
+DTSTART;VALUE=DATE:20120613
+DTEND;VALUE=DATE:20120614
+SUMMARY:Dia de Santo Antônio
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:Santo Antônio de Lisboa ou Santo Antônio de Pádua é celebra
+ do em 13 de junho\, sendo considerado o santo dos namorados e dos casament
+ os no Brasil. Em Lisboa e em várias cidades brasileiras\, como São Paulo
+ \, é feriado municipal. Para o Brasil como um todo\, é uma importante da
+ ta religiosa e cultural.
+END:VEVENT
+BEGIN:VEVENT
+UID:9e49ed87ef38fc7bc566321d399bf2d0372befce@feriados-brasil
+DTSTAMP:20120624T000000Z
+DTSTART;VALUE=DATE:20120624
+DTEND;VALUE=DATE:20120625
+SUMMARY:Dia de São João
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:O Dia de São João Batista\, celebrado em 24 de junho\, é uma
+  das festas juninas mais tradicionais do Brasil\, especialmente no Nordest
+ e. Marca o auge das festas juninas com quadrilhas\, fogueiras\, forró e c
+ omidas típicas. Em alguns municípios nordestinos é feriado local.
+END:VEVENT
+BEGIN:VEVENT
+UID:f59deb870a05b3642ae224352a3f706ab96948bf@feriados-brasil
+DTSTAMP:20120725T000000Z
+DTSTART;VALUE=DATE:20120725
+DTEND;VALUE=DATE:20120726
+SUMMARY:Dia do Colono
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:O Dia do Colono\, comemorado em 25 de julho\, homenageia os imi
+ grantes europeus\, especialmente italianos e alemães\, que colonizaram o 
+ Sul do Brasil. Em estados como Rio Grande do Sul e Santa Catarina\, a data
+  tem grande importância histórica e cultural.
+END:VEVENT
+BEGIN:VEVENT
+UID:6c9ce00dcc4533e6a6a333c30a5e12665534f069@feriados-brasil
+DTSTAMP:20120812T000000Z
+DTSTART;VALUE=DATE:20120812
+DTEND;VALUE=DATE:20120813
+SUMMARY:Dia dos Pais
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:O Dia dos Pais é celebrado no segundo domingo de agosto no Bra
+ sil. A data homenageia os pais e a paternidade. Em 2012\, cai no dia 12 de
+  agosto. A comemoração foi criada no Brasil em 1953 por iniciativa comer
+ cial e se tornou uma das datas mais importantes do calendário familiar br
+ asileiro.
+END:VEVENT
+BEGIN:VEVENT
+UID:6f229c0446426ce6bdd47133b0140e7780d1ae21@feriados-brasil
+DTSTAMP:20121001T000000Z
+DTSTART;VALUE=DATE:20121001
+DTEND;VALUE=DATE:20121002
+SUMMARY:Dia do Idoso
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:O Dia Internacional do Idoso é comemorado em 1º de outubro\, 
+ data estabelecida pela ONU em 1990. No Brasil\, a data ganha especial rele
+ vância graças ao Estatuto do Idoso (Lei nº 10.741/2003)\, que garante d
+ ireitos fundamentais às pessoas com mais de 60 anos.
+END:VEVENT
+BEGIN:VEVENT
+UID:829bbf81624ba438817cc5359dc9f643e8a1ab7c@feriados-brasil
+DTSTAMP:20121012T000000Z
+DTSTART;VALUE=DATE:20121012
+DTEND;VALUE=DATE:20121013
+SUMMARY:Dia das Crianças
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:O Dia das Crianças é comemorado no Brasil em 12 de outubro\, 
+ coincidindo com o feriado de Nossa Senhora Aparecida. A data foi instituí
+ da pelo governo brasileiro em 1924 e celebra a infância e os direitos das
+  crianças brasileiras.
+END:VEVENT
+BEGIN:VEVENT
+UID:12030f93bdd259526c666d634bf8858f6eb35411@feriados-brasil
+DTSTAMP:20121015T000000Z
+DTSTART;VALUE=DATE:20121015
+DTEND;VALUE=DATE:20121016
+SUMMARY:Dia do Professor
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:O Dia do Professor é comemorado no Brasil em 15 de outubro des
+ de 1963\, quando o presidente João Goulart instituiu a data pelo Decreto 
+ nº 52.682. A data coincide com o aniversário da criação\, por Dom Pedr
+ o I\, das primeiras escolas de ensino elementar no Brasil em 1827.
+END:VEVENT
+BEGIN:VEVENT
+UID:048bdd8a25a6a47b823809dcde50cf4fab33253d@feriados-brasil
+DTSTAMP:20121031T000000Z
+DTSTART;VALUE=DATE:20121031
+DTEND;VALUE=DATE:20121101
+SUMMARY:Halloween
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:O Halloween é celebrado em 31 de outubro e tem origem na tradi
+ ção celta do Samhain. Embora não seja uma data oficial brasileira\, gan
+ hou grande popularidade no país\, especialmente entre crianças e jovens\
+ , com fantasias\, decorações e festas temáticas.
+END:VEVENT
+BEGIN:VEVENT
+UID:3c78a5eb42a18c22154e3d712e86c629c8d3fba8@feriados-brasil
+DTSTAMP:20121102T000000Z
+DTSTART;VALUE=DATE:20121102
+DTEND;VALUE=DATE:20121103
+SUMMARY:Dia de Finados
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:O Dia de Finados\, também chamado de Dia dos Mortos\, é celeb
+ rado em 2 de novembro. Embora seja feriado nacional\, também é uma data 
+ comemorativa de grande importância cultural e religiosa no Brasil\, com v
+ isitas a cemitérios e homenagens aos falecidos.
+END:VEVENT
+BEGIN:VEVENT
+UID:ff78cad5c64823712ae866e072f4030a5853a4ef@feriados-brasil
+DTSTAMP:20121120T000000Z
+DTSTART;VALUE=DATE:20121120
+DTEND;VALUE=DATE:20121121
+SUMMARY:Dia da Consciência Negra
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:O Dia da Consciência Negra é celebrado em 20 de novembro em h
+ omenagem a Zumbi dos Palmares\, líder do Quilombo dos Palmares\, morto ne
+ sta data em 1695. A data celebra a resistência e a cultura afro-brasileir
+ a e é feriado nacional desde 2024\, conforme a Lei 14.759/2023.
+END:VEVENT
+BEGIN:VEVENT
+UID:0cf8bd5af3c2dd3608ff07b6a9ae40a5e6e2b199@feriados-brasil
+DTSTAMP:20121224T000000Z
+DTSTART;VALUE=DATE:20121224
+DTEND;VALUE=DATE:20121225
+SUMMARY:Véspera de Natal
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:A Véspera de Natal é celebrada em 24 de dezembro. Embora não
+  seja feriado nacional\, é uma das noites mais celebradas do Brasil\, com
+  reuniões familiares\, ceia natalina\, troca de presentes e celebrações
+  religiosas.
+END:VEVENT
+BEGIN:VEVENT
+UID:603904fb7070d541a6647419e018892506506b94@feriados-brasil
+DTSTAMP:20121231T000000Z
+DTSTART;VALUE=DATE:20121231
+DTEND;VALUE=DATE:20130101
+SUMMARY:Réveillon
+CATEGORIES:COMEMORATIVA
+DESCRIPTION:O Réveillon é a celebração da passagem do ano\, realizada n
+ a noite de 31 de dezembro para 1º de janeiro. No Brasil\, é uma das maio
+ res festas populares\, com eventos nas principais cidades\, queima de fogo
+ s e a tradicional ida ao mar para oferendas à Iemanjá\, especialmente no
+  Rio de Janeiro.
+END:VEVENT
+END:VCALENDAR

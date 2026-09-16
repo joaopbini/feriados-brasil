@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//feriados-brasil//Calendario brasileiro//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Feriados nacionais 2016
+BEGIN:VEVENT
+UID:f5af1d5bfff80de600e15d12d320a978d06a4c52@feriados-brasil
+DTSTAMP:20160101T000000Z
+DTSTART;VALUE=DATE:20160101
+DTEND;VALUE=DATE:20160102
+SUMMARY:Ano Novo
+CATEGORIES:NACIONAL
+DESCRIPTION:O Ano-Novo ou Réveillon é um evento que acontece quando uma c
+ ultura celebra o fim de um ano e o começo do próximo. A celebração do 
+ evento é também chamada Réveillon\, termo oriundo do verbo francês ré
+ veiller\, que em português significa DESPERTAR
+END:VEVENT
+BEGIN:VEVENT
+UID:80715300e56c325e33ce45979e3e6e35e29454de@feriados-brasil
+DTSTAMP:20160325T000000Z
+DTSTART;VALUE=DATE:20160325
+DTEND;VALUE=DATE:20160326
+SUMMARY:Sexta-Feira Santa
+CATEGORIES:NACIONAL
+DESCRIPTION:Também chamada de "Sexta Feira da Paixão" é a sexta-feira qu
+ e ocorre antes do domingo de Páscoa\, e é o dia que os cristãos lembram
+  da crucificação de Cristo.
+END:VEVENT
+BEGIN:VEVENT
+UID:aa7f4e5231e707bc6a7ab42f8c2f0faf4a600711@feriados-brasil
+DTSTAMP:20160421T000000Z
+DTSTART;VALUE=DATE:20160421
+DTEND;VALUE=DATE:20160422
+SUMMARY:Dia de Tiradentes
+CATEGORIES:NACIONAL
+DESCRIPTION:Joaquim José da Silva Xavier\, o Tiradentes foi um dentista\, 
+ tropeiro\, minerador\, comerciante\, militar e ativista político. É reco
+ nhecido como mártir da Inconfidência Mineira e herói nacional. O dia de
+  sua execução\, 21 de abril\, é feriado nacional.
+END:VEVENT
+BEGIN:VEVENT
+UID:cea35021526d43d088851cbca356a03041d9c26a@feriados-brasil
+DTSTAMP:20160501T000000Z
+DTSTART;VALUE=DATE:20160501
+DTEND;VALUE=DATE:20160502
+SUMMARY:Dia do Trabalho
+CATEGORIES:NACIONAL
+DESCRIPTION:O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é 
+ celebrado anualmente no dia 1º de Maio em numerosos países do mundo\, se
+ ndo feriado no Brasil\, em Portugal e em outros países.
+END:VEVENT
+BEGIN:VEVENT
+UID:d7ac774f3ad43a4a301475ed5e456178d279106e@feriados-brasil
+DTSTAMP:20160907T000000Z
+DTSTART;VALUE=DATE:20160907
+DTEND;VALUE=DATE:20160908
+SUMMARY:Independência do Brasil
+CATEGORIES:NACIONAL
+DESCRIPTION:O Dia da Indepência do Brasil\, oficialmente a data comemorada
+  é a de 7 de setembro de 1822\, em que ocorreu o chamado "Grito do Ipiran
+ ga".
+END:VEVENT
+BEGIN:VEVENT
+UID:ae255b43b1c58d710152a8fd64e205220eee34a0@feriados-brasil
+DTSTAMP:20161012T000000Z
+DTSTART;VALUE=DATE:20161012
+DTEND;VALUE=DATE:20161013
+SUMMARY:Nossa Senhora Aparecida
+CATEGORIES:NACIONAL
+DESCRIPTION:Nossa Senhora da Conceição Aparecida é a padroeira do Brasil
+ . Sua festa é celebrada em 12 de outubro\, um feriado nacional desde que 
+ o Papa João Paulo II consagrou a Basílica em 1980.
+END:VEVENT
+BEGIN:VEVENT
+UID:7eb726937b71bed8c7cc29c719e5a275c3d3d9e8@feriados-brasil
+DTSTAMP:20161102T000000Z
+DTSTART;VALUE=DATE:20161102
+DTEND;VALUE=DATE:20161103
+SUMMARY:Dia de Finados
+CATEGORIES:NACIONAL
+DESCRIPTION:O Dia de Finados ou Dia dos Fiéis Defuntos\, (conhecido ainda 
+ como Dia dos Mortos no México)\, é celebrado pela Igreja Católica no di
+ a 2 de novembro e é Feriado Nacional.
+END:VEVENT
+BEGIN:VEVENT
+UID:6d8f33abf940b26bd840de6b2bc33c9d0e653b77@feriados-brasil
+DTSTAMP:20161115T000000Z
+DTSTART;VALUE=DATE:20161115
+DTEND;VALUE=DATE:20161116
+SUMMARY:Proclamação da República
+CATEGORIES:NACIONAL
+DESCRIPTION:A Proclamação da República foi um levante político-militar 
+ ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Feder
+ ativa Presidencialista de governo no Brasil\, derrubando a Monarquia e\, p
+ or conseguinte\, o imperador dom Pedro II.
+END:VEVENT
+BEGIN:VEVENT
+UID:11224eac2e331e19784530dd6c1d853391bcee51@feriados-brasil
+DTSTAMP:20161225T000000Z
+DTSTART;VALUE=DATE:20161225
+DTEND;VALUE=DATE:20161226
+SUMMARY:Natal
+CATEGORIES:NACIONAL
+DESCRIPTION:O Natal é comemorado anualmente em 25 de Dezembro. Originalmen
+ te destinado a celebrar o nascimento anual do Deus Sol no solstício de in
+ verno\, foi adaptado pela Igreja Católica no 3o século d.C.\, para permi
+ tir a conversão dos povos pagãos sob o domínio do Império Romano\, pas
+ sando a comemorar o nascimento de Jesus de Nazaré.
+END:VEVENT
+END:VCALENDAR

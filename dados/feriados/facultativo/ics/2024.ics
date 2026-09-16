@@ -1,0 +1,175 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//feriados-brasil//Calendario brasileiro//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Pontos facultativos 2024
+BEGIN:VEVENT
+UID:8f3c55c0c34b3b62a1ead2e2562c3b364d75195c@feriados-brasil
+DTSTAMP:20240212T000000Z
+DTSTART;VALUE=DATE:20240212
+DTEND;VALUE=DATE:20240213
+SUMMARY:Carnaval
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Ponto Facultativo\, ou seja\, cabe às empresas e orgão públi
+ cos decidirem se trabalharão ou não.
+END:VEVENT
+BEGIN:VEVENT
+UID:e0820bf4c7c16fdc0e74d3003183d837508639ac@feriados-brasil
+DTSTAMP:20240212T000000Z
+DTSTART;VALUE=DATE:20240212
+DTEND;VALUE=DATE:20240213
+SUMMARY:Segunda de Carnaval
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Ponto Facultativo nas repartições públicas
+END:VEVENT
+BEGIN:VEVENT
+UID:ec33912233520a4b3e6eec3f3f23f4858fb9cb39@feriados-brasil
+DTSTAMP:20240213T000000Z
+DTSTART;VALUE=DATE:20240213
+DTEND;VALUE=DATE:20240214
+SUMMARY:Carnaval
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Carnaval NÃO é um feriado oficial\, é Ponto Facultativo\, ou
+  seja\, cabe às empresas e orgão públicos decidirem se trabalharão ou 
+ não.
+END:VEVENT
+BEGIN:VEVENT
+UID:1beffbba979d6344d5965ebe7cf69bbe368b2ac2@feriados-brasil
+DTSTAMP:20240213T000000Z
+DTSTART;VALUE=DATE:20240213
+DTEND;VALUE=DATE:20240214
+SUMMARY:Terça de Carnaval
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Feriado apenas no Comércio\, segundo Lei nº 5913\, de 21 de j
+ unho de 1991
+END:VEVENT
+BEGIN:VEVENT
+UID:a4a844fd667189e41a542d19779dd8648a8c4986@feriados-brasil
+DTSTAMP:20240214T000000Z
+DTSTART;VALUE=DATE:20240214
+DTEND;VALUE=DATE:20240215
+SUMMARY:Carnaval
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Ponto Facultativo até às 14h.
+END:VEVENT
+BEGIN:VEVENT
+UID:646a46189214b33c85035cc6611e231d976ba2a6@feriados-brasil
+DTSTAMP:20240214T000000Z
+DTSTART;VALUE=DATE:20240214
+DTEND;VALUE=DATE:20240215
+SUMMARY:Quarta Feira de Cinzas
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Ponto Facultativo nas repartições públicas
+END:VEVENT
+BEGIN:VEVENT
+UID:a4dd1b74bae4fecd6e531c9ad7504cc5a80023a0@feriados-brasil
+DTSTAMP:20240228T000000Z
+DTSTART;VALUE=DATE:20240228
+DTEND;VALUE=DATE:20240229
+SUMMARY:Facultativo
+CATEGORIES:FACULTATIVO
+DESCRIPTION:aniversário de morte de José Pedro Dias\, fundador de Juara
+END:VEVENT
+BEGIN:VEVENT
+UID:a4fc192d87e0cd4cad0ac32a636a2cbf21881c57@feriados-brasil
+DTSTAMP:20240319T000000Z
+DTSTART;VALUE=DATE:20240319
+DTEND;VALUE=DATE:20240320
+SUMMARY:Dia de São José
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Padroeiro do Estado do Ceará
+END:VEVENT
+BEGIN:VEVENT
+UID:c9b5c8e7176ce5c3655591be3b212717575c2f74@feriados-brasil
+DTSTAMP:20240319T000000Z
+DTSTART;VALUE=DATE:20240319
+DTEND;VALUE=DATE:20240320
+SUMMARY:São José
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Dia de São José padroeiro de Mafra
+END:VEVENT
+BEGIN:VEVENT
+UID:ab6b2144ed2e1c360b639a09da784452b1b17c6d@feriados-brasil
+DTSTAMP:20240328T000000Z
+DTSTART;VALUE=DATE:20240328
+DTEND;VALUE=DATE:20240329
+SUMMARY:Quinta-feira santa
+CATEGORIES:FACULTATIVO
+END:VEVENT
+BEGIN:VEVENT
+UID:b4f8ca56f045aff927bac7374c1c8acc694fcc85@feriados-brasil
+DTSTAMP:20240530T000000Z
+DTSTART;VALUE=DATE:20240530
+DTEND;VALUE=DATE:20240531
+SUMMARY:Corpus Christi
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Ponto Facultativo no País\, mas Feriado Municipal em algumas c
+ idades.. Corpus Christi\, expressão latina que significa Corpo de Cristo\
+ , é uma festa Cristã realizada na quinta-feira seguinte ao domingo da Sa
+ ntíssima Trindade.
+END:VEVENT
+BEGIN:VEVENT
+UID:2e817b28a62278354bc332126c93390f51fb175d@feriados-brasil
+DTSTAMP:20240726T000000Z
+DTSTART;VALUE=DATE:20240726
+DTEND;VALUE=DATE:20240727
+SUMMARY:Fundação da Cidade de Goiás
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Feriado para Servidores Públicos. Determinado pelo Estatuto do
+ s Funcionários Públicos Civis do Estado de Goiás e de suas Autarquias\,
+  Lei nº 10.460\, de 22 de fevereiro de 1988
+END:VEVENT
+BEGIN:VEVENT
+UID:5f0e109122619028593943c93eee8a35f20c6c8a@feriados-brasil
+DTSTAMP:20241015T000000Z
+DTSTART;VALUE=DATE:20241015
+DTEND;VALUE=DATE:20241016
+SUMMARY:Dia do Professor
+CATEGORIES:FACULTATIVO
+DESCRIPTION:FERIADO ESCOLAR - No dia 15 de outubro de 1827 (dia consagrado 
+ à educadora Santa Teresa de Ávila)\, o Imperador do Brasil\, Pedro I\, b
+ aixou um Decreto Imperial que criou o Ensino Elementar no Brasil. Pelo dec
+ reto\, "todas as cidades\, vilas e lugarejos teriam suas escolas de primei
+ ras letras"
+END:VEVENT
+BEGIN:VEVENT
+UID:9725d78fa32970c76d810144b228886bd30a1caa@feriados-brasil
+DTSTAMP:20241024T000000Z
+DTSTART;VALUE=DATE:20241024
+DTEND;VALUE=DATE:20241025
+SUMMARY:Pedra fundamental de Goiânia
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Feriado para Servidores Públicos. Determinado pelo Estatuto do
+ s Funcionários Públicos Civis do Estado de Goiás e de suas Autarquias\,
+  Lei nº 10.460\, de 22 de fevereiro de 1988
+END:VEVENT
+BEGIN:VEVENT
+UID:10691de3ed793a814ec53004d2890aa73ed0cad8@feriados-brasil
+DTSTAMP:20241028T000000Z
+DTSTART;VALUE=DATE:20241028
+DTEND;VALUE=DATE:20241029
+SUMMARY:Dia do Servidor Público
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Dia do Servidor Público - art. 249 da Lei Municipal nº 2.215/
+ 1991. O dia do servidor público é feriado apenas para funcionários púb
+ licos.
+END:VEVENT
+BEGIN:VEVENT
+UID:373feda14e3dc4428ac57e265cc6f73b2bd40371@feriados-brasil
+DTSTAMP:20241231T000000Z
+DTSTART;VALUE=DATE:20241231
+DTEND;VALUE=DATE:20250101
+SUMMARY:Após o meio-dia\, Véspera de Ano Novo
+CATEGORIES:FACULTATIVO
+DESCRIPTION:De acordo com o Decreto nº 18882-E de 01 de junho de 2015
+END:VEVENT
+BEGIN:VEVENT
+UID:63867cb352aa3fb085e21d0ca5ff69e08dd954ba@feriados-brasil
+DTSTAMP:20241214T000000Z
+DTSTART;VALUE=DATE:20241214
+DTEND;VALUE=DATE:20241215
+SUMMARY:Aniversário de Jundiaí
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Data comemorativa e ponto facultativo
+END:VEVENT
+END:VCALENDAR

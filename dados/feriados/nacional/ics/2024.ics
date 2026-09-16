@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//feriados-brasil//Calendario brasileiro//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Feriados nacionais 2024
+BEGIN:VEVENT
+UID:d0a2936e6e9715d7f2b1e20249376b8ae3b37cdc@feriados-brasil
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20240101
+DTEND;VALUE=DATE:20240102
+SUMMARY:Ano Novo
+CATEGORIES:NACIONAL
+DESCRIPTION:O Ano-Novo ou Réveillon é um evento que acontece quando uma c
+ ultura celebra o fim de um ano e o começo do próximo. A celebração do 
+ evento é também chamada Réveillon\, termo oriundo do verbo francês ré
+ veiller\, que em português significa DESPERTAR
+END:VEVENT
+BEGIN:VEVENT
+UID:e63201eb25b90b56c96745b86264949c211d35e8@feriados-brasil
+DTSTAMP:20240329T000000Z
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240330
+SUMMARY:Sexta-Feira Santa
+CATEGORIES:NACIONAL
+DESCRIPTION:Também chamada de "Sexta Feira da Paixão" é a sexta-feira qu
+ e ocorre antes do domingo de Páscoa\, e é o dia que os cristãos lembram
+  da crucificação de Cristo.
+END:VEVENT
+BEGIN:VEVENT
+UID:549951027a2893604f7e5f9fe00605d9eb535a65@feriados-brasil
+DTSTAMP:20240421T000000Z
+DTSTART;VALUE=DATE:20240421
+DTEND;VALUE=DATE:20240422
+SUMMARY:Dia de Tiradentes
+CATEGORIES:NACIONAL
+DESCRIPTION:Joaquim José da Silva Xavier\, o Tiradentes foi um dentista\, 
+ tropeiro\, minerador\, comerciante\, militar e ativista político. É reco
+ nhecido como mártir da Inconfidência Mineira e herói nacional. O dia de
+  sua execução\, 21 de abril\, é feriado nacional.
+END:VEVENT
+BEGIN:VEVENT
+UID:511556d8b773a136b2a09c97be1c16c9f45597a9@feriados-brasil
+DTSTAMP:20240501T000000Z
+DTSTART;VALUE=DATE:20240501
+DTEND;VALUE=DATE:20240502
+SUMMARY:Dia do Trabalho
+CATEGORIES:NACIONAL
+DESCRIPTION:O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é 
+ celebrado anualmente no dia 1º de Maio em numerosos países do mundo\, se
+ ndo feriado no Brasil\, em Portugal e em outros países.
+END:VEVENT
+BEGIN:VEVENT
+UID:c9164b8f7bc919250475cc3726d8e0cd7821ff48@feriados-brasil
+DTSTAMP:20240907T000000Z
+DTSTART;VALUE=DATE:20240907
+DTEND;VALUE=DATE:20240908
+SUMMARY:Independência do Brasil
+CATEGORIES:NACIONAL
+DESCRIPTION:O Dia da Indepência do Brasil\, oficialmente a data comemorada
+  é a de 7 de setembro de 1822\, em que ocorreu o chamado "Grito do Ipiran
+ ga".
+END:VEVENT
+BEGIN:VEVENT
+UID:331995989004fccfc4c6909b211a36f7252a8291@feriados-brasil
+DTSTAMP:20241012T000000Z
+DTSTART;VALUE=DATE:20241012
+DTEND;VALUE=DATE:20241013
+SUMMARY:Nossa Senhora Aparecida
+CATEGORIES:NACIONAL
+DESCRIPTION:Nossa Senhora da Conceição Aparecida é a padroeira do Brasil
+ . Sua festa é celebrada em 12 de outubro\, um feriado nacional desde que 
+ o Papa João Paulo II consagrou a Basílica em 1980.
+END:VEVENT
+BEGIN:VEVENT
+UID:4a4d757249f9bdfcc8fe799414d6d9cf63fd78fa@feriados-brasil
+DTSTAMP:20241102T000000Z
+DTSTART;VALUE=DATE:20241102
+DTEND;VALUE=DATE:20241103
+SUMMARY:Dia de Finados
+CATEGORIES:NACIONAL
+DESCRIPTION:O Dia de Finados ou Dia dos Fiéis Defuntos\, (conhecido ainda 
+ como Dia dos Mortos no México)\, é celebrado pela Igreja Católica no di
+ a 2 de novembro e é Feriado Nacional.
+END:VEVENT
+BEGIN:VEVENT
+UID:9bbeccde6f16accd91cd55dba751d7cfece291e7@feriados-brasil
+DTSTAMP:20241115T000000Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20241116
+SUMMARY:Proclamação da República
+CATEGORIES:NACIONAL
+DESCRIPTION:A Proclamação da República foi um levante político-militar 
+ ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Feder
+ ativa Presidencialista de governo no Brasil\, derrubando a Monarquia e\, p
+ or conseguinte\, o imperador dom Pedro II.
+END:VEVENT
+BEGIN:VEVENT
+UID:793c250e85a7abdfe4b129b42b67b332b5ee076b@feriados-brasil
+DTSTAMP:20241120T000000Z
+DTSTART;VALUE=DATE:20241120
+DTEND;VALUE=DATE:20241121
+SUMMARY:Consciência Negra
+CATEGORIES:NACIONAL
+DESCRIPTION:Dia Nacional de Zumbi ou Dia da Consciência Negra é Feriado N
+ acional\, conforme Lei 14.759/2023
+END:VEVENT
+BEGIN:VEVENT
+UID:76ef0f09866d8b55c5427bb6873b565f4d649445@feriados-brasil
+DTSTAMP:20241225T000000Z
+DTSTART;VALUE=DATE:20241225
+DTEND;VALUE=DATE:20241226
+SUMMARY:Natal
+CATEGORIES:NACIONAL
+DESCRIPTION:O Natal é comemorado anualmente em 25 de Dezembro. Originalmen
+ te destinado a celebrar o nascimento anual do Deus Sol no solstício de in
+ verno\, foi adaptado pela Igreja Católica no 3o século d.C.\, para permi
+ tir a conversão dos povos pagãos sob o domínio do Império Romano\, pas
+ sando a comemorar o nascimento de Jesus de Nazaré.
+END:VEVENT
+END:VCALENDAR
