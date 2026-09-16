@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//feriados-brasil//Calendario brasileiro//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Pontos facultativos 2011
+BEGIN:VEVENT
+UID:4a42093599dcbc295e1cd5ae75d7cf6ac6a7ade7@feriados-brasil
+DTSTAMP:20110228T000000Z
+DTSTART;VALUE=DATE:20110228
+DTEND;VALUE=DATE:20110301
+SUMMARY:Facultativo
+CATEGORIES:FACULTATIVO
+DESCRIPTION:aniversário de morte de José Pedro Dias\, fundador de Juara
+END:VEVENT
+BEGIN:VEVENT
+UID:63bf6bf95db55f5161213968255265f30b003b8f@feriados-brasil
+DTSTAMP:20110307T000000Z
+DTSTART;VALUE=DATE:20110307
+DTEND;VALUE=DATE:20110308
+SUMMARY:Carnaval
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Ponto Facultativo\, ou seja\, cabe às empresas e orgão públi
+ cos decidirem se trabalharão ou não.
+END:VEVENT
+BEGIN:VEVENT
+UID:1323d0d9a915eabf1f775a9d60153e692cb673ff@feriados-brasil
+DTSTAMP:20110307T000000Z
+DTSTART;VALUE=DATE:20110307
+DTEND;VALUE=DATE:20110308
+SUMMARY:Segunda de Carnaval
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Ponto Facultativo nas repartições públicas
+END:VEVENT
+BEGIN:VEVENT
+UID:cef5ba542b805e48eccf115e2933a2fd988c3dfb@feriados-brasil
+DTSTAMP:20110308T000000Z
+DTSTART;VALUE=DATE:20110308
+DTEND;VALUE=DATE:20110309
+SUMMARY:Carnaval
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Carnaval NÃO é um feriado oficial\, é Ponto Facultativo\, ou
+  seja\, cabe às empresas e orgão públicos decidirem se trabalharão ou 
+ não.
+END:VEVENT
+BEGIN:VEVENT
+UID:9a098e4117fec93973fb36b37a9d8c0fde2ac341@feriados-brasil
+DTSTAMP:20110308T000000Z
+DTSTART;VALUE=DATE:20110308
+DTEND;VALUE=DATE:20110309
+SUMMARY:Terça de Carnaval
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Feriado apenas no Comércio\, segundo Lei nº 5913\, de 21 de j
+ unho de 1991
+END:VEVENT
+BEGIN:VEVENT
+UID:cf38ff8c2a9f0b5488a7b9af3b357f2b42a72152@feriados-brasil
+DTSTAMP:20110309T000000Z
+DTSTART;VALUE=DATE:20110309
+DTEND;VALUE=DATE:20110310
+SUMMARY:Carnaval
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Ponto Facultativo até às 14h.
+END:VEVENT
+BEGIN:VEVENT
+UID:d185f5ecc7eb30427a52d52c94575fee24e1f97f@feriados-brasil
+DTSTAMP:20110309T000000Z
+DTSTART;VALUE=DATE:20110309
+DTEND;VALUE=DATE:20110310
+SUMMARY:Quarta Feira de Cinzas
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Ponto Facultativo nas repartições públicas
+END:VEVENT
+BEGIN:VEVENT
+UID:832bb7d4ea7fa06777e3fcd0ec349d7aedaaba37@feriados-brasil
+DTSTAMP:20110319T000000Z
+DTSTART;VALUE=DATE:20110319
+DTEND;VALUE=DATE:20110320
+SUMMARY:Dia de São José
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Padroeiro do Estado do Ceará
+END:VEVENT
+BEGIN:VEVENT
+UID:942d7e7fdfc526b007948828f0f6b4520679103c@feriados-brasil
+DTSTAMP:20110319T000000Z
+DTSTART;VALUE=DATE:20110319
+DTEND;VALUE=DATE:20110320
+SUMMARY:São José
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Dia de São José padroeiro de Mafra
+END:VEVENT
+BEGIN:VEVENT
+UID:9a66ff427eeb0c29a62a97d3934f2d4b03ce4639@feriados-brasil
+DTSTAMP:20110329T000000Z
+DTSTART;VALUE=DATE:20110329
+DTEND;VALUE=DATE:20110330
+SUMMARY:Aniversário da Cidade
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Fundação de Curitiba - Aniversário da Cidade (Ponto Facultat
+ ivo)\, conforme Lei Municipal nº229\,26/12/49
+END:VEVENT
+BEGIN:VEVENT
+UID:1afdff612a2dfe74889b262b96d7a3280c198648@feriados-brasil
+DTSTAMP:20110421T000000Z
+DTSTART;VALUE=DATE:20110421
+DTEND;VALUE=DATE:20110422
+SUMMARY:Quinta-feira santa
+CATEGORIES:FACULTATIVO
+END:VEVENT
+BEGIN:VEVENT
+UID:4e0e757c544ae74d78ec7d13a9fec876b16c18fa@feriados-brasil
+DTSTAMP:20110623T000000Z
+DTSTART;VALUE=DATE:20110623
+DTEND;VALUE=DATE:20110624
+SUMMARY:Corpus Christi
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Ponto Facultativo no País\, mas Feriado Municipal em algumas c
+ idades.. Corpus Christi\, expressão latina que significa Corpo de Cristo\
+ , é uma festa Cristã realizada na quinta-feira seguinte ao domingo da Sa
+ ntíssima Trindade.
+END:VEVENT
+BEGIN:VEVENT
+UID:1ef7c1d8456262fc3c346270f1506d948f8406bf@feriados-brasil
+DTSTAMP:20110726T000000Z
+DTSTART;VALUE=DATE:20110726
+DTEND;VALUE=DATE:20110727
+SUMMARY:Fundação da Cidade de Goiás
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Feriado para Servidores Públicos. Determinado pelo Estatuto do
+ s Funcionários Públicos Civis do Estado de Goiás e de suas Autarquias\,
+  Lei nº 10.460\, de 22 de fevereiro de 1988
+END:VEVENT
+BEGIN:VEVENT
+UID:53b671d7a7581ce17b7cf37df8dfb6e3ec414e3d@feriados-brasil
+DTSTAMP:20111015T000000Z
+DTSTART;VALUE=DATE:20111015
+DTEND;VALUE=DATE:20111016
+SUMMARY:Dia do Professor
+CATEGORIES:FACULTATIVO
+DESCRIPTION:FERIADO ESCOLAR - No dia 15 de outubro de 1827 (dia consagrado 
+ à educadora Santa Teresa de Ávila)\, o Imperador do Brasil\, Pedro I\, b
+ aixou um Decreto Imperial que criou o Ensino Elementar no Brasil. Pelo dec
+ reto\, "todas as cidades\, vilas e lugarejos teriam suas escolas de primei
+ ras letras"
+END:VEVENT
+BEGIN:VEVENT
+UID:a1377eee1d323f4094f6b2cbf86db6de4b63b1a5@feriados-brasil
+DTSTAMP:20111024T000000Z
+DTSTART;VALUE=DATE:20111024
+DTEND;VALUE=DATE:20111025
+SUMMARY:Pedra fundamental de Goiânia
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Feriado para Servidores Públicos. Determinado pelo Estatuto do
+ s Funcionários Públicos Civis do Estado de Goiás e de suas Autarquias\,
+  Lei nº 10.460\, de 22 de fevereiro de 1988
+END:VEVENT
+BEGIN:VEVENT
+UID:56af84d4c5e8ed8c7f86c9f69aac4e09d94f0304@feriados-brasil
+DTSTAMP:20111028T000000Z
+DTSTART;VALUE=DATE:20111028
+DTEND;VALUE=DATE:20111029
+SUMMARY:Dia do Servidor Público
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Dia do Servidor Público - art. 249 da Lei Municipal nº 2.215/
+ 1991. O dia do servidor público é feriado apenas para funcionários púb
+ licos.
+END:VEVENT
+BEGIN:VEVENT
+UID:7f670400bd3afe7351e4038ac00b4bfe2e829374@feriados-brasil
+DTSTAMP:20111118T000000Z
+DTSTART;VALUE=DATE:20111118
+DTEND;VALUE=DATE:20111119
+SUMMARY:Tratado de Petrópolis
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Feriado no dia 17de Novembro\, segundo a lei Nº 57/1965\, mas 
+ adiado para próxima Sexta-Feira. O atual estado brasileiro do Acre era\, 
+ no início do século XX\, uma região pertencente à Bolívia e foi incor
+ porado ao Brasil pelo Barão do Rio Branco através do Tratado de Petrópo
+ lis\, firmado em 17 de novembro de 1903.
+END:VEVENT
+BEGIN:VEVENT
+UID:bbf57a240865931b24fb691432207813a0e96b8b@feriados-brasil
+DTSTAMP:20111120T000000Z
+DTSTART;VALUE=DATE:20111120
+DTEND;VALUE=DATE:20111121
+SUMMARY:Dia da Consciência Negra
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Lei Municipal No 1985\, de 2009. Prefeitura não funcionará. O
+  Comércio deverá Funcionar normalmente
+END:VEVENT
+BEGIN:VEVENT
+UID:ae49bc1b56c9a399ed0e671d5973fc9309f56328@feriados-brasil
+DTSTAMP:20111120T000000Z
+DTSTART;VALUE=DATE:20111120
+DTEND;VALUE=DATE:20111121
+SUMMARY:Consciência Negra
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Dia da Consciência Negra. Ponto Facultativo de acordo com a Le
+ i Municipal 2484/2008
+END:VEVENT
+BEGIN:VEVENT
+UID:5176e6f4ca41a1408ede1fb324bf042a7bbeb5c5@feriados-brasil
+DTSTAMP:20111231T000000Z
+DTSTART;VALUE=DATE:20111231
+DTEND;VALUE=DATE:20120101
+SUMMARY:Após o meio-dia\, Véspera de Ano Novo
+CATEGORIES:FACULTATIVO
+DESCRIPTION:De acordo com o Decreto nº 18882-E de 01 de junho de 2015
+END:VEVENT
+BEGIN:VEVENT
+UID:3e3551a7c2f1f7cac1d4c9a6fead9d8430c9666f@feriados-brasil
+DTSTAMP:20111214T000000Z
+DTSTART;VALUE=DATE:20111214
+DTEND;VALUE=DATE:20111215
+SUMMARY:Aniversário de Jundiaí
+CATEGORIES:FACULTATIVO
+DESCRIPTION:Data comemorativa e ponto facultativo
+END:VEVENT
+END:VCALENDAR
