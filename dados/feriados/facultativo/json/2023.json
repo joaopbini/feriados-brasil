@@ -104,6 +104,14 @@
         "codigo_ibge": 5208905
     },
     {
+        "data": "01/09/2023",
+        "nome": "Dia da Beata Isabel Cristina",
+        "tipo": "FACULTATIVO",
+        "descricao": "Dia Municipal em homenagem à Beata Isabel Cristina (Ponto Facultativo na administração pública municipal), conforme Lei Municipal nº 5.217, de 30/05/2023",
+        "uf": "MG",
+        "codigo_ibge": 3105608
+    },
+    {
         "data": "15/10/2023",
         "nome": "Dia do Professor",
         "tipo": "FACULTATIVO",
