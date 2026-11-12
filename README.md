@@ -17,13 +17,14 @@ A **[Feriados API MCP](https://mcp.feriadosapi.com)** disponibiliza um servidor 
 https://mcp.feriadosapi.com/api/mcp
 ```
 
-7 ferramentas disponíveis diretamente para o seu agente:
+9 ferramentas disponíveis diretamente para o seu agente:
 
 - `buscar_feriados` — filtros por data, tipo, estado, município, ano e mês
 - `feriados_nacionais`, `feriados_por_estado`, `feriados_por_cidade`
+- `feriados_bancarios`, `verificar_dia_util_bancario`
 - `verificar_data`, `listar_estados`, `buscar_municipios`
 
-Cobre os 5.570 municípios e 27 estados brasileiros. Plano gratuito com 100 requisições/mês, sem cartão de crédito.
+Cobre todos os 5.571 municípios e 27 estados brasileiros. Plano Free vitalício (sem cartão de crédito) com acesso gratuito e ilimitado a feriados nacionais, estaduais, bancários (FEBRABAN) e das 27 capitais (rate limit de 60 req/min); municípios do interior disponíveis nos planos pagos.
 
 ---
 
